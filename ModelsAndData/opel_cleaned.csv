@@ -1,0 +1,2094 @@
+Title,Year,Type,Price,Engine type,Gearbox_type,Milage,City,Engine,Power
+Opel Zafira,2014,Vienatūris,6200,Dyzelinas,Mechaninė,218000,Klaipėda,1600,100
+Opel Zafira Tourer,2013,Vienatūris,7300,Benzinas,Mechaninė,113943,Kaunas,1400,88
+Opel Insignia,2016,Hečbekas,7500,Dyzelinas,Automatinė,274523,Vilnius,1600,100
+Opel Insignia,2018,Universalas,12700,Dyzelinas,Automatinė,240000,Vilnius,2000,125
+Opel Omega,2002,Universalas,350,Dyzelinas,Mechaninė,888888,Vilnius,2200,88
+Opel Astra,2003,Universalas,400,Dyzelinas,Mechaninė,268000,Vilnius,1700,55
+Opel Astra,2004,Hečbekas,500,Dyzelinas,Mechaninė,325000,Vilnius,1700,74
+Opel Meriva,2004,Vienatūris,850,Dyzelinas,Mechaninė,255000,Vilnius,1700,74
+Opel Meriva,2005,Vienatūris,950,Benzinas,Mechaninė,177907,Marijampolė,1600,74
+Opel Zafira,2004,Vienatūris,950,Dyzelinas,Automatinė,230000,Vilnius,2000,74
+Opel Astra,2009,Hečbekas,999,Dyzelinas,Mechaninė,340000,Vilnius,1700,74
+Opel Vectra,2004,Universalas,1100,Dyzelinas,Automatinė,390000,Šiauliai,3000,130
+Opel Astra,2003,Sedanas,1100,Dyzelinas,Mechaninė,254545,Vilnius,1700,55
+Opel Astra,2007,Hečbekas,1249,Dyzelinas,Mechaninė,380000,Kaunas,1900,74
+Opel Zafira,2004,Vienatūris,1250,Dyzelinas,Mechaninė,280000,Kaunas,2200,92
+Opel Insignia,2009,Hečbekas,1300,Dyzelinas,Automatinė,369389,Vilnius,2000,118
+Opel Zafira,2002,Vienatūris,1350,Benzinas,Mechaninė,202000,Marijampolė,1800,92
+Opel Meriva,2007,Vienatūris,1350,Benzinas,Mechaninė,210485,Marijampolė,1600,77
+Opel Meriva,2004,Vienatūris,1450,Dyzelinas,Mechaninė,147000,Vilnius,1700,74
+Opel Astra,2001,Kabrioletas,1450,Benzinas,Mechaninė,267000,Vilnius,1800,92
+Opel Astra,2007,Hečbekas,1499,Benzinas,Mechaninė,290000,Kaunas,1600,85
+Opel Vectra,2006,Sedanas,1500,Dyzelinas,Mechaninė,430000,Klaipėda,1900,88
+Opel Frontera,2003,Visureigis / Krosoveris,1550,Dyzelinas,Mechaninė,240000,Vilnius,2200,85
+Opel Meriva,2011,Vienatūris,1600,Dyzelinas,Mechaninė,293605,Vilnius,1700,96
+Opel Vectra,2008,Universalas,1650,Dyzelinas,Mechaninė,320000,Kaunas,1900,110
+Opel Vectra,2005,Universalas,1900,Dyzelinas,Mechaninė,233000,Šiauliai,1900,88
+Opel Zafira,2007,Vienatūris,1950,Dyzelinas,Mechaninė,293000,Kaunas,1900,88
+Opel Corsa,2009,Hečbekas,1999,Dyzelinas,Mechaninė,249000,Kaunas,1300,55
+Opel Astra,2010,Universalas,2050,Dyzelinas,Mechaninė,220000,Jurbarkas,1900,110
+Opel Frontera,2003,Visureigis / Krosoveris,2100,Dyzelinas,Mechaninė,300000,Vilnius,2200,88
+Opel Vectra,2006,Universalas,2100,Dyzelinas,Mechaninė,276714,Vilnius,1900,110
+Opel Zafira,2011,Vienatūris,2100,Benzinas,Automatinė,211765,Vilnius,1800,103
+Opel Vectra,2006,Universalas,2150,Benzinas,Mechaninė,224000,Ukmergė,1800,92
+Opel Astra,2005,Hečbekas,2150,Benzinas,Automatinė,223000,Kretinga,1600,77
+Opel Combo,2010,Vienatūris,2150,Benzinas,Mechaninė,209900,Radviliškis,1400,66
+Opel Astra,2009,Universalas,2250,Dyzelinas,Mechaninė,291000,Ukmergė,1300,66
+Opel Astra,2005,Hečbekas,2250,Benzinas,Automatinė,217000,Klaipėda,1600,77
+Opel Vivaro,2003,Vienatūris,2250,Dyzelinas,Mechaninė,292937,Kelmė,2500,99
+Opel Signum,2007,Hečbekas,2300,Dyzelinas,Automatinė,259000,Marijampolė,1900,110
+Opel Astra,2005,Hečbekas,2350,Benzinas,Mechaninė,177460,Šiauliai,1600,85
+Opel Signum,2004,Universalas,2400,Benzinas,Automatinė,135994,Kaunas,2200,114
+Opel Insignia,2011,Universalas,2400,Dyzelinas,Mechaninė,429581,Vilnius,2000,96
+Opel Insignia,2010,Universalas,2400,Dyzelinas,Mechaninė,248879,Vilnius,2000,96
+Opel Meriva,2006,Vienatūris,2400,Dyzelinas,Mechaninė,277624,Kaunas,1300,55
+Opel Astra,2007,Kupė (Coupe),2450,Dyzelinas,Mechaninė,238000,Kaunas,1700,92
+Opel Frontera,1999,Visureigis / Krosoveris,2450,Dyzelinas,Mechaninė,320000,Jurbarkas,2200,85
+Opel Corsa,2011,Hečbekas,2499,Dyzelinas,Mechaninė,220000,Jurbarkas,1300,55
+Opel Astra,2004,Hečbekas,2499,Benzinas,Automatinė,139976,Kretinga,1600,77
+Opel Vectra,2007,Universalas,2500,Dyzelinas,Automatinė,271207,Kėdainiai,1900,110
+Opel Zafira,2008,Vienatūris,2500,Dyzelinas,Mechaninė,280000,Tauragė,1700,92
+Opel Zafira,2007,Vienatūris,2550,Dyzelinas,Automatinė,330000,Kaunas,1900,88
+Opel Antara,2007,Visureigis / Krosoveris,2550,Dyzelinas,Mechaninė,190000,Šiauliai,2000,110
+Opel Insignia,2009,Sedanas,2598,Dyzelinas,Automatinė,328622,Vilnius,2000,96
+Opel Zafira,2005,Vienatūris,2600,Dyzelinas,Mechaninė,258144,Kėdainiai,1900,110
+Opel Astra,2010,Hečbekas,2600,Benzinas,Mechaninė,160000,Kaunas,1400,103
+Opel Frontera,2002,Visureigis / Krosoveris,2650,Dyzelinas,Mechaninė,288730,Vilnius,2200,88
+Opel Zafira,2011,Vienatūris,2650,Dyzelinas,Mechaninė,191000,Biržai,1700,81
+Opel Corsa,2012,Hečbekas,2699,Benzinas,Mechaninė,160000,Rokiškis,1200,63
+Opel Kadett,1991,Kabrioletas,2700,Benzinas,Automatinė,106000,Kaunas,1600,55
+Opel Insignia,2011,Universalas,2700,Dyzelinas,Mechaninė,266000,Kaunas,2000,81
+Opel Zafira,2008,Vienatūris,2750,Dyzelinas,Mechaninė,287500,Kaunas,1700,81
+Opel Corsa,2011,Hečbekas,2750,Benzinas,Mechaninė,102000,Telšiai,1200,63
+Opel Astra,2010,Hečbekas,2750,Benzinas,Mechaninė,110000,Kaunas,1600,85
+Opel Astra,2006,Hečbekas,2799,Dyzelinas,Mechaninė,190000,Kretinga,1300,66
+Opel Astra,2009,Hečbekas,2800,Dyzelinas,Mechaninė,218585,Kėdainiai,1700,81
+Opel Astra,2007,Kabrioletas,2800,Benzinas,Mechaninė,196000,Marijampolė,1800,103
+Opel Insignia,2012,Universalas,2800,Dyzelinas,Automatinė,286202,Vilnius,2000,118
+Opel Zafira,2008,Vienatūris,2899,Benzinas / dujos,Mechaninė,215000,Kretinga,1600,69
+Opel Insignia,2011,Universalas,2950,Dyzelinas,Automatinė,395000,Klaipėda,2000,118
+Opel Zafira,2010,Vienatūris,2950,Benzinas,Mechaninė,224301,Marijampolė,1800,103
+Opel Corsa,2013,Hečbekas,2990,Dyzelinas,Mechaninė,179000,Utena,1300,55
+Opel Astra,2011,Universalas,3000,Dyzelinas,Mechaninė,309960,Vilnius,1700,92
+Opel Meriva,2010,Hečbekas,3000,Dyzelinas,Automatinė,283962,Vilnius,1700,74
+Opel Zafira,2011,Vienatūris,3100,Dyzelinas,Mechaninė,287000,Utena,1700,81
+Opel Insignia,2011,Universalas,3100,Dyzelinas,Mechaninė,270000,Utena,2000,96
+Opel Zafira,2008,Vienatūris,3100,Dyzelinas,Mechaninė,420000,Utena,1900,110
+Opel Vivaro,2008,Vienatūris,3190,Dyzelinas,Mechaninė,252000,Klaipėda,2000,84
+Opel Zafira,2010,Vienatūris,3199,Dyzelinas,Mechaninė,164000,Jurbarkas,1700,81
+Opel Insignia,2011,Universalas,3200,Dyzelinas,Mechaninė,299214,Vilnius,2000,96
+Opel Astra,2010,Hečbekas,3200,Dyzelinas,Mechaninė,245000,Šiauliai,1700,92
+Opel Insignia,2011,Universalas,3300,Dyzelinas,Mechaninė,297450,Vilnius,2000,96
+Opel Insignia,2011,Universalas,3300,Dyzelinas,Mechaninė,363268,Vilnius,2000,118
+Opel Zafira,2008,Vienatūris,3300,Dyzelinas,Mechaninė,200000,Utena,1700,92
+Opel Antara,2010,Visureigis / Krosoveris,3300,Dyzelinas,Mechaninė,237745,Vilnius,2000,110
+Opel Astra,2010,Hečbekas,3330,Benzinas,Mechaninė,180000,Marijampolė,1600,85
+Opel Zafira,2008,Vienatūris,3350,Benzinas,Automatinė,204000,Ukmergė,2200,110
+Opel Antara,2007,Visureigis / Krosoveris,3400,Dyzelinas,Mechaninė,250000,Kaunas,2000,110
+Opel Insignia,2010,Universalas,3400,Dyzelinas,Mechaninė,291232,Vilnius,2000,118
+Opel Antara,2007,Visureigis / Krosoveris,3400,Dyzelinas,Mechaninė,182000,Kaunas,2000,110
+Opel Zafira,2008,Vienatūris,3450,Benzinas,Mechaninė,249171,Mažeikiai,1600,85
+Opel Astra,2011,Universalas,3490,Dyzelinas,Mechaninė,255000,Kaunas,1700,81
+Opel Insignia,2009,Universalas,3500,Dyzelinas,Automatinė,310000,Vilnius,2000,120
+Opel Insignia,2011,Universalas,3500,Dyzelinas,Mechaninė,147000,Marijampolė,2000,138
+Opel Insignia,2011,Universalas,3550,Dyzelinas,Mechaninė,223258,Tauragė,2000,118
+Opel Meriva,2011,Vienatūris,3650,Dyzelinas,Mechaninė,184000,Rokiškis,1700,81
+Opel Insignia,2010,Hečbekas,3699,Dyzelinas,Automatinė,270000,Jurbarkas,2000,96
+Opel Astra,1999,Kabrioletas,3700,Benzinas,Mechaninė,192992,Panevėžys,1600,55
+Opel Insignia,2008,Sedanas,3700,Dyzelinas,Automatinė,227258,Vilnius,2000,118
+Opel Astra,2012,Universalas,3750,Dyzelinas,Mechaninė,276000,Kaunas,1700,81
+Opel Zafira,2007,Vienatūris,3750,Dyzelinas,Mechaninė,193000,Kretinga,1900,88
+Opel Meriva,2011,Vienatūris,3750,Dyzelinas,Mechaninė,230650,Vilnius,1700,96
+Opel Zafira,2009,Vienatūris,3799,Dyzelinas,Mechaninė,299915,Kaunas,1700,92
+Opel Astra,2012,Universalas,3800,Dyzelinas,Mechaninė,204473,Kėdainiai,1300,70
+Opel Insignia,2009,Hečbekas,3800,Dyzelinas,Mechaninė,250000,Tauragė,2000,118
+Opel Astra,2011,Universalas,3800,Dyzelinas,Mechaninė,272796,Vilnius,1700,81
+Opel Insignia,2010,Universalas,3850,Dyzelinas,Automatinė,330000,Vilnius,2000,118
+Opel Zafira,2010,Vienatūris,3850,Dyzelinas,Mechaninė,259594,Kėdainiai,1700,81
+Opel Zafira,2009,Vienatūris,3850,Dyzelinas,Automatinė,283697,Kretinga,1900,110
+Opel Antara,2008,Visureigis / Krosoveris,3850,Benzinas,Automatinė,291000,Klaipėda,3200,167
+Opel Meriva,2011,Vienatūris,3900,Dyzelinas,Mechaninė,214472,Marijampolė,1700,96
+Opel Insignia,2009,Universalas,3900,Dyzelinas,Automatinė,279000,Klaipėda,2000,118
+Opel Insignia,2012,Universalas,3900,Dyzelinas,Automatinė,212369,Marijampolė,2000,143
+Opel Insignia,2011,Hečbekas,3950,Dyzelinas,Automatinė,350000,Vilnius,2000,118
+Opel Insignia,2009,Hečbekas,3950,Benzinas,Mechaninė,261000,Ukmergė,2800,191
+Opel Insignia,2009,Universalas,3950,Dyzelinas,Automatinė,240463,Kretinga,2000,118
+Opel Astra,2011,Universalas,3950,Dyzelinas,Mechaninė,255400,Utena,1700,92
+Opel Insignia,2010,Universalas,3999,Dyzelinas,Automatinė,369236,Kretinga,2000,118
+Opel Antara,2007,Visureigis / Krosoveris,3999,Dyzelinas,Mechaninė,333000,Vilnius,2000,110
+Opel Insignia,2009,Universalas,4000,Dyzelinas,Automatinė,269177,Vilnius,2000,118
+Opel Insignia,2010,Universalas,4000,Dyzelinas,Mechaninė,278578,Vilnius,2000,118
+Opel Meriva,2013,Vienatūris,4150,Benzinas,Mechaninė,154600,Utena,1400,88
+Opel Insignia,2012,Universalas,4200,Dyzelinas,Automatinė,243000,Marijampolė,2000,118
+Opel Vivaro,2011,Vienatūris,4290,Dyzelinas,Mechaninė,201000,Klaipėda,2000,84
+Opel Astra,2010,Hečbekas,4299,Dyzelinas,Mechaninė,181830,Kretinga,1700,92
+Opel Combo,2017,Krovininis mikroautobusas,4300,Dyzelinas,Mechaninė,273000,Tauragė,1600,77
+Opel Meriva,2011,Vienatūris,4300,Dyzelinas,Mechaninė,227521,Kretinga,1300,70
+Opel Insignia,2011,Universalas,4300,Dyzelinas,Mechaninė,241300,Vilnius,2000,118
+Opel Combo,2013,Vienatūris,4300,Dyzelinas,Mechaninė,414000,Tauragė,1600,77
+Opel Zafira,2013,Vienatūris,4350,Dyzelinas,Mechaninė,260000,Šiauliai,1700,81
+Opel Zafira,2013,Vienatūris,4350,Dyzelinas,Mechaninė,320069,Vilnius,2000,81
+Opel Insignia,2010,Universalas,4350,Dyzelinas,Automatinė,257554,Marijampolė,2000,118
+Opel Insignia,2011,Universalas,4350,Dyzelinas,Automatinė,229300,Kaunas,2000,96
+Opel Astra,2012,Universalas,4400,Benzinas,Automatinė,201700,Vilnius,1400,103
+Opel Insignia,2011,Sedanas,4450,Dyzelinas,Mechaninė,146250,Kaunas,2000,118
+Opel Insignia,2012,Universalas,4600,Dyzelinas,Automatinė,295406,Vilnius,2000,118
+Opel Insignia,2010,Sedanas,4650,Dyzelinas,Mechaninė,177000,Utena,2000,96
+Opel Insignia,2014,Universalas,4650,Dyzelinas,Mechaninė,329687,Telšiai,2000,103
+Opel Antara,2012,Visureigis / Krosoveris,4700,Dyzelinas,Mechaninė,277184,Panevėžys,2200,135
+Opel Corsa,2013,Hečbekas,4700,Dyzelinas,Mechaninė,190608,Kaunas,1200,70
+Opel Astra,2012,Kupė (Coupe),4750,Benzinas,Mechaninė,214000,Ukmergė,1400,103
+Opel Astra,2010,Hečbekas,4750,Dyzelinas,Mechaninė,200000,Vilnius,2000,118
+Opel Insignia,2013,Universalas,4800,Dyzelinas,Mechaninė,201000,Tauragė,2000,118
+Opel Insignia,2013,Universalas,4800,Dyzelinas,Automatinė,282318,Vilnius,2000,120
+Opel Astra,2015,Universalas,4850,Benzinas / dujos,Mechaninė,210000,Kaunas,1400,103
+Opel Combo,2016,Vienatūris,4890,Dyzelinas,Mechaninė,269874,Vilnius,1600,77
+Opel Antara,2011,Vienatūris,4900,Dyzelinas,Automatinė,225468,Telšiai,2200,135
+Opel Combo,2016,Vienatūris,4900,Dyzelinas,Mechaninė,184000,Kaunas,1600,77
+Opel Insignia,2012,Universalas,4900,Dyzelinas,Mechaninė,289000,Marijampolė,2000,143
+Opel Insignia,2017,Hečbekas,4950,Dyzelinas,Automatinė,340000,Elektrėnai,1600,100
+Opel Astra,2011,Hečbekas,4950,Benzinas,Mechaninė,182337,Kaunas,1600,85
+Opel Corsa,2015,Hečbekas,4990,Dyzelinas,Mechaninė,186455,Vilnius,1300,70
+Opel Insignia,2009,Universalas,4999,Dyzelinas,Automatinė,265181,Kretinga,2000,118
+Opel Astra,2008,Hečbekas,4999,Dyzelinas,Automatinė,132000,Vilnius,1900,88
+Opel Meriva,2011,Vienatūris,5199,Benzinas,Mechaninė,140640,Kretinga,1400,88
+Opel Vivaro,2014,Krovininis mikroautobusas,5200,Dyzelinas,Mechaninė,212000,Šiauliai,2000,84
+Opel Astra,2017,Universalas,5200,Dyzelinas,Mechaninė,260000,Tauragė,1600,81
+Opel Astra,2015,Hečbekas,5250,Dyzelinas,Mechaninė,201000,Utena,1600,81
+Opel Insignia,2010,Hečbekas,5299,Dyzelinas,Automatinė,293416,Kėdainiai,2000,96
+Opel Astra,2011,Hečbekas,5300,Benzinas,Automatinė,207000,Utena,1600,85
+Opel Insignia,2011,Universalas,5300,Dyzelinas,Mechaninė,287646,Klaipėda,2000,96
+Opel Astra,2011,Universalas,5400,Benzinas,Automatinė,158537,Vilnius,1400,103
+Opel Antara,2009,Visureigis / Krosoveris,5400,Dyzelinas,Mechaninė,238975,Mažeikiai,2000,110
+Opel Zafira,2012,Vienatūris,5400,Dyzelinas,Mechaninė,304496,Kaunas,1700,81
+Opel Insignia,2012,Universalas,5499,Dyzelinas,Automatinė,276230,Kretinga,2000,118
+Opel Antara,2010,Visureigis / Krosoveris,5500,Dyzelinas,Automatinė,327980,Jonava,2000,110
+Opel Insignia,2010,Universalas,5500,Dyzelinas,Automatinė,214000,Tauragė,2000,120
+Opel Insignia,2012,Universalas,5600,Dyzelinas,Mechaninė,265609,Marijampolė,2000,118
+Opel Zafira,2013,Vienatūris,5600,Dyzelinas,Mechaninė,217000,Tauragė,2000,81
+Opel Combo,2014,Vienatūris,5650,Dyzelinas,Mechaninė,336200,Utena,1600,77
+Opel Astra,2018,Hečbekas,5650,Dyzelinas,Mechaninė,250000,Šiauliai,1600,100
+Opel Meriva,2013,Vienatūris,5650,Benzinas,Mechaninė,88000,Marijampolė,1400,88
+Opel Astra,2014,Hečbekas,5699,Benzinas,Mechaninė,72000,Jurbarkas,1600,125
+Opel Vivaro,2013,Komercinis,5700,Dyzelinas,Mechaninė,242390,Tauragė,2000,84
+Opel Insignia,2014,Universalas,5700,Dyzelinas,Mechaninė,281000,Pakruojis,2000,120
+Opel Insignia,2011,Universalas,5750,Dyzelinas,Automatinė,224887,Marijampolė,2000,118
+Opel Insignia,2017,Universalas,5750,Dyzelinas,Automatinė,258000,Ukmergė,1600,100
+Opel Mokka,2016,Visureigis / Krosoveris,5750,Dyzelinas,Mechaninė,198000,Kaunas,1600,100
+Opel Mokka,2013,Visureigis / Krosoveris,5799,Dyzelinas,Mechaninė,193000,Klaipėda,1700,96
+Opel Astra,2015,Universalas,5799,Dyzelinas,Mechaninė,191815,Kėdainiai,1600,81
+Opel Insignia,2015,Universalas,5800,Dyzelinas,Mechaninė,287000,Marijampolė,2000,103
+Opel Antara,2012,Visureigis / Krosoveris,5850,Dyzelinas,Automatinė,176000,Marijampolė,2200,135
+Opel Astra,2012,Hečbekas,5899,Benzinas,Mechaninė,109534,Kretinga,1600,85
+Opel Zafira Tourer,2011,Vienatūris,5900,Dyzelinas,Mechaninė,257612,Tauragė,2000,121
+Opel Insignia,2014,Universalas,5900,Dyzelinas,Mechaninė,226100,Vilkaviškis,2000,103
+Opel Insignia,2015,Hečbekas,5900,Dyzelinas,Mechaninė,195000,Kaunas,2000,103
+Opel Antara,2011,Visureigis / Krosoveris,5900,Dyzelinas,Mechaninė,182000,Vilnius,2200,120
+Opel Astra,2016,Universalas,5950,Dyzelinas,Mechaninė,181000,Kaunas,1600,81
+Opel Zafira Tourer,2013,Vienatūris,5990,Dyzelinas,Mechaninė,206000,Utena,2000,121
+Opel Insignia,2013,Universalas,5999,Dyzelinas,Mechaninė,280000,Vilnius,2000,120
+Opel Insignia,2012,Universalas,5999,Dyzelinas,Automatinė,244254,Marijampolė,2000,143
+Opel Insignia,2013,Universalas,5999,Dyzelinas,Mechaninė,270805,Marijampolė,2000,120
+Opel Insignia,2011,Universalas,5999,Dyzelinas,Automatinė,227777,Marijampolė,2000,118
+Opel Astra,2015,Universalas,5999,Dyzelinas,Mechaninė,268478,Kretinga,2000,121
+Opel Insignia,2012,Universalas,5999,Dyzelinas,Mechaninė,250000,Vilnius,2000,118
+Opel Zafira Tourer,2013,Vienatūris,6099,Dyzelinas,Mechaninė,217000,Marijampolė,2000,121
+Opel Insignia,2011,Universalas,6100,Dyzelinas,Automatinė,201000,Vilnius,2000,96
+Opel Adam,2016,Hečbekas,6150,Benzinas,Mechaninė,53008,Marijampolė,1400,74
+Opel Cascada,2013,Kabrioletas,6250,Dyzelinas,Mechaninė,259100,Vilnius,2000,121
+Opel Corsa,2018,Hečbekas,6292,Dyzelinas,Mechaninė,160000,Klaipėda,1300,55
+Opel Meriva,2011,Vienatūris,6300,Dyzelinas,Mechaninė,203391,Kaunas,1700,81
+Opel Zafira,2013,Vienatūris,6350,Dyzelinas,Automatinė,254552,Kaunas,2000,121
+Opel Zafira Tourer,2014,Vienatūris,6390,Dyzelinas,Mechaninė,248000,Vilnius,1600,100
+Opel Insignia,2014,Universalas,6400,Dyzelinas,Automatinė,287000,Vilkaviškis,2000,120
+Opel Vivaro,2008,Keleivinis mikroautobusas,6400,Dyzelinas,Automatinė,285000,Klaipėda,2000,107
+Opel Antara,2012,Visureigis / Krosoveris,6500,Dyzelinas,Automatinė,210000,Klaipėda,2200,120
+Opel Antara,2012,Visureigis / Krosoveris,6500,Dyzelinas,Automatinė,194873,Klaipėda,2200,120
+Opel Astra,2016,Sedanas,6500,Benzinas,Mechaninė,100102,Plungė,1400,103
+Opel Meriva,2014,Vienatūris,6500,Benzinas,Automatinė,167666,Telšiai,1400,88
+Opel Insignia,2013,Hečbekas,6500,Dyzelinas,Mechaninė,256000,Klaipėda,2000,103
+Opel Insignia,2013,Universalas,6500,Dyzelinas,Mechaninė,290991,Kaunas,2000,143
+Opel Meriva,2015,Vienatūris,6500,Dyzelinas,Mechaninė,192000,Vilnius,1600,81
+Opel Zafira Tourer,2013,Vienatūris,6500,Dyzelinas,Mechaninė,259000,Kaunas,1600,100
+Opel Astra,2006,Hečbekas,6550,Benzinas,Mechaninė,170000,Kaunas,2000,180
+Opel Antara,2011,Visureigis / Krosoveris,6600,Dyzelinas,Automatinė,118791,Telšiai,2200,135
+Opel Antara,2014,Visureigis / Krosoveris,6650,Dyzelinas,Mechaninė,191000,Utena,2200,120
+Opel Insignia,2014,Universalas,6650,Dyzelinas,Automatinė,237913,Kretinga,2000,120
+Opel Zafira Tourer,2013,Vienatūris,6750,Dyzelinas,Mechaninė,270000,Šiauliai,2000,96
+Opel Astra,2016,Universalas,6750,Dyzelinas,Mechaninė,246000,Kaunas,1600,81
+Opel Vivaro,2017,Krovininis mikroautobusas,6750,Dyzelinas,Mechaninė,166335,Radviliškis,1600,92
+Opel Insignia,2014,Universalas,6850,Dyzelinas,Mechaninė,246760,Kėdainiai,2000,103
+Opel Antara,2012,Vienatūris,6850,Dyzelinas,Mechaninė,184000,Kretinga,2200,120
+Opel Antara,2011,Visureigis / Krosoveris,6850,Dyzelinas,Automatinė,231500,Kretinga,2200,135
+Opel Astra,2017,Universalas,6897,Dyzelinas,Mechaninė,188000,Kaunas,1600,81
+Opel Mokka,2014,Visureigis / Krosoveris,6900,Dyzelinas,Automatinė,227300,Vilnius,1700,96
+Opel Insignia,2014,Universalas,6900,Dyzelinas,Mechaninė,198000,Vilnius,2000,88
+Opel Astra,2020,Hečbekas,6950,Dyzelinas,Mechaninė,189900,Vilnius,1500,77
+Opel Zafira Tourer,2014,Vienatūris,6950,Dyzelinas,Mechaninė,212000,Marijampolė,1600,100
+Opel Astra,2018,Universalas,6950,Dyzelinas,Mechaninė,232000,Kaunas,1600,81
+Opel Insignia,2014,Hečbekas,6999,Dyzelinas,Automatinė,254168,Kretinga,2000,120
+Opel Zafira Tourer,2013,Vienatūris,6999,Dyzelinas,Mechaninė,268000,Marijampolė,2000,143
+Opel Mokka,2015,Visureigis / Krosoveris,7000,Dyzelinas,Mechaninė,244172,Kazlų Rūda,1600,100
+Opel Meriva,2012,Vienatūris,7150,Benzinas,Automatinė,111626,Kaunas,1400,88
+Opel Insignia,2014,Hečbekas,7200,Dyzelinas,Automatinė,253781,Tauragė,2000,143
+Opel Insignia,2014,Universalas,7200,Dyzelinas,Automatinė,193883,Kaunas,2000,103
+Opel Zafira,2013,Vienatūris,7200,Dyzelinas,Mechaninė,207831,Kaunas,1600,100
+Opel Insignia,2014,Universalas,7350,Dyzelinas,Mechaninė,221000,Klaipėda,2000,120
+Opel Insignia,2014,Universalas,7400,Dyzelinas,Mechaninė,339637,Kaunas,2000,103
+Opel Insignia,2016,Universalas,7450,Dyzelinas,Automatinė,268800,Kėdainiai,1600,100
+Opel Insignia,2016,Universalas,7450,Dyzelinas,Automatinė,236000,Marijampolė,2000,125
+Opel Meriva,2016,Vienatūris,7500,Benzinas,Mechaninė,80000,Šiauliai,1400,88
+Opel Combo,2022,Vienatūris,7500,Dyzelinas,Mechaninė,199000,Marijampolė,1500,75
+Opel Ampera,2012,Hečbekas,7500,Benzinas / elektra,Automatinė,266700,Alytus,1400,111
+Opel Mokka,2015,Visureigis / Krosoveris,7500,Dyzelinas,Mechaninė,200000,Tauragė,1700,96
+Opel Combo,2019,Vienatūris,7550,Dyzelinas,Mechaninė,199249,Marijampolė,1500,56
+Opel Zafira Tourer,2015,Vienatūris,7599,Dyzelinas,Mechaninė,198434,Kretinga,2000,125
+Opel Zafira Tourer,2015,Vienatūris,7650,Dyzelinas,Automatinė,244000,Marijampolė,2000,96
+Opel Astra,2019,Universalas,7750,Dyzelinas,Mechaninė,202000,Kretinga,1600,81
+Opel Zafira,2013,Vienatūris,7800,Dyzelinas,Mechaninė,272809,Kaunas,2000,96
+Opel Zafira Tourer,2016,Vienatūris,7850,Dyzelinas,Automatinė,232000,Marijampolė,2000,96
+Opel Antara,2016,Visureigis / Krosoveris,7850,Dyzelinas,Automatinė,232000,Kaunas,2000,125
+Opel Insignia,2015,Universalas,7900,Dyzelinas,Automatinė,286681,Vilnius,2000,96
+Opel Zafira,2014,Vienatūris,7950,Dyzelinas,Mechaninė,250000,Šiauliai,1600,100
+Opel Insignia,2015,Sedanas,7950,Dyzelinas,Automatinė,279658,Marijampolė,2000,143
+Opel Astra,2016,Hečbekas,7950,Dyzelinas,Mechaninė,134946,Kaunas,1600,81
+Opel Astra,2017,Hečbekas,8000,Dyzelinas,Mechaninė,193305,Tauragė,1600,100
+Opel Astra,2016,Universalas,8100,Dyzelinas,Mechaninė,216599,Vilnius,1600,81
+Opel Mokka,2013,Visureigis / Krosoveris,8200,Dyzelinas,Automatinė,175408,Telšiai,1700,96
+Opel Insignia,2014,Universalas,8200,Dyzelinas,Automatinė,208000,Klaipėda,2000,120
+Opel Vivaro,2008,Vienatūris,8200,Dyzelinas,Mechaninė,193582,Kėdainiai,2000,84
+Opel Zafira,2014,Vienatūris,8200,Dyzelinas,Mechaninė,273474,Kaunas,2000,96
+Opel Astra,2018,Universalas,8349,Dyzelinas,Mechaninė,213000,Kaunas,1600,100
+Opel Astra,2019,Universalas,8349,Benzinas,Mechaninė,188000,Kaunas,1000,77
+Opel Astra,2018,Universalas,8349,Dyzelinas,Mechaninė,197000,Kaunas,1600,100
+Opel Zafira Tourer,2015,Vienatūris,8350,Dyzelinas,Mechaninė,176758,Marijampolė,2000,125
+Opel Mokka X,2017,Visureigis / Krosoveris,8350,Dyzelinas,Automatinė,205000,Kaunas,1600,100
+Opel Insignia,2018,Universalas,8400,Dyzelinas,Mechaninė,301000,Kaunas,1600,100
+Opel Crossland X,2018,Vienatūris,8400,Dyzelinas,Mechaninė,265000,Kaunas,1500,75
+Opel Vivaro,2018,Komercinis,8400,Dyzelinas,Mechaninė,246000,Pakruojis,1600,92
+Opel Astra,2019,Universalas,8400,Benzinas,Mechaninė,200252,Kaunas,1400,110
+Opel Astra,2019,Hečbekas,8469,Dyzelinas,Mechaninė,139000,Kaunas,1600,81
+Opel Insignia,2014,Universalas,8500,Dyzelinas,Automatinė,227207,Kaunas,2000,143
+Opel Insignia,2016,Universalas,8500,Dyzelinas,Mechaninė,298607,Kaunas,1600,100
+Opel Astra,2020,Universalas,8550,Dyzelinas,Mechaninė,214000,Kretinga,1500,77
+Opel Mokka,2013,Visureigis / Krosoveris,8600,Dyzelinas,Automatinė,199682,Vilnius,1700,96
+Opel Mokka,2013,Visureigis / Krosoveris,8699,Dyzelinas,Automatinė,247852,Kretinga,1700,96
+Opel Mokka,2013,Visureigis / Krosoveris,8700,Dyzelinas,Mechaninė,1752152,Kaunas,1700,96
+Opel Insignia,2018,Universalas,8750,Dyzelinas,Mechaninė,329768,Marijampolė,1600,81
+Opel Astra,2019,Universalas,8750,Dyzelinas,Mechaninė,144000,Rokiškis,1600,81
+Opel Astra,2019,Universalas,8798,Dyzelinas,Mechaninė,145000,Marijampolė,1600,100
+Opel Mokka,2016,Visureigis / Krosoveris,8900,Benzinas,Automatinė,171310,Kretinga,1400,103
+Opel Astra,2017,Hečbekas,8900,Dyzelinas,Mechaninė,188961,Kaunas,1600,70
+Opel Insignia,2014,Universalas,8900,Dyzelinas,Automatinė,291000,Vilnius,2000,120
+Opel Astra,2019,Universalas,8900,Dyzelinas,Automatinė,152000,Kaunas,1500,90
+Opel Insignia,2011,Universalas,8950,Benzinas,Automatinė,198000,Klaipėda,2800,239
+Opel Zafira,2016,Vienatūris,8950,Dyzelinas,Mechaninė,160340,Kaunas,2000,125
+Opel Astra,2019,Universalas,8954,Benzinas,Mechaninė,158000,Kaunas,1000,77
+Opel Crossland X,2019,Visureigis / Krosoveris,8990,Benzinas,Mechaninė,138000,Šiauliai,1200,61
+Opel Mokka,2013,Visureigis / Krosoveris,8999,Dyzelinas,Automatinė,92000,Klaipėda,1700,96
+Opel Mokka X,2018,Visureigis / Krosoveris,9000,Dyzelinas,Mechaninė,189300,Panevėžys,1600,100
+Opel Astra,2017,Universalas,9000,Dyzelinas,Mechaninė,200500,Kaunas,1600,100
+Opel Ampera,2012,Hečbekas,9000,Benzinas / elektra,Automatinė,234833,Vilnius,1400,111
+Opel Astra,2019,Universalas,9063,Dyzelinas,Mechaninė,198267,Marijampolė,1500,90
+Opel Astra,2021,Universalas,9075,Dyzelinas,Mechaninė,126299,Vilnius,1500,77
+Opel Astra,2020,Universalas,9100,Dyzelinas,Mechaninė,239000,Vilnius,1500,90
+Opel Crossland X,2018,Visureigis / Krosoveris,9200,Benzinas,Mechaninė,160000,Tauragė,1200,96
+Opel Insignia,2019,Universalas,9299,Dyzelinas,Mechaninė,387847,Kretinga,1600,100
+Opel Crossland X,2019,Visureigis / Krosoveris,9317,Dyzelinas,Mechaninė,210000,Kaunas,1500,75
+Opel Astra,2020,Universalas,9317,Benzinas,Mechaninė,183000,Kaunas,1200,81
+Opel Astra,2016,Hečbekas,9500,Benzinas,Automatinė,165996,Klaipėda,1000,77
+Opel Astra,2020,Universalas,9500,Benzinas,Mechaninė,188600,Marijampolė,1200,107
+Opel Corsa,2021,Hečbekas,9559,Benzinas,Mechaninė,111000,Kaunas,1200,55
+Opel Mokka,2013,Visureigis / Krosoveris,9800,Dyzelinas,Mechaninė,210885,Kaunas,1700,96
+Opel Movano,2015,Keleivinis mikroautobusas,9890,Dyzelinas,Automatinė,200000,Klaipėda,2300,92
+Opel Insignia,2019,Hečbekas,9900,Benzinas,Mechaninė,201000,Tauragė,1600,147
+Opel Zafira Tourer,2016,Vienatūris,9900,Benzinas,Mechaninė,104705,Vilnius,1400,103
+Opel Cascada,2015,Kabrioletas,9900,Benzinas,Mechaninė,136300,Vilnius,1400,103
+Opel Insignia,2018,Universalas,9900,Dyzelinas,Mechaninė,200000,Vilnius,1600,100
+Opel Zafira Tourer,2019,Vienatūris,9999,Dyzelinas,Automatinė,252775,Klaipėda,2000,125
+Opel Zafira,2017,Vienatūris,9999,Dyzelinas,Automatinė,185000,Klaipėda,2000,96
+Opel Insignia,2015,Universalas,10000,Benzinas,Automatinė,224227,Kaunas,2000,184
+Opel Mokka,2014,Visureigis / Krosoveris,10300,Dyzelinas,Mechaninė,256461,Kaunas,1700,96
+Opel Insignia,2021,Universalas,10500,Dyzelinas,Automatinė,111392,Šiauliai,2000,128
+Opel Mokka,2016,Visureigis / Krosoveris,10500,Benzinas,Automatinė,101038,Kretinga,1400,114
+Opel Insignia,2018,Universalas,10500,Dyzelinas,Mechaninė,187000,Tauragė,2000,125
+Opel Mokka,2014,Visureigis / Krosoveris,10500,Dyzelinas,Automatinė,150000,Vilnius,1700,96
+Opel Mokka,2014,Visureigis / Krosoveris,10600,Dyzelinas,Mechaninė,209021,Kaunas,1700,96
+Opel Mokka,2016,Visureigis / Krosoveris,10600,Dyzelinas,Automatinė,178000,Vilnius,1600,100
+Opel Astra,2020,Universalas,10648,Dyzelinas,Mechaninė,155000,Marijampolė,1500,90
+Opel Astra,2020,Universalas,10650,Dyzelinas,Mechaninė,142387,Vilnius,1500,90
+Opel Insignia,2018,Hečbekas,10700,Benzinas,Automatinė,205319,Panevėžys,1500,121
+Opel Astra,2020,Universalas,10709,Dyzelinas,Automatinė,179300,Vilnius,1500,90
+Opel Zafira Tourer,2019,Vienatūris,10769,Dyzelinas,Mechaninė,255000,Kaunas,1600,100
+Opel Mokka,2015,Visureigis / Krosoveris,10777,Dyzelinas,Automatinė,150000,Vilnius,1600,100
+Opel Grandland X,2018,Visureigis / Krosoveris,10777,Benzinas,Automatinė,175000,Kaunas,1200,96
+Opel Insignia,2016,Universalas,10850,Dyzelinas,Automatinė,165000,Vilnius,2000,125
+Opel Astra,2020,Universalas,10850,Dyzelinas,Automatinė,147000,Vilnius,1500,90
+Opel Astra,2018,Universalas,10900,Dyzelinas,Automatinė,83939,Vilnius,1600,100
+Opel Astra,2017,Hečbekas,10900,Benzinas,Mechaninė,127838,Vilnius,1600,147
+Opel Astra,2020,Hečbekas,10900,Benzinas,Mechaninė,55000,Telšiai,1200,96
+Opel Insignia,2018,Universalas,10999,Dyzelinas,Mechaninė,184600,Vilnius,1600,100
+Opel Insignia,2017,Universalas,10999,Dyzelinas,Mechaninė,247000,Marijampolė,2000,125
+Opel Vivaro,2019,Krovininis mikroautobusas,11192,Dyzelinas,Mechaninė,209081,Radviliškis,1600,92
+Opel Combo,2019,Vienatūris,11250,Dyzelinas,Mechaninė,180000,Kaunas,1500,75
+Opel Insignia,2019,Universalas,11495,Benzinas,Automatinė,192000,Kaunas,1500,121
+Opel Crossland X,2019,Visureigis / Krosoveris,11500,Dyzelinas,Automatinė,199000,Kaunas,1500,88
+Opel Insignia,2021,Hečbekas,11500,Dyzelinas,Automatinė,221350,Tauragė,2000,128
+Opel Insignia,2020,Universalas,11600,Dyzelinas,Automatinė,192800,Klaipėda,1600,100
+Opel Mokka X,2017,Visureigis / Krosoveris,11700,Benzinas,Automatinė,160000,Ukmergė,1400,103
+Opel Grandland X,2020,Visureigis / Krosoveris,11737,Benzinas,Mechaninė,214000,Kaunas,1200,96
+Opel Insignia,2018,Universalas,11850,Dyzelinas,Automatinė,248169,Vilnius,1600,100
+Opel Insignia,2019,Universalas,11900,Dyzelinas,Automatinė,199000,Vilnius,2000,125
+Opel Zafira,2018,Vienatūris,11900,Dyzelinas,Automatinė,215964,Kaunas,2000,96
+Opel Vivaro,2016,Keleivinis mikroautobusas,11950,Dyzelinas,Mechaninė,274314,Marijampolė,1600,92
+Opel Mokka,2016,Visureigis / Krosoveris,11990,Benzinas,Automatinė,75350,Kaunas,1400,103
+Opel Insignia,2018,Hečbekas,12200,Dyzelinas,Automatinė,175000,Tauragė,1600,100
+Opel Insignia,2019,Universalas,12200,Dyzelinas,Automatinė,154890,Marijampolė,2000,125
+Opel Insignia,2018,Universalas,12400,Dyzelinas,Mechaninė,175000,Klaipėda,2000,125
+Opel Crossland X,2018,Visureigis / Krosoveris,12500,Benzinas,Automatinė,138300,Vilnius,1200,81
+Opel Insignia,2019,Universalas,12500,Dyzelinas,Automatinė,123478,Panevėžys,1600,100
+Opel Grandland X,2019,Visureigis / Krosoveris,12500,Dyzelinas,Automatinė,176000,Tauragė,1500,96
+Opel Astra,2017,Universalas,12551,Benzinas,Automatinė,149930,Klaipėda,1400,110
+Opel Mokka X,2019,Visureigis / Krosoveris,12600,Benzinas,Automatinė,81914,Kretinga,1400,103
+Opel Astra,2020,Universalas,12693,Dyzelinas,Automatinė,111600,Vilnius,1500,90
+Opel Vivaro,2017,Keleivinis mikroautobusas,12800,Dyzelinas,Mechaninė,344143,Vilnius,1600,92
+Opel Insignia,2018,Hečbekas,12900,Dyzelinas,Mechaninė,164600,Vilnius,1600,81
+Opel Crossland X,2018,Visureigis / Krosoveris,12950,Benzinas,Automatinė,79000,Šiauliai,1200,81
+Opel Mokka X,2018,Visureigis / Krosoveris,12950,Benzinas,Mechaninė,104359,Vilnius,1600,85
+Opel Mokka X,2017,Visureigis / Krosoveris,12999,Benzinas,Automatinė,73433,Kretinga,1400,103
+Opel Mokka X,2019,Visureigis / Krosoveris,13000,Benzinas,Automatinė,31391,Panevėžys,1400,103
+Opel Grandland X,2018,Visureigis / Krosoveris,13189,Dyzelinas,Mechaninė,199000,Kaunas,1600,88
+Opel Grandland X,2019,Visureigis / Krosoveris,13189,Benzinas,Automatinė,193000,Kaunas,1200,96
+Opel Mokka X,2020,Visureigis / Krosoveris,13499,Benzinas,Automatinė,67157,Kretinga,1400,103
+Opel Mokka X,2018,Visureigis / Krosoveris,13500,Benzinas,Automatinė,113378,Kretinga,1400,103
+Opel Grandland X,2018,Visureigis / Krosoveris,13599,Dyzelinas,Automatinė,170000,Klaipėda,1600,88
+Opel Insignia,2018,Universalas,13800,Dyzelinas,Automatinė,155000,Vilnius,2000,125
+Opel Insignia,2017,Hečbekas,13850,Dyzelinas,Mechaninė,237000,Marijampolė,2000,125
+Opel Insignia,2018,Universalas,13999,Dyzelinas,Mechaninė,118493,Kretinga,2000,125
+Opel Insignia,2021,Universalas,14200,Dyzelinas,Automatinė,212111,Kaunas,2000,128
+Opel Crossland X,2020,Visureigis / Krosoveris,14218,Dyzelinas,Automatinė,150000,Šiauliai,1500,88
+Opel Mokka X,2019,Visureigis / Krosoveris,14300,Benzinas,Automatinė,46846,Kretinga,1400,109
+Opel Mokka X,2017,Visureigis / Krosoveris,14472,Benzinas,Automatinė,125156,Kaunas,1400,103
+Opel Combo,2021,Vienatūris,14505,Dyzelinas,Mechaninė,122327,Vilnius,1500,75
+Opel Insignia,2021,Hečbekas,14700,Dyzelinas,Automatinė,171600,Tauragė,2000,128
+Opel Grandland X,2019,Visureigis / Krosoveris,14762,Dyzelinas,Mechaninė,188000,Marijampolė,1500,96
+Opel Vivaro,2015,Keleivinis mikroautobusas,14799,Dyzelinas,Mechaninė,197242,Kretinga,1600,85
+Opel Insignia,2018,Hečbekas,14900,Benzinas,Automatinė,135900,Klaipėda,1500,121
+Opel Grandland X,2019,Visureigis / Krosoveris,14999,Dyzelinas,Automatinė,193549,Klaipėda,1500,96
+Opel Vivaro,2015,Vienatūris,14999,Dyzelinas,Mechaninė,243000,Klaipėda,1600,103
+Opel Mokka X,2020,Visureigis / Krosoveris,14999,Benzinas,Automatinė,32496,Kretinga,1400,103
+Opel Mokka X,2021,Visureigis / Krosoveris,15300,Benzinas,Automatinė,39854,Kretinga,1400,103
+Opel Insignia,2022,Universalas,15600,Dyzelinas,Automatinė,178234,Kaunas,2000,128
+Opel Crossland X,2019,Visureigis / Krosoveris,15730,Dyzelinas,Mechaninė,53000,Marijampolė,1500,75
+Opel Grandland X,2019,Visureigis / Krosoveris,15800,Dyzelinas,Automatinė,182177,Vilnius,2000,130
+Opel Grandland X,2019,Visureigis / Krosoveris,15850,Dyzelinas,Automatinė,166578,Marijampolė,1500,96
+Opel Grandland X,2020,Visureigis / Krosoveris,16214,Dyzelinas,Automatinė,138542,Vilnius,1500,96
+Opel Insignia,2019,Universalas,16490,Dyzelinas,Automatinė,136000,Šiauliai,2000,125
+Opel Crossland,2022,Visureigis / Krosoveris,16500,Benzinas,Automatinė,42000,Vilnius,1200,96
+Opel Grandland X,2021,Visureigis / Krosoveris,16697,Dyzelinas,Automatinė,178000,Vilnius,1500,96
+Opel Vivaro,2017,Keleivinis mikroautobusas,16899,Dyzelinas,Mechaninė,281415,Kretinga,1600,92
+Opel Crossland,2022,Visureigis / Krosoveris,16900,Benzinas,Automatinė,36217,Vilnius,1200,96
+Opel Mokka,2022,Visureigis / Krosoveris,16990,Benzinas,Automatinė,2500,Vilnius,1400,114
+Opel Grandland X,2020,Visureigis / Krosoveris,17800,Dyzelinas,Automatinė,178500,Šiauliai,2000,130
+Opel Grandland X,2018,Visureigis / Krosoveris,17900,Dyzelinas,Automatinė,98500,Vilnius,2000,130
+Opel Insignia,2020,Universalas,17990,Dyzelinas,Automatinė,135880,Šiauliai,2000,128
+Opel Insignia,2020,Hečbekas,18000,Dyzelinas,Automatinė,91039,Vilnius,2000,154
+Opel Insignia,2020,Universalas,18100,Benzinas,Automatinė,171000,Vilnius,1500,121
+Opel Insignia,2019,Hečbekas,18572,Dyzelinas,Automatinė,97150,Šiauliai,2000,125
+Opel Corsa,2023,Hečbekas,18950,Benzinas,Automatinė,2793,Vilnius,1200,96
+Opel Vivaro,2021,Keleivinis mikroautobusas,18950,Dyzelinas,Mechaninė,196204,Kaunas,1500,88
+Opel Insignia,2021,Universalas,19900,Dyzelinas,Automatinė,120454,Vilnius,2000,129
+Opel Grandland X,2019,Visureigis / Krosoveris,19990,Dyzelinas,Automatinė,84000,Šiauliai,2000,130
+Opel Mokka,2021,Visureigis / Krosoveris,20200,Benzinas,Automatinė,30932,Vilnius,1200,96
+Opel Mokka,2021,Visureigis / Krosoveris,20400,Benzinas,Mechaninė,13772,Vilnius,1200,96
+Opel Mokka,2021,Visureigis / Krosoveris,20900,Benzinas,Automatinė,74465,Vilnius,1200,96
+Opel Mokka,2023,Visureigis / Krosoveris,21900,Benzinas,Automatinė,4200,Vilnius,1200,96
+Opel Insignia,2022,Universalas,22500,Dyzelinas,Automatinė,69500,Vilnius,2000,128
+Opel Mokka,2024,Visureigis / Krosoveris,22990,Benzinas,Mechaninė,5,Vilnius,1200,74
+Opel Astra,2016,Hečbekas,23490,Benzinas,Mechaninė,32000,Vilnius,2000,206
+Opel Vivaro,2020,Keleivinis mikroautobusas,24100,Dyzelinas,Mechaninė,226000,Vilnius,1500,88
+Opel Mokka,2024,Visureigis / Krosoveris,2490025410,Benzinas,Automatinė,9,Šiauliai,1200,96
+Opel Mokka,2024,Visureigis / Krosoveris,24990,Benzinas,Automatinė,5,Vilnius,1200,96
+Opel Mokka,2024,Visureigis / Krosoveris,24990,Benzinas,Automatinė,2,Vilnius,1200,96
+Opel Mokka,2024,Visureigis / Krosoveris,24990,Benzinas,Automatinė,2,Vilnius,1200,96
+Opel Mokka,2024,Visureigis / Krosoveris,24990,Benzinas,Automatinė,2,Vilnius,1200,96
+Opel Mokka,2024,Visureigis / Krosoveris,2499027660,Benzinas,Automatinė,2,Vilnius,1200,96
+Opel Mokka,2024,Visureigis / Krosoveris,2499027660,Benzinas,Automatinė,2,Vilnius,1200,96
+Opel Mokka,2024,Visureigis / Krosoveris,2499026880,Benzinas,Automatinė,5,Kaunas,1200,96
+Opel Mokka,2024,Visureigis / Krosoveris,2499026290,Benzinas,Automatinė,5,Kaunas,1200,96
+Opel Mokka,2024,Visureigis / Krosoveris,2499026880,Benzinas,Automatinė,5,Kaunas,1200,96
+Opel Astra,2022,Hečbekas,25500,Benzinas,Automatinė,15100,Vilnius,1200,96
+Opel Astra,2024,Hečbekas,2560029100,Benzinas,Automatinė,5,Kaunas,1200,96
+Opel Zafira Life,2020,Keleivinis mikroautobusas,26257,Dyzelinas,Automatinė,142000,Kaunas,2000,130
+Opel Astra,2023,Hečbekas,27000,Benzinas,Automatinė,8370,Kaunas,1200,96
+Opel Astra,2024,Universalas,2771030820,Dyzelinas,Automatinė,2,Šiauliai,1500,96
+Opel Mokka,2024,Visureigis / Krosoveris,27830,Benzinas,Automatinė,5,Vilnius,1200,96
+Opel Mokka,2022,Visureigis / Krosoveris,27900,Benzinas,Automatinė,8966,Kaunas,1200,96
+Opel Grandland,2024,Visureigis / Krosoveris,27990,Benzinas,Automatinė,5,Vilnius,1200,96
+Opel Grandland,2024,Visureigis / Krosoveris,2799029990,Benzinas,Automatinė,5,Vilnius,1200,96
+Opel Grandland,2024,Visureigis / Krosoveris,2799029990,Benzinas,Automatinė,5,Vilnius,1200,96
+Opel Movano,2024,Krovininis mikroautobusas,28950,Dyzelinas,Mechaninė,1500,Vilnius,2200,103
+Opel Grandland,2022,Visureigis / Krosoveris,29990,Benzinas,Automatinė,11000,Šiauliai,1200,96
+Opel Grandland,2023,Visureigis / Krosoveris,34455,Benzinas,Automatinė,5,Vilnius,1200,96
+Opel Astra,1999,Hečbekas,300,Dyzelinas,Mechaninė,351780,Vilnius,2000,60
+Opel Meriva,2004,Vienatūris,300,Benzinas,Mechaninė,196000,Šiauliai,1600,74
+Opel Zafira,2004,Vienatūris,330,Dyzelinas,Mechaninė,335000,Vilnius,2000,74
+Opel Astra,2004,Sedanas,350,Dyzelinas,Mechaninė,289472,Kaunas,1700,55
+Opel Zafira,2002,Vienatūris,380,Dyzelinas,Mechaninė,320543,Plungė,2000,74
+Opel Vectra,2005,Hečbekas,400,Dyzelinas,Mechaninė,300000,Kaunas,1900,88
+Opel Astra,1998,Sedanas,450,Benzinas / dujos,Automatinė,201000,Vilnius,1600,55
+Opel Astra,2002,Hečbekas,450,Dyzelinas,Mechaninė,203664,Vilnius,2000,74
+Opel Vectra,2004,Hečbekas,450,Dyzelinas,Mechaninė,350000,Kaunas,1900,88
+Opel Astra,2004,Universalas,475,Dyzelinas,Mechaninė,200000,Šiauliai,1700,55
+Opel Meriva,2004,Vienatūris,490,Benzinas,Mechaninė,183000,Vilnius,1600,74
+Opel Zafira,2003,Vienatūris,500,Dyzelinas,Mechaninė,242000,Kaunas,2000,74
+Opel Signum,2003,Hečbekas,500,Dyzelinas,Automatinė,330326,Vilnius,3000,130
+Opel Vectra,2004,Universalas,500,Dyzelinas,Mechaninė,300000,Molėtai,1900,110
+Opel Meriva,2003,Vienatūris,500,Benzinas,Mechaninė,229240,Marijampolė,1600,74
+Opel Vectra,1993,Sedanas,520,Dyzelinas,Mechaninė,200000,Klaipėda,1700,60
+Opel Meriva,2004,Vienatūris,550,Dyzelinas,Mechaninė,290000,Kaunas,1700,74
+Opel Astra,2000,Sedanas,550,Benzinas,Mechaninė,222679,Kaunas,1600,55
+Opel Astra,1999,Hečbekas,550,Benzinas,Automatinė,254100,Kaunas,1800,85
+Opel Meriva,2005,Vienatūris,550,Dyzelinas,Mechaninė,227514,Vilnius,1300,51
+Opel Astra,2000,Universalas,600,Benzinas,Mechaninė,282000,Kaunas,1400,66
+Opel Corsa,2008,Hečbekas,600,Dyzelinas,Mechaninė,260000,Kaunas,1300,55
+Opel Astra,2004,Hečbekas,650,Dyzelinas,Mechaninė,297000,Vilnius,2200,92
+Opel Agila,2003,Vienatūris,650,Benzinas / dujos,Mechaninė,204557,Vilnius,1200,55
+Opel Meriva,2003,Vienatūris,650,Benzinas,Mechaninė,152000,Kelmė,1800,92
+Opel Meriva,2004,Vienatūris,650,Dyzelinas,Mechaninė,300333,Vilnius,1600,74
+Opel Astra,2002,Hečbekas,650,Dyzelinas,Automatinė,276000,Vilnius,2000,60
+Opel Combo,2004,Keleivinis mikroautobusas,666,Dyzelinas,Mechaninė,529000,Vilnius,1700,55
+Opel Astra,2004,Hečbekas,700,Dyzelinas,Mechaninė,250000,Šiauliai,1700,74
+Opel Zafira,2002,Vienatūris,700,Dyzelinas,Mechaninė,246427,Šiauliai,2200,92
+Opel Astra,2002,Hečbekas,700,Dyzelinas,Mechaninė,315000,Vilnius,2000,74
+Opel Zafira,2004,Vienatūris,700,Dyzelinas,Mechaninė,522391,Kaunas,2200,92
+Opel Meriva,2004,Vienatūris,700,Benzinas / dujos,Mechaninė,314140,Molėtai,1400,66
+Opel Astra,2004,Universalas,700,Dyzelinas,Mechaninė,220000,Šilutė,1900,74
+Opel Vectra,2002,Sedanas,700,Dyzelinas,Mechaninė,426412,Panevėžys,2200,92
+Opel Zafira,2005,Vienatūris,720,Dyzelinas,Mechaninė,194625,Šiauliai,2000,74
+Opel Vectra,2002,Sedanas,720,Benzinas,Automatinė,210000,Vilnius,2200,108
+Opel Vectra,2002,Sedanas,750,Dyzelinas,Mechaninė,160970,Kaunas,2000,74
+Opel Meriva,2003,Vienatūris,750,Benzinas,Mechaninė,198440,Visaginas,1600,74
+Opel Vectra,1998,Sedanas,750,Benzinas,Mechaninė,116636,Klaipėda,1600,74
+Opel Astra,2003,Hečbekas,750,Benzinas,Mechaninė,125600,Vilnius,1600,63
+Opel Astra,2000,Hečbekas,750,Dyzelinas,Mechaninė,380800,Lazdijai,2000,60
+Opel Astra,2007,Hečbekas,750,Dyzelinas,Mechaninė,240000,Širvintos,1700,74
+Opel Kadett,1986,Hečbekas,799,Benzinas,Mechaninė,45000,Vilnius,1600,66
+Opel Vectra,2003,Universalas,800,Dyzelinas,Mechaninė,299381,Vilnius,2200,92
+Opel Zafira,2001,Vienatūris,800,Dyzelinas,Mechaninė,269227,Šventoji,2000,74
+Opel Meriva,2005,Sedanas,800,Dyzelinas,Mechaninė,251986,Skuodas,1700,74
+Opel Zafira,2005,Vienatūris,800,Dyzelinas,Mechaninė,329569,Kaunas,2000,74
+Opel Astra,2005,Universalas,800,Dyzelinas,Mechaninė,309000,Vilnius,1700,74
+Opel Signum,2003,Hečbekas,800,Benzinas,Mechaninė,234550,Vilnius,2200,114
+Opel Astra,2006,Universalas,800,Dyzelinas,Mechaninė,241000,Vilnius,1900,88
+Opel Signum,2003,Universalas,830,Dyzelinas,Mechaninė,311000,Kėdainiai,2200,92
+Opel Corsa,2007,Hečbekas,850,Benzinas,Mechaninė,186500,Marijampolė,1400,66
+Opel Vectra,2005,Universalas,899,Dyzelinas,Mechaninė,287000,Vievis,2200,92
+Opel Vectra,2002,Hečbekas,900,Benzinas / dujos,Mechaninė,267000,Kaunas,2200,108
+Opel Meriva,2006,Vienatūris,900,Dyzelinas,Mechaninė,269000,Vilnius,1700,74
+Opel Signum,2005,Hečbekas,900,Dyzelinas,Automatinė,340000,Jurbarkas,1900,110
+Opel Zafira,2003,Vienatūris,900,Dyzelinas,Mechaninė,344900,Vilnius,2200,92
+Opel Zafira,2002,Vienatūris,900,Dyzelinas,Mechaninė,234002,Alytus,2000,74
+Opel Astra,2002,Sedanas,900,Benzinas,Mechaninė,197242,Vilnius,1600,63
+Opel Meriva,2005,Vienatūris,900,Benzinas,Mechaninė,282564,Šiauliai,1600,74
+Opel Vectra,2002,Sedanas,900,Benzinas,Mechaninė,239753,Vilnius,1800,90
+Opel Omega,2004,Sedanas,900,Dyzelinas,Mechaninė,307279,Kaunas,2200,88
+Opel Zafira,2003,Vienatūris,900,Dyzelinas,Mechaninė,313199,Kretinga,2000,74
+Opel Astra,2002,Hečbekas,950,Benzinas,Automatinė,101235,Marijampolė,1600,62
+Opel Meriva,2004,Vienatūris,950,Benzinas,Mechaninė,301802,Klaipėda,1600,74
+Opel Zafira,2007,Vienatūris,950,Dyzelinas,Mechaninė,318995,Vilnius,1900,88
+Opel Meriva,2004,Vienatūris,970,Benzinas,Automatinė,173956,Šiauliai,1600,74
+Opel Astra,2006,Hečbekas,995,Dyzelinas,Mechaninė,306700,Kretinga,1700,59
+Opel Astra,2005,Hečbekas,999,Benzinas,Mechaninė,255869,Vilnius,1400,66
+Opel Zafira,2004,Vienatūris,999,Dyzelinas,Mechaninė,325253,Šilutė,2200,92
+Opel Astra,2003,Kupė (Coupe),999,Dyzelinas,Mechaninė,310000,Švenčionys,2200,92
+Opel Meriva,2006,Vienatūris,999,Dyzelinas,Mechaninė,255400,Vilnius,1700,74
+Opel Vectra,2002,Sedanas,999,Dyzelinas,Mechaninė,339000,Skuodas,2200,92
+Opel Astra,2008,Hečbekas,999,Dyzelinas,Mechaninė,465623,Šiauliai,1700,81
+Opel Zafira,2006,Vienatūris,999,Dyzelinas,Automatinė,350000,Vilnius,1900,88
+Opel Astra,2006,Hečbekas,1000,Dyzelinas,Automatinė,310000,Klaipėda,1900,88
+Opel Zafira,2003,Vienatūris,1000,Dyzelinas,Mechaninė,294000,Šilalė,2200,92
+Opel Zafira,2003,Vienatūris,1000,Dyzelinas,Mechaninė,500000,Alytus,2000,74
+Opel Zafira,2000,Vienatūris,1000,Dyzelinas,Mechaninė,390530,Prienai,2000,60
+Opel Astra,2006,Hečbekas,1000,Dyzelinas,Mechaninė,312490,Panevėžys,1700,74
+Opel Astra,2004,Hečbekas,1000,Dyzelinas,Mechaninė,260000,Kaunas,1900,110
+Opel Astra,2011,Universalas,1000,Dyzelinas,Mechaninė,250000,Tauragė,1300,70
+Opel Astra,2006,Hečbekas,1050,Dyzelinas,Mechaninė,280321,Alytus,1900,74
+Opel Zafira,2004,Vienatūris,1050,Dyzelinas,Mechaninė,307355,Vilnius,2200,92
+Opel Vectra,2005,Universalas,1050,Dyzelinas,Mechaninė,434000,Kaunas,1900,88
+Opel Vectra,2007,Universalas,1050,Dyzelinas,Mechaninė,240000,Šiauliai,1900,88
+Opel Astra,2002,Hečbekas,1100,Benzinas,Mechaninė,87102,Marijampolė,1600,74
+Opel Signum,2003,Hečbekas,1100,Dyzelinas,Automatinė,236161,Kretinga,2200,92
+Opel Astra,2006,Hečbekas,1100,Dyzelinas,Mechaninė,278055,Jonava,1900,74
+Opel Astra,2007,Universalas,1100,Dyzelinas,Mechaninė,390000,Kaunas,1700,81
+Opel Signum,2004,Hečbekas,1100,Benzinas / dujos,Automatinė,418598,Kaunas,3200,155
+Opel Zafira,2003,Vienatūris,1100,Dyzelinas,Mechaninė,288113,Kaunas,2000,74
+Opel Zafira,2000,Vienatūris,1100,Dyzelinas,Mechaninė,270000,Vilnius,2000,74
+Opel Astra,2005,Universalas,1100,Dyzelinas,Mechaninė,303000,Jurbarkas,1900,88
+Opel Zafira,2005,Vienatūris,1100,Dyzelinas,Mechaninė,390000,Vilnius,2200,92
+Opel Vectra,2004,Universalas,1150,Dyzelinas,Mechaninė,310000,Šilutė,1900,110
+Opel Zafira,2004,Vienatūris,1150,Dyzelinas,Mechaninė,350000,Vilkaviškis,2000,74
+Opel Zafira,2001,Vienatūris,1150,Dyzelinas,Mechaninė,384000,Klaipėda,2000,74
+Opel Zafira,2005,Vienatūris,1150,Benzinas / dujos,Mechaninė,291507,Kaunas,1800,92
+Opel Astra,2002,Hečbekas,1150,Benzinas,Mechaninė,203406,Klaipėda,1400,66
+Opel Astra,2004,Universalas,1150,Dyzelinas,Mechaninė,340000,Kaunas,1700,55
+Opel Astra,2008,Hečbekas,1185,Benzinas,Mechaninė,252752,Kaunas,1400,66
+Opel Zafira,2004,Vienatūris,1200,Dyzelinas,Mechaninė,351119,Šakiai,2200,92
+Opel Signum,2006,Universalas,1200,Dyzelinas,Automatinė,396000,Vilnius,1900,110
+Opel Zafira,2005,Vienatūris,1200,Dyzelinas,Mechaninė,311100,Tauragė,1900,110
+Opel Vectra,2004,Universalas,1200,Dyzelinas,Mechaninė,300000,Klaipėda,2000,74
+Opel Zafira,2006,Vienatūris,1200,Dyzelinas,Mechaninė,300000,Kaunas,1900,110
+Opel Meriva,2005,Vienatūris,1250,Benzinas / dujos,Mechaninė,158000,Alytus,1600,64
+Opel Astra,2005,Hečbekas,1300,Dyzelinas,Mechaninė,350000,Kaunas,1900,88
+Opel Astra,2005,Hečbekas,1300,Benzinas,Mechaninė,218400,Vilnius,1600,77
+Opel Astra,2013,Hečbekas,1300,Dyzelinas,Mechaninė,208932,Kaunas,1700,96
+Opel Astra,2006,Universalas,1300,Benzinas,Mechaninė,161500,Vilnius,1600,77
+Opel Astra,2008,Hečbekas,1300,Benzinas,Mechaninė,237870,Kaunas,1600,85
+Opel Astra,2004,Hečbekas,1300,Benzinas,Mechaninė,143295,Vilnius,1600,77
+Opel Vectra,2003,Hečbekas,1300,Dyzelinas,Mechaninė,287400,Klaipėda,2200,92
+Opel Zafira,2004,Vienatūris,1300,Dyzelinas,Mechaninė,278000,Rokiškis,2200,92
+Opel Corsa,2008,Hečbekas,1330,Dyzelinas,Mechaninė,285628,Vilnius,1300,66
+Opel Astra,2007,Hečbekas,1350,Benzinas,Mechaninė,306000,Panevėžys,1400,66
+Opel Zafira,2003,Vienatūris,1350,Benzinas,Mechaninė,212200,Marijampolė,1800,92
+Opel Vivaro,2003,Vienatūris,1350,Dyzelinas,Mechaninė,284212,Molėtai,1900,60
+Opel Vectra,2007,Sedanas,1350,Benzinas,Mechaninė,148000,Telšiai,2200,114
+Opel Vectra,2007,Hečbekas,1350,Dyzelinas,Mechaninė,269968,Mažeikiai,1900,88
+Opel Zafira,2007,Vienatūris,1390,Dyzelinas,Mechaninė,349853,Vilnius,1900,110
+Opel Zafira,2004,Vienatūris,1400,Dyzelinas,Mechaninė,275500,Kaunas,2200,92
+Opel Astra,2001,Hečbekas,1400,Dyzelinas,Mechaninė,403333,Vilnius,1700,55
+Opel Zafira,2005,Vienatūris,1400,Dyzelinas,Mechaninė,308000,Šiauliai,2000,88
+Opel Vectra,2007,Sedanas,1400,Dyzelinas,Mechaninė,337158,Mažeikiai,1900,110
+Opel Omega,2004,Universalas,1400,Dyzelinas,Mechaninė,254280,Klaipėda,2200,88
+Opel Astra,2001,Universalas,1400,Benzinas,Automatinė,210000,Alytus,1600,74
+Opel Astra,2009,Hečbekas,1450,Benzinas,Mechaninė,140000,Klaipėda,1800,103
+Opel Astra,2005,Hečbekas,1450,Benzinas,Automatinė,200000,Vilnius,1600,77
+Opel Astra,2002,Universalas,1450,Benzinas,Mechaninė,195076,Marijampolė,1600,62
+Opel Astra,2004,Hečbekas,1499,Benzinas,Mechaninė,221345,Marijampolė,1600,62
+Opel Corsa,2008,Hečbekas,1499,Dyzelinas,Mechaninė,300000,Radviliškis,1300,66
+Opel Vivaro,2005,Krovininis mikroautobusas,1500,Dyzelinas,Mechaninė,147856,Šilutė,1900,60
+Opel Astra,2004,Hečbekas,1500,Dyzelinas,Mechaninė,288280,Raseiniai,1700,74
+Opel Astra,2004,Hečbekas,1500,Dyzelinas,Mechaninė,243972,Šiauliai,1700,74
+Opel Zafira,2006,Vienatūris,1500,Dyzelinas,Mechaninė,320176,Šakiai,1900,88
+Opel Corsa,2007,Hečbekas,1500,Benzinas,Mechaninė,135800,Vilnius,1200,59
+Opel Vectra,2006,Universalas,1550,Dyzelinas,Mechaninė,303300,Raseiniai,1900,110
+Opel Astra,2002,Universalas,1550,Benzinas,Mechaninė,176268,Marijampolė,1600,62
+Opel Astra,2003,Hečbekas,1550,Benzinas,Mechaninė,149751,Marijampolė,1600,62
+Opel Zafira,2006,Vienatūris,1600,Dyzelinas,Mechaninė,225153,Vilnius,1900,88
+Opel Astra,2008,Hečbekas,1600,Benzinas,Mechaninė,195000,Vilnius,1600,85
+Opel Signum,2008,Hečbekas,1600,Dyzelinas,Mechaninė,280375,Vilnius,1900,110
+Opel Vectra,2005,Universalas,1600,Dyzelinas,Automatinė,358000,Kupiškis,1900,110
+Opel Signum,2008,Hečbekas,1600,Dyzelinas,Mechaninė,337000,Kaunas,1900,110
+Opel Combo,2005,Pikapas,1600,Dyzelinas,Mechaninė,303000,Kaunas,1700,55
+Opel Astra,2008,Universalas,1600,Dyzelinas,Mechaninė,161300,Kaunas,1700,74
+Opel Astra,2008,Hečbekas,1600,Benzinas,Mechaninė,309000,Radviliškis,1400,85
+Opel Astra,2002,Universalas,1600,Benzinas,Mechaninė,242007,Marijampolė,1600,62
+Opel Astra,2007,Hečbekas,1600,Dyzelinas,Mechaninė,228050,Kaunas,1700,74
+Opel Astra,2007,Hečbekas,1600,Dyzelinas,Mechaninė,228050,Kaunas,1700,74
+Opel Astra,2008,Kupė (Coupe),1650,Dyzelinas,Mechaninė,243574,Kaunas,1900,88
+Opel Zafira,2006,Vienatūris,1650,Dyzelinas,Mechaninė,300000,Vilnius,1900,88
+Opel Insignia,2011,Universalas,1650,Dyzelinas,Mechaninė,349500,Kaunas,2000,118
+Opel Zafira,2008,Vienatūris,1650,Dyzelinas,Mechaninė,359000,Kaunas,1900,88
+Opel Vectra,2002,Sedanas,1650,Benzinas / dujos,Automatinė,216067,Vilnius,2200,114
+Opel Meriva,2009,Vienatūris,1650,Dyzelinas,Mechaninė,194713,Šiauliai,1700,74
+Opel Insignia,2010,Universalas,1650,Dyzelinas,Mechaninė,275000,Pasvalys,2000,96
+Opel Meriva,2007,Vienatūris,1670,Dyzelinas,Mechaninė,252847,Elektrėnai,1700,74
+Opel Vectra,2005,Sedanas,1699,Dyzelinas,Mechaninė,281563,Alytus,2200,92
+Opel Zafira,2009,Vienatūris,1700,Dyzelinas,Mechaninė,250000,Panevėžys,1700,92
+Opel Astra,2001,Sedanas,1700,Benzinas,Automatinė,135000,Šiauliai,1600,62
+Opel Astra,2006,Kupė (Coupe),1700,Benzinas,Mechaninė,231000,Vilnius,1600,77
+Opel Astra,2005,Universalas,1700,Dyzelinas,Mechaninė,256878,Kaunas,1900,88
+Opel Astra,2004,Hečbekas,1700,Benzinas,Automatinė,170000,Vilnius,1800,92
+Opel Zafira,2007,Vienatūris,1700,Dyzelinas,Mechaninė,272391,Jonava,1900,88
+Opel Combo,2004,Vienatūris,1700,Benzinas,Mechaninė,2700000,Ukmergė,1600,63
+Opel Zafira,2004,Vienatūris,1700,Benzinas,Mechaninė,186000,Marijampolė,1800,1
+Opel Astra,2007,Hečbekas,1700,Dyzelinas,Mechaninė,249300,Kuršėnai,1700,74
+Opel Meriva,2006,Vienatūris,1750,Dyzelinas,Mechaninė,164000,Pakruojis,1300,55
+Opel Vectra,2007,Hečbekas,1750,Dyzelinas,Mechaninė,300400,Kaunas,1900,88
+Opel Astra,2006,Hečbekas,1750,Dyzelinas,Mechaninė,352506,Akmenė,1900,88
+Opel Astra,2007,Universalas,1790,Benzinas,Mechaninė,224300,Klaipėda,1600,77
+Opel Signum,2007,Hečbekas,1800,Dyzelinas,Mechaninė,299087,Kaunas,1900,110
+Opel Astra,2001,Kabrioletas,1800,Benzinas,Mechaninė,239700,Mažeikiai,2200,108
+Opel Vectra,2009,Universalas,1800,Dyzelinas,Mechaninė,290000,Panevėžys,1900,110
+Opel Astra,2009,Universalas,1800,Dyzelinas,Mechaninė,336597,Šilutė,1700,81
+Opel Signum,2007,Hečbekas,1800,Dyzelinas,Mechaninė,316254,Kaunas,1900,110
+Opel Vivaro,2004,Krovininis mikroautobusas,1800,Dyzelinas,Mechaninė,229670,Vilnius,1900,74
+Opel Zafira,2007,Vienatūris,1800,Dyzelinas,Mechaninė,320000,Tauragė,1900,88
+Opel Astra,2004,Vienatūris,1800,Benzinas,Mechaninė,273751,Marijampolė,1800,1
+Opel Zafira,2008,Vienatūris,1800,Benzinas,Mechaninė,247000,Vilnius,1800,103
+Opel Zafira,2006,Vienatūris,1850,Dyzelinas,Mechaninė,272443,Utena,1900,88
+Opel Astra,2001,Universalas,1850,Benzinas / dujos,Automatinė,165000,Kaunas,1600,74
+Opel Astra,2005,Kupė (Coupe),1850,Benzinas,Automatinė,306000,Vilnius,1600,77
+Opel Corsa,2014,Hečbekas,1899,Benzinas,Mechaninė,294108,Kaunas,1400,74
+Opel Astra,2008,Universalas,1900,Benzinas,Mechaninė,191000,Šiauliai,1600,85
+Opel Zafira,2006,Vienatūris,1900,Benzinas,Mechaninė,213400,Vilnius,1800,103
+Opel Zafira,2008,Vienatūris,1900,Dyzelinas,Mechaninė,240113,Vilkaviškis,1900,110
+Opel Meriva,2004,Hečbekas,1900,Benzinas,Automatinė,120000,Kaunas,1600,74
+Opel Frontera,1996,Visureigis / Krosoveris,1900,Dyzelinas,Mechaninė,273065,Kaunas,2400,85
+Opel Tigra,2006,Kabrioletas,1900,Dyzelinas,Mechaninė,208000,Šilalė,1300,51
+Opel Astra,2005,Universalas,1940,Dyzelinas,Mechaninė,340000,Klaipėda,1900,88
+Opel Astra,2007,Hečbekas,1950,Benzinas,Mechaninė,220000,Vilnius,1600,77
+Opel Meriva,2010,Vienatūris,1950,Benzinas,Mechaninė,276547,Kretinga,1400,66
+Opel Astra,2006,Sedanas,1950,Benzinas,Mechaninė,87000,Kaunas,1400,66
+Opel Astra,2006,Universalas,1999,Benzinas,Mechaninė,331000,Jonava,1800,103
+Opel Frontera,2002,Visureigis / Krosoveris,1999,Dyzelinas,Mechaninė,200000,Vilnius,2200,85
+Opel Astra,2009,Hečbekas,1999,Benzinas,Mechaninė,176000,Utena,1600,85
+Opel Insignia,2011,Universalas,1999,Dyzelinas,Mechaninė,393000,Kaunas,2000,118
+Opel Vectra,2005,Hečbekas,1999,Dyzelinas,Mechaninė,246867,Marijampolė,1900,110
+Opel Zafira,2009,Vienatūris,2000,Dyzelinas,Automatinė,280000,Vilnius,1900,88
+Opel Signum,2005,Hečbekas,2000,Dyzelinas,Automatinė,236000,Kaunas,1900,110
+Opel Astra,2005,Hečbekas,2000,Dyzelinas,Mechaninė,230000,Alytus,1700,74
+Opel Zafira,2005,Vienatūris,2000,Dyzelinas,Mechaninė,363818,Kaunas,1900,88
+Opel Vectra,2006,Sedanas,2000,Benzinas,Mechaninė,278178,Panevėžys,1600,77
+Opel Zafira,2005,Vienatūris,2000,Dyzelinas,Mechaninė,369000,Akmenė,1900,88
+Opel Zafira,2007,Vienatūris,2050,Dyzelinas,Mechaninė,238000,Kaunas,1900,88
+Opel Astra,2008,Universalas,2050,Dyzelinas,Mechaninė,276000,Alytus,1700,74
+Opel Astra,2005,Universalas,2075,Benzinas / dujos,Mechaninė,148000,Vilnius,1600,77
+Opel Astra,2005,Hečbekas,2100,Dyzelinas,Mechaninė,269400,Vilnius,1900,88
+Opel Zafira,2003,Vienatūris,2100,Dyzelinas,Mechaninė,236000,Klaipėda,2200,92
+Opel Astra,2010,Hečbekas,2100,Dyzelinas,Mechaninė,136000,Vilnius,2000,118
+Opel Astra,2011,Hečbekas,2100,Dyzelinas,Mechaninė,199854,Vilnius,1700,81
+Opel Corsa,2007,Hečbekas,2100,Dyzelinas,Mechaninė,126383,Šiauliai,1300,55
+Opel Zafira,2008,Vienatūris,2150,Benzinas,Mechaninė,246000,Kaunas,1800,103
+Opel Astra,2007,Universalas,2150,Dyzelinas,Mechaninė,175000,Šiauliai,1900,88
+Opel Astra,2010,Universalas,2200,Dyzelinas,Mechaninė,230099,Druskininkai,1700,81
+Opel Astra,2009,Hečbekas,2200,Dyzelinas,Mechaninė,212000,Tauragė,1700,81
+Opel Corsa,2011,Hečbekas,2200,Dyzelinas,Mechaninė,278200,Kaunas,1300,70
+Opel Vectra,2008,Universalas,2200,Dyzelinas,Mechaninė,341397,Klaipėda,1900,110
+Opel Zafira,2009,Vienatūris,2200,Dyzelinas,Mechaninė,290000,Šiauliai,1700,81
+Opel Signum,2007,Hečbekas,2200,Dyzelinas,Automatinė,178000,Vilnius,1900,110
+Opel Monterey,1993,Visureigis / Krosoveris,2200,Dyzelinas,Mechaninė,300000,Klaipėda,3100,84
+Opel Vectra,2007,Universalas,2200,Dyzelinas,Mechaninė,460000,Prienai,1900,74
+Opel Astra,2007,Universalas,2250,Dyzelinas,Automatinė,330132,Kaunas,1900,88
+Opel Vectra,2005,Universalas,2250,Benzinas / dujos,Mechaninė,280000,Vilkaviškis,1800,90
+Opel Zafira,2006,Vienatūris,2250,Dyzelinas,Mechaninė,264000,Jurbarkas,1900,88
+Opel Meriva,2007,Hečbekas,2250,Benzinas / dujos,Mechaninė,221400,Biržai,1600,77
+Opel Vectra,2006,Sedanas,2250,Benzinas,Automatinė,203000,Radviliškis,2200,114
+Opel Zafira,2008,Vienatūris,2299,Benzinas,Mechaninė,185000,Vilnius,1800,103
+Opel Frontera,1999,Visureigis / Krosoveris,2300,Benzinas / dujos,Mechaninė,205190,Kaunas,2200,100
+Opel Astra,2005,Hečbekas,2300,Benzinas,Automatinė,247000,Vilnius,1800,92
+Opel Zafira,2011,Vienatūris,2300,Dyzelinas,Mechaninė,270000,Tauragė,1700,81
+Opel Frontera,2004,Visureigis / Krosoveris,2300,Dyzelinas,Mechaninė,200000,Vilnius,2200,88
+Opel Vectra,2006,Sedanas,2300,Benzinas,Mechaninė,196000,Šiauliai,1600,74
+Opel Astra,2006,Kupė (Coupe),2300,Dyzelinas,Automatinė,224100,Rietavas,1300,66
+Opel Vivaro,2006,Krovininis mikroautobusas,2300,Dyzelinas,Mechaninė,218181,Marijampolė,1900,74
+Opel Astra,2008,Universalas,2300,Dyzelinas,Mechaninė,287994,Kaišiadorys,1900,110
+Opel Corsa,2009,Hečbekas,2300,Dyzelinas,Mechaninė,135278,Šiauliai,1300,55
+Opel Meriva,2008,Vienatūris,2350,Benzinas,Automatinė,240000,Vilnius,1600,77
+Opel Vectra,2008,Sedanas,2350,Benzinas,Mechaninė,351000,Kaunas,2200,114
+Opel Insignia,2009,Hečbekas,2350,Dyzelinas,Mechaninė,307142,Tauragė,2000,96
+Opel Signum,2007,Hečbekas,2399,Dyzelinas,Automatinė,228000,Šiauliai,1900,110
+Opel Astra,2002,Kabrioletas,2400,Benzinas,Mechaninė,197000,Vilnius,1600,74
+Opel Vectra,2006,Universalas,2444,Dyzelinas,Automatinė,329000,Vilnius,1900,110
+Opel Astra,1998,Kabrioletas,2450,Benzinas,Mechaninė,145000,Marijampolė,1400,66
+Opel Vectra,2008,Hečbekas,2450,Benzinas,Mechaninė,202000,Marijampolė,1800,103
+Opel Meriva,2009,Vienatūris,2450,Benzinas,Automatinė,141000,Radviliškis,1600,77
+Opel Corsa,2008,Hečbekas,2499,Benzinas,Automatinė,200000,Vilnius,1400,66
+Opel Zafira,2008,Vienatūris,2499,Dyzelinas,Mechaninė,293623,Šiauliai,1900,110
+Opel Vectra,2006,Universalas,2499,Dyzelinas,Automatinė,335974,Vilnius,1900,110
+Opel Zafira,2008,Vienatūris,2500,Dyzelinas,Mechaninė,296263,Radviliškis,1700,92
+Opel Ascona,1978,Sedanas,2500,Benzinas,Automatinė,81723,Raseiniai,1900,66
+Opel Corsa,2010,Hečbekas,2500,Dyzelinas,Mechaninė,195070,Radviliškis,1300,55
+Opel Zafira,2008,Vienatūris,2500,Dyzelinas,Mechaninė,254673,Plungė,1900,88
+Opel Astra,2007,Universalas,2500,Benzinas / dujos,Automatinė,341297,Vilnius,1600,85
+Opel Corsa,2010,Hečbekas,2500,Benzinas,Mechaninė,172770,Alytus,1400,64
+Opel Astra,2009,Universalas,2500,Benzinas,Mechaninė,231453,Anykščiai,1600,85
+Opel Vectra,2007,Universalas,2550,Dyzelinas,Automatinė,308000,Vilnius,1900,110
+Opel Insignia,2010,Sedanas,2550,Dyzelinas,Mechaninė,322000,Kaunas,2000,96
+Opel Meriva,2011,Vienatūris,2550,Benzinas,Mechaninė,159555,Vilnius,1400,88
+Opel Zafira,2009,Vienatūris,2599,Dyzelinas,Automatinė,287000,Prienai,1900,88
+Opel Meriva,2005,Vienatūris,2599,Benzinas,Mechaninė,112410,Plungė,1600,74
+Opel Astra,2009,Universalas,2599,Dyzelinas,Mechaninė,212090,Kėdainiai,1900,74
+Opel Insignia,2009,Universalas,2600,Dyzelinas,Mechaninė,340000,Vilnius,2000,96
+Opel Corsa,2010,Hečbekas,2600,Dyzelinas,Mechaninė,270834,Tauragė,1300,66
+Opel Signum,2007,Hečbekas,2600,Dyzelinas,Mechaninė,302000,Vilnius,1900,110
+Opel Zafira,2009,Vienatūris,2600,Dyzelinas,Mechaninė,242489,Utena,1700,92
+Opel Vectra,2008,Universalas,2650,Dyzelinas,Automatinė,360678,Prienai,1900,110
+Opel Vectra,2008,Universalas,2650,Dyzelinas,Automatinė,227451,Prienai,1900,110
+Opel Vectra,2006,Sedanas,2650,Dyzelinas,Mechaninė,265000,Vilnius,1900,110
+Opel Zafira,2009,Vienatūris,2650,Dyzelinas,Mechaninė,158876,Ukmergė,1700,81
+Opel Insignia,2009,Universalas,2680,Dyzelinas,Mechaninė,200000,Plungė,2000,118
+Opel Astra,2005,Hečbekas,2688,Benzinas,Mechaninė,197683,Vilnius,1400,66
+Opel Meriva,2011,Vienatūris,2700,Dyzelinas,Mechaninė,291000,Kaunas,1300,55
+Opel Astra,2008,Universalas,2750,Dyzelinas,Mechaninė,207000,Kėdainiai,1700,81
+Opel Zafira,2007,Vienatūris,2750,Benzinas,Mechaninė,256000,Vilnius,1800,103
+Opel Astra,2011,Universalas,2750,Dyzelinas,Mechaninė,192000,Kaunas,2000,118
+Opel Antara,2007,Visureigis / Krosoveris,2799,Dyzelinas,Automatinė,204000,Kaunas,2000,110
+Opel Insignia,2010,Hečbekas,2800,Dyzelinas,Mechaninė,257000,Utena,2000,96
+Opel Insignia,2012,Universalas,2800,Dyzelinas,Automatinė,306200,Vilnius,2000,118
+Opel Insignia,2009,Sedanas,2800,Dyzelinas,Automatinė,294634,Plungė,2000,96
+Opel Astra,2006,Kupė (Coupe),2800,Dyzelinas,Automatinė,282000,Elektrėnai,1900,88
+Opel Zafira,2009,Vienatūris,2850,Dyzelinas,Mechaninė,300000,Vilnius,1700,92
+Opel Meriva,2006,Vienatūris,2850,Benzinas,Automatinė,219158,Alytus,1800,92
+Opel Zafira,2009,Vienatūris,2850,Dyzelinas,Automatinė,264321,Ukmergė,1900,88
+Opel Zafira,2009,Vienatūris,2850,Dyzelinas,Mechaninė,287300,Utena,1700,92
+Opel Zafira Tourer,2013,Vienatūris,2850,Dyzelinas,Automatinė,244565,Kupiškis,2000,121
+Opel Corsa,2008,Hečbekas,2890,Dyzelinas,Mechaninė,155000,Klaipėda,1300,55
+Opel Vectra,2008,Sedanas,2890,Dyzelinas,Mechaninė,258000,Klaipėda,1900,88
+Opel Corsa,2010,Hečbekas,2890,Dyzelinas,Mechaninė,286000,Šiauliai,1700,96
+Opel Astra,2005,Universalas,2900,Benzinas / dujos,Automatinė,236500,Panevėžys,1800,92
+Opel Zafira,2010,Vienatūris,2900,Benzinas,Mechaninė,187000,Klaipėda,1600,85
+Opel Insignia,2011,Hečbekas,2900,Dyzelinas,Mechaninė,225000,Tauragė,2000,96
+Opel Zafira,2009,Vienatūris,2900,Benzinas,Mechaninė,229000,Šiauliai,1600,85
+Opel Insignia,2009,Universalas,2900,Dyzelinas,Mechaninė,213000,Vilnius,2000,96
+Opel Zafira,2011,Vienatūris,2950,Dyzelinas,Mechaninė,300000,Klaipėda,1700,92
+Opel Astra,2007,Kabrioletas,2950,Dyzelinas,Mechaninė,227870,Vilnius,1900,110
+Opel Meriva,2011,Vienatūris,2950,Benzinas,Mechaninė,197015,Marijampolė,1400,88
+Opel Combo,2013,Komercinis,2990,Dyzelinas,Mechaninė,380000,Rokiškis,2000,99
+Opel Zafira Tourer,2013,Vienatūris,2999,Benzinas / dujos,Mechaninė,311904,Panevėžys,1600,110
+Opel Astra,2011,Hečbekas,2999,Benzinas,Mechaninė,135000,Vilnius,1600,85
+Opel Movano,2010,Vienatūris,2999,Dyzelinas,Mechaninė,500000,Vilnius,2300,92
+Opel Astra,2011,Hečbekas,3000,Dyzelinas,Mechaninė,276000,Vilnius,1700,81
+Opel Insignia,2009,Universalas,3000,Dyzelinas,Mechaninė,340000,Šiauliai,2000,118
+Opel Vivaro,2011,Krovininis mikroautobusas,3000,Dyzelinas,Mechaninė,284000,Vilnius,2000,84
+Opel Insignia,2009,Sedanas,3050,Dyzelinas,Mechaninė,305000,Kelmė,2000,96
+Opel Corsa,2011,Hečbekas,3050,Benzinas,Mechaninė,259000,Kaunas,1400,64
+Opel Astra,2010,Hečbekas,3090,Dyzelinas,Mechaninė,317000,Panevėžys,2000,118
+Opel Astra,2009,Universalas,3099,Dyzelinas,Automatinė,259253,Kėdainiai,1900,88
+Opel Astra,2009,Hečbekas,3100,Benzinas,Mechaninė,157000,Klaipėda,1600,85
+Opel Vivaro,2008,Komercinis,3100,Dyzelinas,Mechaninė,307000,Kelmė,2500,107
+Opel Zafira,2008,Vienatūris,3100,Benzinas,Mechaninė,137000,Šiauliai,1800,103
+Opel Astra,2007,Kabrioletas,3100,Benzinas / dujos,Mechaninė,250000,Kaunas,1800,103
+Opel Zafira,2010,Vienatūris,3100,Dyzelinas,Mechaninė,247836,Mažeikiai,1700,81
+Opel Astra,2007,Kabrioletas,3100,Benzinas,Mechaninė,155,Kupiškis,1600,77
+Opel Insignia,2012,Universalas,3150,Dyzelinas,Mechaninė,240000,Marijampolė,2000,118
+Opel Zafira,2008,Vienatūris,3150,Dyzelinas,Mechaninė,215000,Kretinga,1900,74
+Opel Signum,2008,Hečbekas,3150,Dyzelinas,Automatinė,224000,Klaipėda,1900,110
+Opel Zafira,2010,Vienatūris,3200,Dyzelinas,Mechaninė,289000,Kaunas,1700,92
+Opel Antara,2007,Visureigis / Krosoveris,3200,Dyzelinas,Mechaninė,213000,Vilnius,2000,110
+Opel Insignia,2010,Universalas,3200,Dyzelinas,Mechaninė,230000,Kaunas,2000,118
+Opel Insignia,2009,Sedanas,3200,Dyzelinas,Automatinė,308120,Kaunas,2000,96
+Opel Astra,2013,Universalas,3200,Benzinas,Mechaninė,153500,Vilnius,1400,103
+Opel Insignia,2011,Limuzinas,3200,Dyzelinas,Mechaninė,147400,Vilnius,2000,118
+Opel Zafira,2010,Vienatūris,3250,Dyzelinas,Automatinė,258585,Klaipėda,1900,88
+Opel Astra,2010,Hečbekas,3250,Dyzelinas,Mechaninė,262500,Kaunas,1700,81
+Opel Astra,2012,Universalas,3250,Dyzelinas,Mechaninė,274382,Kaunas,1700,81
+Opel Insignia,2009,Universalas,3250,Dyzelinas,Mechaninė,314000,Šilutė,2000,118
+Opel Vivaro,2008,Keleivinis mikroautobusas,3290,Dyzelinas,Automatinė,454602,Vilnius,2500,107
+Opel Astra,2012,Universalas,3295,Benzinas / dujos,Mechaninė,217607,Kretinga,1600,85
+Opel Insignia,2009,Universalas,3300,Dyzelinas,Automatinė,290000,Šiauliai,2000,96
+Opel Astra,2010,Hečbekas,3300,Dyzelinas,Mechaninė,334100,Kaunas,1700,92
+Opel Antara,2007,Visureigis / Krosoveris,3300,Dyzelinas,Mechaninė,230250,Utena,2000,110
+Opel Zafira,2010,Vienatūris,3300,Benzinas,Mechaninė,182000,Šiauliai,1600,85
+Opel Zafira,2009,Vienatūris,3300,Benzinas,Automatinė,143000,Ukmergė,1800,103
+Opel Insignia,2010,Sedanas,3300,Dyzelinas,Mechaninė,336000,Kaunas,2000,118
+Opel Insignia,2009,Hečbekas,3333,Dyzelinas,Automatinė,297614,Vilnius,2000,118
+Opel Astra,2010,Hečbekas,3350,Dyzelinas,Mechaninė,226000,Kaunas,1700,81
+Opel Meriva,2011,Hečbekas,3350,Dyzelinas,Mechaninė,184000,Utena,1700,81
+Opel Zafira,2010,Vienatūris,3350,Dyzelinas,Automatinė,183000,Vilnius,1900,110
+Opel Meriva,2011,Vienatūris,3350,Dyzelinas,Mechaninė,351000,Telšiai,1700,81
+Opel Astra,2011,Universalas,3350,Dyzelinas,Mechaninė,264000,Radviliškis,1700,81
+Opel Astra,2011,Universalas,3400,Dyzelinas,Mechaninė,197000,Kaunas,1300,70
+Opel Astra,2013,Universalas,3400,Dyzelinas,Mechaninė,294432,Šiauliai,1700,81
+Opel Insignia,2010,Universalas,3400,Dyzelinas,Mechaninė,316000,Vilnius,2000,96
+Opel Insignia,2011,Universalas,3400,Dyzelinas,Automatinė,256000,Šilalė,2000,118
+Opel Insignia,2009,Universalas,3400,Dyzelinas,Mechaninė,351000,Šiauliai,2000,96
+Opel Antara,2009,Visureigis / Krosoveris,3400,Dyzelinas,Mechaninė,373000,Vilnius,2000,110
+Opel Astra,2011,Hečbekas,3400,Dyzelinas,Mechaninė,207100,Vilnius,1700,81
+Opel Insignia,2009,Universalas,3450,Dyzelinas,Mechaninė,310000,Marijampolė,2000,118
+Opel Astra,2011,Universalas,3450,Benzinas,Mechaninė,160000,Marijampolė,1400,88
+Opel Insignia,2011,Universalas,3450,Dyzelinas,Mechaninė,234000,Vilnius,2000,96
+Opel Astra,2011,Hečbekas,3450,Dyzelinas,Mechaninė,323000,Šiauliai,1300,70
+Opel Corsa,2010,Hečbekas,3495,Benzinas,Automatinė,88647,Kretinga,1400,66
+Opel Vivaro,2007,Vienatūris,3500,Dyzelinas,Mechaninė,299128,Kaunas,2500,107
+Opel Zafira,2010,Vienatūris,3500,Benzinas,Mechaninė,200300,Prienai,1800,103
+Opel Insignia,2012,Universalas,3500,Dyzelinas,Mechaninė,306000,Klaipėda,2000,96
+Opel Insignia,2010,Hečbekas,3500,Dyzelinas,Mechaninė,241399,Tauragė,2000,96
+Opel Insignia,2010,Universalas,3550,Dyzelinas,Mechaninė,286125,Vilnius,2000,118
+Opel Zafira,2010,Vienatūris,3599,Benzinas / dujos,Mechaninė,220500,Vilnius,1700,88
+Opel Insignia,2009,Hečbekas,3600,Dyzelinas,Mechaninė,270000,Tauragė,2000,96
+Opel Zafira,2010,Vienatūris,3650,Dyzelinas,Mechaninė,222438,Utena,1700,81
+Opel Zafira,2009,Vienatūris,3650,Dyzelinas,Mechaninė,200000,Šiauliai,1900,110
+Opel Corsa,2017,Hečbekas,3650,Benzinas,Mechaninė,38000,Šiauliai,1400,66
+Opel Zafira Tourer,2012,Vienatūris,3650,Dyzelinas,Automatinė,209000,Rokiškis,2000,121
+Opel Astra,2010,Hečbekas,3650,Benzinas,Mechaninė,99885,Marijampolė,1600,85
+Opel Antara,2007,Visureigis / Krosoveris,3699,Dyzelinas,Mechaninė,197000,Tauragė,2000,110
+Opel Astra,2011,Universalas,3700,Benzinas,Mechaninė,204000,Kaunas,1400,103
+Opel Insignia,2009,Universalas,3700,Dyzelinas,Mechaninė,193000,Telšiai,2000,118
+Opel Astra,2011,Universalas,3700,Dyzelinas,Mechaninė,244858,Panevėžys,1700,81
+Opel Corsa,2013,Hečbekas,3700,Dyzelinas,Mechaninė,207000,Šiauliai,1300,70
+Opel Zafira,2010,Vienatūris,3700,Dyzelinas,Mechaninė,241147,Marijampolė,1900,110
+Opel Meriva,2011,Vienatūris,3700,Dyzelinas,Automatinė,169000,Vilnius,1700,74
+Opel Insignia,2009,Universalas,3700,Dyzelinas,Mechaninė,227100,Klaipėda,2000,118
+Opel Insignia,2009,Universalas,3700,Dyzelinas,Automatinė,260000,Vilkaviškis,2000,96
+Opel Zafira,2012,Vienatūris,3750,Benzinas,Mechaninė,192509,Kretinga,1600,85
+Opel Astra,2010,Hečbekas,3750,Benzinas,Mechaninė,150000,Kaunas,1400,103
+Opel Zafira Tourer,2013,Vienatūris,3750,Dyzelinas,Mechaninė,275000,Kaunas,1600,100
+Opel Insignia,2010,Universalas,3750,Dyzelinas,Automatinė,253000,Kaunas,2000,118
+Opel Corsa,2014,Hečbekas,3750,Dyzelinas,Mechaninė,192000,Tauragė,1300,55
+Opel Astra,2011,Universalas,3800,Dyzelinas,Mechaninė,202000,Šiauliai,1700,81
+Opel Astra,2012,Hečbekas,3800,Dyzelinas,Mechaninė,168565,Kaunas,1700,81
+Opel Insignia,2010,Universalas,3800,Dyzelinas,Mechaninė,266158,Kaunas,2000,118
+Opel Astra,2013,Hečbekas,3800,Dyzelinas,Mechaninė,276000,Kuršėnai,1700,81
+Opel Insignia,2010,Hečbekas,3800,Benzinas,Automatinė,301500,Plungė,2000,162
+Opel Vivaro,2008,Vienatūris,3800,Dyzelinas,Mechaninė,438000,Klaipėda,2500,107
+Opel Insignia,2010,Hečbekas,3800,Dyzelinas,Mechaninė,246632,Tauragė,2000,96
+Opel Vivaro,2007,Vienatūris,3850,Dyzelinas,Mechaninė,292000,Telšiai,2000,66
+Opel Combo,2012,Vienatūris,3850,Dyzelinas,Mechaninė,156023,Marijampolė,1300,66
+Opel Zafira,2011,Vienatūris,3850,Dyzelinas,Mechaninė,233000,Šiauliai,1700,81
+Opel Insignia,2009,Universalas,3850,Benzinas,Mechaninė,206000,Vilnius,2000,162
+Opel Meriva,2016,Vienatūris,3900,Dyzelinas,Mechaninė,260000,Tauragė,1600,81
+Opel Astra,2008,Kabrioletas,3900,Dyzelinas,Mechaninė,256666,Kaunas,1900,110
+Opel Insignia,2011,Sedanas,3900,Dyzelinas,Mechaninė,254394,Jurbarkas,2000,96
+Opel Insignia,2010,Hečbekas,3900,Dyzelinas,Mechaninė,294000,Vilnius,2000,96
+Opel Astra,2012,Universalas,3900,Dyzelinas,Mechaninė,193000,Šiauliai,1700,81
+Opel Meriva,2012,Vienatūris,3900,Dyzelinas,Mechaninė,218889,Telšiai,1700,81
+Opel Zafira,2010,Hečbekas,3900,Benzinas / dujos,Mechaninė,270000,Klaipėda,1800,103
+Opel Meriva,2010,Vienatūris,3950,Benzinas / dujos,Mechaninė,219000,Kaunas,1400,74
+Opel Astra,2012,Hečbekas,3950,Dyzelinas,Mechaninė,244778,Jurbarkas,1700,81
+Opel Meriva,2011,Vienatūris,3950,Dyzelinas,Mechaninė,287000,Šiauliai,1700,81
+Opel Insignia,2011,Universalas,3950,Dyzelinas,Mechaninė,323000,Vilnius,2000,118
+Opel Astra,2011,Universalas,3990,Dyzelinas,Mechaninė,153000,Klaipėda,1700,81
+Opel Astra,2006,Kabrioletas,3990,Benzinas / dujos,Automatinė,175000,Kaunas,1800,103
+Opel Astra,2012,Kupė (Coupe),3999,Dyzelinas,Mechaninė,225700,Šiauliai,1700,96
+Opel Astra,2011,Hečbekas,3999,Dyzelinas,Mechaninė,330000,Kretinga,1700,81
+Opel Zafira Tourer,2012,Vienatūris,3999,Dyzelinas,Mechaninė,336500,Vilnius,2000,96
+Opel Astra,2010,Hečbekas,3999,Benzinas,Mechaninė,216741,Marijampolė,1600,85
+Opel Astra,2011,Hečbekas,4000,Dyzelinas,Mechaninė,263000,Jurbarkas,2000,118
+Opel Corsa,2014,Hečbekas,4050,Dyzelinas,Mechaninė,220000,Kaunas,1300,70
+Opel Astra,2012,Universalas,4100,Dyzelinas,Mechaninė,263251,Kretinga,1700,96
+Opel Zafira,2010,Vienatūris,4100,Benzinas / dujos,Mechaninė,237475,Jurbarkas,1800,103
+Opel Zafira,2018,Vienatūris,4100,Dyzelinas,Automatinė,333000,Šakiai,2000,96
+Opel Meriva,2010,Vienatūris,4200,Dyzelinas,Automatinė,134000,Utena,1700,74
+Opel Meriva,2011,Vienatūris,4200,Dyzelinas,Mechaninė,230321,Vilnius,1700,81
+Opel Zafira,2012,Vienatūris,4200,Dyzelinas,Mechaninė,226000,Kaunas,2000,96
+Opel Insignia,2011,Universalas,4200,Dyzelinas,Automatinė,252047,Klaipėda,2000,118
+Opel Insignia,2011,Universalas,4200,Dyzelinas,Automatinė,158817,Vilnius,2000,120
+Opel Insignia,2010,Universalas,4200,Dyzelinas,Automatinė,181000,Vilnius,2000,96
+Opel Vivaro,2009,Krovininis mikroautobusas,4235,Dyzelinas,Mechaninė,245984,Vilnius,2000,66
+Opel Meriva,2012,Vienatūris,4249,Dyzelinas,Mechaninė,220000,Šiauliai,1300,55
+Opel Insignia,2009,Hečbekas,4250,Benzinas,Mechaninė,203000,Kėdainiai,1800,103
+Opel Zafira,2010,Vienatūris,4250,Benzinas,Mechaninė,183000,Jurbarkas,1800,103
+Opel Insignia,2011,Universalas,4290,Dyzelinas,Mechaninė,347800,Kelmė,2000,118
+Opel Insignia,2013,Universalas,4300,Dyzelinas,Automatinė,249000,Panevėžys,2000,118
+Opel Antara,2008,Visureigis / Krosoveris,4300,Dyzelinas,Mechaninė,175000,Panevėžys,2000,110
+Opel Adam,2014,Hečbekas,4300,Benzinas,Mechaninė,76228,Vilnius,1200,51
+Opel Antara,2007,Visureigis / Krosoveris,4300,Dyzelinas,Mechaninė,218488,Šakiai,2000,110
+Opel Insignia,2010,Universalas,4300,Dyzelinas,Mechaninė,270000,Jonava,2000,118
+Opel Astra,2015,Universalas,4300,Dyzelinas,Mechaninė,315000,Vilnius,1600,81
+Opel Insignia,2011,Universalas,4330,Dyzelinas,Automatinė,266000,Druskininkai,2000,120
+Opel Astra,2012,Hečbekas,4350,Dyzelinas,Mechaninė,240000,Šiauliai,1700,81
+Opel Insignia,2011,Universalas,4350,Dyzelinas,Mechaninė,272000,Alytus,2000,81
+Opel Zafira,2014,Vienatūris,4350,Dyzelinas,Mechaninė,253830,Šiauliai,1700,92
+Opel Insignia,2010,Universalas,4360,Benzinas,Mechaninė,158000,Klaipėda,1800,103
+Opel Antara,2009,Visureigis / Krosoveris,4395,Dyzelinas,Automatinė,311561,Kretinga,2000,110
+Opel Astra,2013,Universalas,4400,Dyzelinas,Mechaninė,296000,Marijampolė,2000,121
+Opel Zafira Tourer,2012,Vienatūris,4400,Dyzelinas,Mechaninė,269068,Vilnius,2000,96
+Opel Insignia,2010,Universalas,4450,Dyzelinas,Automatinė,237000,Jurbarkas,2000,118
+Opel Astra,2015,Hečbekas,4450,Dyzelinas,Mechaninė,202147,Kaunas,1600,81
+Opel Astra,2012,Universalas,4450,Dyzelinas,Automatinė,261000,Kaunas,2000,121
+Opel Insignia,2008,Sedanas,4450,Dyzelinas,Automatinė,247000,Marijampolė,2000,118
+Opel Insignia,2012,Sedanas,4500,Benzinas,Automatinė,183600,Vilnius,2400,136
+Opel Insignia,2011,Universalas,4500,Dyzelinas,Automatinė,230115,Klaipėda,2000,118
+Opel Vivaro,2007,Krovininis mikroautobusas,4500,Dyzelinas,Mechaninė,282000,Tauragė,2000,84
+Opel Insignia,2011,Universalas,4500,Dyzelinas,Automatinė,313500,Vilnius,2000,118
+Opel Astra,2011,Hečbekas,4500,Benzinas,Mechaninė,121000,Kaišiadorys,1600,85
+Opel Insignia,2010,Universalas,4500,Dyzelinas,Automatinė,227000,Klaipėda,2000,118
+Opel Insignia,2012,Universalas,4500,Dyzelinas,Mechaninė,280000,Šiauliai,2000,96
+Opel Insignia,2009,Hečbekas,4500,Dyzelinas,Automatinė,294000,Marijampolė,2000,118
+Opel Insignia,2011,Universalas,4500,Dyzelinas,Mechaninė,230000,Šiauliai,2000,118
+Opel Meriva,2015,Vienatūris,4500,Dyzelinas,Mechaninė,275000,Tauragė,1600,70
+Opel Astra,2010,Hečbekas,4550,Dyzelinas,Automatinė,227893,Raseiniai,2000,118
+Opel Insignia,2012,Universalas,4550,Dyzelinas,Mechaninė,266300,Šiauliai,2000,96
+Opel Karl,2016,Hečbekas,4600,Benzinas,Mechaninė,164900,Tauragė,1000,55
+Opel Insignia,2009,Sedanas,4600,Dyzelinas,Automatinė,280000,Klaipėda,2000,118
+Opel Astra,2013,Universalas,4600,Dyzelinas,Mechaninė,171000,Alytus,1700,81
+Opel Insignia,2011,Universalas,4600,Dyzelinas,Mechaninė,206000,Tauragė,2000,118
+Opel Insignia,2012,Universalas,4600,Dyzelinas,Mechaninė,217000,Druskininkai,2000,143
+Opel Meriva,2011,Vienatūris,4600,Dyzelinas,Automatinė,242000,Vilkaviškis,1700,74
+Opel Antara,2010,Visureigis / Krosoveris,4650,Dyzelinas,Mechaninė,270000,Šiauliai,2000,93
+Opel Astra,2012,Hečbekas,4650,Dyzelinas,Mechaninė,256000,Kaunas,1700,81
+Opel Insignia,2011,Universalas,4690,Dyzelinas,Automatinė,276176,Kaunas,2000,118
+Opel Astra,2011,Universalas,4700,Dyzelinas,Mechaninė,219000,Šiauliai,1700,81
+Opel Insignia,2013,Universalas,4700,Dyzelinas,Mechaninė,317500,Panevėžys,2000,143
+Opel Movano,2014,Krovininis mikroautobusas,4700,Dyzelinas,Mechaninė,320000,Kėdainiai,2300,110
+Opel Corsa,2015,Hečbekas,4700,Benzinas,Mechaninė,233000,Plungė,1400,55
+Opel Insignia,2011,Universalas,4700,Dyzelinas,Mechaninė,221365,Marijampolė,2000,118
+Opel Insignia,2010,Sedanas,4700,Dyzelinas,Mechaninė,280000,Alytus,2000,118
+Opel Astra,2014,Universalas,4700,Dyzelinas,Mechaninė,212000,Kaunas,2000,121
+Opel Insignia,2009,Universalas,4750,Dyzelinas,Mechaninė,234500,Vilnius,2000,118
+Opel Zafira,2012,Vienatūris,4750,Benzinas,Mechaninė,225000,Jurbarkas,1800,103
+Opel Antara,2007,Visureigis / Krosoveris,4750,Dyzelinas,Automatinė,211500,Telšiai,2000,110
+Opel Insignia,2009,Universalas,4799,Dyzelinas,Mechaninė,130881,Kretinga,2000,162
+Opel Zafira Tourer,2012,Vienatūris,4800,Dyzelinas,Mechaninė,363000,Kaunas,2000,121
+Opel Astra,2011,Universalas,4800,Dyzelinas,Mechaninė,148000,Šiauliai,1700,81
+Opel Combo,2014,Vienatūris,4800,Dyzelinas,Automatinė,259000,Tauragė,1600,66
+Opel Meriva,2012,Vienatūris,4800,Benzinas,Mechaninė,108000,Šiauliai,1400,74
+Opel Astra,2012,Hečbekas,4800,Dyzelinas,Mechaninė,311903,Šiauliai,1700,110
+Opel Vivaro,2008,Krovininis mikroautobusas,4850,Dyzelinas,Mechaninė,138900,Ariogala,2000,66
+Opel Astra,2013,Universalas,4850,Dyzelinas,Mechaninė,168000,Vilnius,1700,81
+Opel Astra,2014,Universalas,4850,Dyzelinas,Automatinė,215300,Utena,2000,121
+Opel Insignia,2010,Sedanas,4850,Dyzelinas,Automatinė,250000,Telšiai,2000,118
+Opel Astra,2010,Hečbekas,4850,Dyzelinas,Automatinė,230000,Vilkaviškis,2000,118
+Opel Zafira Tourer,2012,Vienatūris,4900,Dyzelinas,Mechaninė,340000,Kelmė,2000,121
+Opel Meriva,2012,Vienatūris,4900,Dyzelinas,Automatinė,208000,Vilnius,1700,81
+Opel Insignia,2009,Hečbekas,4900,Dyzelinas,Mechaninė,217740,Šiauliai,2000,96
+Opel Insignia,2011,Universalas,4900,Dyzelinas,Mechaninė,227271,Telšiai,2000,118
+Opel Combo,2014,Komercinis,4900,Dyzelinas,Mechaninė,274000,Telšiai,1300,66
+Opel Vivaro,2006,Keleivinis mikroautobusas,4900,Dyzelinas,Mechaninė,263000,Šiauliai,2000,84
+Opel Vivaro,2005,Keleivinis mikroautobusas,4900,Dyzelinas,Mechaninė,269700,Alytus,2500,99
+Opel Movano,2006,Krovininis mikroautobusas,4900,Dyzelinas,Mechaninė,350000,Vilnius,2500,73
+Opel Corsa,2015,Hečbekas,4950,Dyzelinas,Mechaninė,185000,Kaunas,1300,55
+Opel Zafira Tourer,2012,Vienatūris,4998,Dyzelinas,Mechaninė,330000,Vilnius,2000,96
+Opel Insignia,2011,Universalas,4999,Dyzelinas,Mechaninė,187000,Tauragė,2000,118
+Opel Astra,2015,Sedanas,4999,Dyzelinas,Mechaninė,193598,Panevėžys,1600,81
+Opel Zafira,2013,Vienatūris,4999,Dyzelinas,Mechaninė,238315,Marijampolė,1700,92
+Opel Astra,2010,Hečbekas,5000,Benzinas,Automatinė,203700,Vilkaviškis,1600,132
+Opel Astra,2016,Universalas,5000,Dyzelinas,Mechaninė,237000,Kaunas,1600,81
+Opel Astra,2015,Universalas,5000,Dyzelinas,Mechaninė,230000,Utena,1600,81
+Opel Vivaro,2007,Krovininis mikroautobusas,5000,Dyzelinas,Mechaninė,239000,Kaunas,2500,107
+Opel Zafira Tourer,2012,Vienatūris,5100,Dyzelinas,Mechaninė,240000,Vilnius,2000,96
+Opel Vivaro,2005,Vienatūris,5100,Dyzelinas,Mechaninė,340000,Vilnius,1900,74
+Opel Zafira Tourer,2015,Vienatūris,5100,Dyzelinas,Mechaninė,201600,Tauragė,1600,88
+Opel Astra,2016,Hečbekas,5100,Benzinas,Mechaninė,404000,Rokiškis,1400,110
+Opel Insignia,2012,Sedanas,5150,Dyzelinas,Automatinė,178000,Vilnius,2000,118
+Opel Insignia,2011,Universalas,5150,Dyzelinas,Automatinė,200000,Telšiai,2000,118
+Opel Zafira Tourer,2018,Vienatūris,5190,Dyzelinas,Automatinė,220000,Klaipėda,2000,96
+Opel Astra,2018,Universalas,5199,Benzinas,Mechaninė,207000,Vilnius,1000,77
+Opel Insignia,2016,Universalas,5200,Dyzelinas,Automatinė,184700,Kaunas,2000,125
+Opel Insignia,2012,Universalas,5200,Dyzelinas,Automatinė,220000,Marijampolė,2000,118
+Opel Astra,2011,Hečbekas,5200,Benzinas,Automatinė,151000,Jonava,1800,132
+Opel Movano,2011,Keleivinis mikroautobusas,5200,Dyzelinas,Automatinė,800000,Šilutė,2300,110
+Opel Astra,2015,Universalas,5250,Dyzelinas,Mechaninė,270000,Alytus,1600,81
+Opel Corsa,2020,Hečbekas,5299,Dyzelinas,Mechaninė,67750,Tauragė,1500,75
+Opel Antara,2012,Visureigis / Krosoveris,5300,Dyzelinas,Mechaninė,207000,Vilnius,2200,135
+Opel Astra,2015,Hečbekas,5300,Dyzelinas,Mechaninė,220000,Šiauliai,1600,75
+Opel Zafira,2014,Vienatūris,5300,Dyzelinas,Mechaninė,195000,Kaunas,1700,92
+Opel Astra,2012,Kupė (Coupe),5300,Dyzelinas,Mechaninė,204000,Mažeikiai,1700,81
+Opel Vivaro,2005,Keleivinis mikroautobusas,5350,Dyzelinas,Mechaninė,300000,Tauragė,2500,99
+Opel Astra,2014,Universalas,5350,Dyzelinas,Mechaninė,227000,Šiauliai,1700,81
+Opel Insignia,2015,Universalas,5400,Dyzelinas,Mechaninė,286000,Tauragė,2000,103
+Opel Astra,2020,Universalas,5400,Dyzelinas,Mechaninė,200000,Kaunas,1500,77
+Opel Astra,2020,Universalas,5400,Dyzelinas,Mechaninė,200000,Kaunas,1500,77
+Opel Vivaro,2007,Keleivinis mikroautobusas,5450,Dyzelinas,Mechaninė,365251,Tauragė,1900,74
+Opel Zafira,2012,Vienatūris,5495,Dyzelinas,Mechaninė,254592,Alytus,2000,96
+Opel Astra,2018,Universalas,5500,Dyzelinas,Mechaninė,257000,Tauragė,1600,81
+Opel Zafira Tourer,2013,Vienatūris,5500,Dyzelinas,Automatinė,208000,Vilnius,2000,121
+Opel Insignia,2012,Universalas,5500,Dyzelinas,Automatinė,260000,Vilnius,2000,118
+Opel Insignia,2010,Hečbekas,5500,Dyzelinas,Mechaninė,203460,Marijampolė,2000,118
+Opel Vivaro,2007,Krovininis mikroautobusas,5500,Dyzelinas,Mechaninė,137300,Šiauliai,2000,84
+Opel Insignia,2014,Universalas,5550,Dyzelinas,Mechaninė,142000,Marijampolė,2000,88
+Opel Combo,2014,Komercinis,5550,Dyzelinas,Mechaninė,105000,Kaišiadorys,1300,66
+Opel Combo,2017,Vienatūris,5555,Dyzelinas,Mechaninė,111525,Panevėžys,1300,70
+Opel Astra,2015,Universalas,5600,Dyzelinas,Mechaninė,275000,Šiauliai,1600,100
+Opel Insignia,2013,Hečbekas,5600,Dyzelinas,Automatinė,212008,Vilnius,2000,96
+Opel Meriva,2014,Vienatūris,5600,Dyzelinas,Mechaninė,150000,Klaipėda,1600,100
+Opel Astra,2016,Universalas,5600,Dyzelinas,Mechaninė,256494,Marijampolė,1600,81
+Opel Insignia,2015,Universalas,5700,Dyzelinas,Mechaninė,360000,Vilnius,2000,143
+Opel Insignia,2015,Hečbekas,5700,Dyzelinas,Mechaninė,216555,Tauragė,2000,103
+Opel Zafira Tourer,2013,Vienatūris,5749,Dyzelinas,Mechaninė,239575,Plungė,2000,81
+Opel Astra,2019,Universalas,5750,Dyzelinas,Automatinė,158114,Kaunas,1600,100
+Opel Insignia,2012,Universalas,5750,Dyzelinas,Automatinė,214180,Panevėžys,2000,143
+Opel Astra,2014,Hečbekas,5750,Dyzelinas,Mechaninė,169742,Jurbarkas,1700,81
+Opel Corsa,2018,Hečbekas,5800,Dyzelinas,Mechaninė,205000,Kaunas,1300,70
+Opel Zafira Tourer,2014,Vienatūris,5800,Dyzelinas,Mechaninė,186500,Kaunas,1600,100
+Opel Antara,2012,Visureigis / Krosoveris,5800,Dyzelinas,Mechaninė,238000,Utena,2200,120
+Opel Zafira Tourer,2012,Vienatūris,5850,Dyzelinas,Mechaninė,232453,Kaunas,2000,81
+Opel Insignia,2013,Universalas,5850,Dyzelinas,Mechaninė,164000,Radviliškis,2000,118
+Opel Insignia,2014,Universalas,5890,Dyzelinas,Automatinė,271000,Kėdainiai,2000,120
+Opel Ampera,2012,Hečbekas,5900,Benzinas / elektra,Automatinė,219586,Klaipėda,1400,111
+Opel Insignia,2016,Hečbekas,5900,Dyzelinas,Mechaninė,195000,Šiauliai,1600,100
+Opel Insignia,2012,Universalas,5900,Dyzelinas,Automatinė,186500,Vilnius,2000,143
+Opel Crossland X,2021,Visureigis / Krosoveris,5900,Dyzelinas,Automatinė,84675,Kaunas,1500,88
+Opel Antara,2013,Visureigis / Krosoveris,5900,Dyzelinas,Mechaninė,216000,Marijampolė,2200,135
+Opel Insignia,2015,Universalas,5900,Dyzelinas,Automatinė,291099,Klaipėda,2000,96
+Opel Zafira,2013,Vienatūris,5900,Dyzelinas,Mechaninė,238000,Marijampolė,1900,143
+Opel Insignia,2010,Universalas,5950,Dyzelinas,Mechaninė,234000,Telšiai,2000,118
+Opel Vivaro,2006,Keleivinis mikroautobusas,5990,Dyzelinas,Mechaninė,226453,Kelmė,2500,99
+Opel Antara,2010,Visureigis / Krosoveris,5990,Dyzelinas,Mechaninė,182000,Marijampolė,2000,93
+Opel Zafira Tourer,2012,Vienatūris,5999,Dyzelinas,Mechaninė,187000,Tauragė,2000,96
+Opel Zafira Tourer,2012,Vienatūris,5999,Dyzelinas,Mechaninė,187000,Tauragė,2000,81
+Opel Antara,2012,Visureigis / Krosoveris,6000,Dyzelinas,Automatinė,189610,Utena,2200,135
+Opel Insignia,2011,Sedanas,6000,Benzinas / dujos,Automatinė,268000,Druskininkai,2400,134
+Opel Insignia,2017,Universalas,6050,Dyzelinas,Automatinė,270186,Kaunas,1600,100
+Opel Astra,2018,Universalas,6100,Dyzelinas,Mechaninė,223744,Tauragė,1600,81
+Opel Insignia,2014,Universalas,6150,Dyzelinas,Mechaninė,174000,Kuršėnai,2000,96
+Opel Astra,2010,Hečbekas,6200,Benzinas,Automatinė,140000,Šiauliai,1600,132
+Opel Insignia,2016,Universalas,6200,Dyzelinas,Mechaninė,256000,Kaunas,2000,125
+Opel Antara,2011,Visureigis / Krosoveris,6200,Dyzelinas,Automatinė,174000,Mažeikiai,2200,135
+Opel Insignia,2016,Universalas,6200,Dyzelinas,Automatinė,269316,Šiauliai,1600,100
+Opel Astra,2015,Hečbekas,6250,Dyzelinas,Mechaninė,250000,Kaunas,1600,81
+Opel Astra,2016,Hečbekas,6250,Dyzelinas,Mechaninė,170000,Tauragė,1600,81
+Opel Antara,2012,Visureigis / Krosoveris,6300,Dyzelinas,Automatinė,193000,Šiauliai,2200,120
+Opel Insignia,2015,Hečbekas,6300,Dyzelinas,Automatinė,280000,Alytus,2000,120
+Opel Zafira Tourer,2014,Vienatūris,6300,Dyzelinas,Mechaninė,244190,Kaunas,1600,100
+Opel Corsa,2015,Hečbekas,6350,Benzinas,Mechaninė,98000,Kretinga,1000,66
+Opel Zafira Tourer,2015,Vienatūris,6350,Dyzelinas,Mechaninė,197000,Ukmergė,1600,100
+Opel Antara,2012,Visureigis / Krosoveris,6350,Dyzelinas,Mechaninė,207817,Raseiniai,2200,120
+Opel Antara,2012,Visureigis / Krosoveris,6350,Dyzelinas,Mechaninė,176000,Raseiniai,2200,120
+Opel Zafira Tourer,2015,Vienatūris,6350,Dyzelinas,Mechaninė,228800,Kupiškis,2000,125
+Opel Antara,2014,Visureigis / Krosoveris,6400,Dyzelinas,Automatinė,219000,Klaipėda,2200,120
+Opel Astra,2015,Hečbekas,6450,Dyzelinas,Mechaninė,86000,Utena,1600,88
+Opel Antara,2013,Visureigis / Krosoveris,6500,Dyzelinas,Mechaninė,189000,Vilnius,2200,135
+Opel Zafira Tourer,2018,Vienatūris,6500,Dyzelinas,Automatinė,281000,Šiauliai,2000,96
+Opel Zafira Tourer,2015,Vienatūris,6500,Dyzelinas,Mechaninė,189000,Tauragė,2000,125
+Opel Astra,2015,Hečbekas,6550,Dyzelinas,Mechaninė,167000,Vilnius,1600,81
+Opel Mokka,2015,Visureigis / Krosoveris,6600,Benzinas,Mechaninė,152000,Kaunas,1400,103
+Opel Insignia,2015,Universalas,6600,Dyzelinas,Mechaninė,311213,Marijampolė,2000,125
+Opel Vivaro,2008,Keleivinis mikroautobusas,6600,Dyzelinas,Automatinė,291500,Kaunas,2500,107
+Opel Astra,2017,Universalas,6650,Dyzelinas,Mechaninė,284000,Pasvalys,1600,81
+Opel Astra,2017,Hečbekas,6655,Dyzelinas,Mechaninė,200000,Telšiai,1600,81
+Opel Insignia,2015,Universalas,6690,Dyzelinas,Mechaninė,286000,Vilnius,2000,125
+Opel Astra,2017,Universalas,6700,Dyzelinas,Mechaninė,253000,Tauragė,1600,81
+Opel Zafira Tourer,2013,Vienatūris,6700,Benzinas / dujos,Automatinė,121600,Kelmė,1400,103
+Opel Vivaro,2013,Krovininis mikroautobusas,6750,Dyzelinas,Mechaninė,200000,Kretinga,2000,84
+Opel Insignia,2015,Universalas,6750,Dyzelinas,Automatinė,270000,Utena,2000,125
+Opel Insignia,2014,Limuzinas,6750,Dyzelinas,Automatinė,98500,Vilnius,2000,143
+Opel Insignia,2017,Universalas,6800,Dyzelinas,Automatinė,157738,Telšiai,1600,100
+Opel Mokka,2014,Visureigis / Krosoveris,6800,Benzinas / dujos,Mechaninė,180153,Vilnius,1400,103
+Opel Astra,2019,Universalas,6800,Dyzelinas,Mechaninė,189000,Tauragė,1500,77
+Opel Corsa,2017,Hečbekas,6800,Benzinas,Automatinė,147730,Molėtai,1400,66
+Opel Zafira Tourer,2014,Vienatūris,6849,Dyzelinas,Automatinė,309000,Šiauliai,2000,121
+Opel Zafira,2012,Vienatūris,6850,Dyzelinas,Mechaninė,235000,Vilnius,1900,121
+Opel Insignia,2015,Universalas,6850,Dyzelinas,Mechaninė,272000,Elektrėnai,2000,125
+Opel Antara,2012,Visureigis / Krosoveris,6850,Dyzelinas,Mechaninė,171558,Vilnius,2200,120
+Opel Insignia,2016,Universalas,6900,Dyzelinas,Mechaninė,250000,Vilnius,1600,100
+Opel Insignia,2015,Universalas,6900,Dyzelinas,Automatinė,304000,Šiauliai,2000,143
+Opel Antara,2013,Visureigis / Krosoveris,6950,Dyzelinas,Mechaninė,199000,Kaunas,2200,120
+Opel Corsa,2014,Hečbekas,6950,Benzinas,Mechaninė,34000,Joniškis,1400,74
+Opel Insignia,2013,Universalas,6950,Dyzelinas,Mechaninė,187000,Kaunas,2000,143
+Opel Astra,2016,Hečbekas,7150,Benzinas,Mechaninė,160000,Šiauliai,1400,74
+Opel Astra,2017,Universalas,7150,Dyzelinas,Mechaninė,174000,Kaunas,1600,81
+Opel Zafira Tourer,2017,Vienatūris,7200,Dyzelinas,Mechaninė,237000,Kaunas,1600,99
+Opel Insignia,2016,Universalas,7200,Dyzelinas,Automatinė,258000,Marijampolė,2000,125
+Opel Mokka,2013,Visureigis / Krosoveris,7200,Dyzelinas,Mechaninė,216299,Tauragė,1700,96
+Opel Insignia,2014,Sedanas,7200,Benzinas / dujos,Mechaninė,148000,Kaunas,1800,103
+Opel Insignia,2014,Universalas,7200,Dyzelinas,Automatinė,332300,Utena,2000,120
+Opel Astra,2016,Universalas,7300,Dyzelinas,Automatinė,259193,Kaunas,1600,100
+Opel Zafira Tourer,2015,Vienatūris,7300,Dyzelinas,Automatinė,218000,Marijampolė,2000,125
+Opel Mokka,2013,Visureigis / Krosoveris,7300,Dyzelinas,Mechaninė,270000,Vilnius,1700,96
+Opel Astra,2015,Hečbekas,7300,Dyzelinas,Automatinė,164000,Mažeikiai,2000,121
+Opel Mokka,2014,Visureigis / Krosoveris,7400,Dyzelinas,Automatinė,230000,Tauragė,1700,96
+Opel Mokka,2014,Visureigis / Krosoveris,7400,Dyzelinas,Mechaninė,169000,Alytus,1700,96
+Opel Insignia,2015,Universalas,7450,Dyzelinas,Mechaninė,253000,Vilnius,1600,100
+Opel Astra,2016,Universalas,7490,Dyzelinas,Mechaninė,191000,Kaunas,1600,100
+Opel Zafira Tourer,2012,Vienatūris,7500,Dyzelinas,Automatinė,157000,Šiauliai,2000,121
+Opel Vivaro,2016,Krovininis mikroautobusas,7600,Dyzelinas,Mechaninė,368800,Vilnius,1600,85
+Opel Zafira Tourer,2014,Vienatūris,7600,Dyzelinas,Mechaninė,232000,Vilkaviškis,1600,100
+Opel Astra,2018,Universalas,7650,Dyzelinas,Mechaninė,205544,Kretinga,1600,81
+Opel Antara,2014,Visureigis / Krosoveris,7650,Dyzelinas,Mechaninė,176000,Šiauliai,2200,135
+Opel Antara,2012,Visureigis / Krosoveris,7699,Benzinas,Automatinė,112036,Kretinga,2400,123
+Opel Astra,2016,Universalas,7700,Dyzelinas,Mechaninė,182000,Tauragė,1600,81
+Opel Zafira Tourer,2015,Vienatūris,7700,Dyzelinas,Mechaninė,145000,Vilnius,1600,100
+Opel Zafira Tourer,2016,Vienatūris,7700,Dyzelinas,Automatinė,232000,Kaunas,2000,96
+Opel Mokka,2015,Visureigis / Krosoveris,7750,Dyzelinas,Mechaninė,160000,Tauragė,1600,100
+Opel Astra,2019,Hečbekas,7750,Dyzelinas,Mechaninė,202341,Tauragė,1500,90
+Opel Zafira,2018,Vienatūris,7750,Dyzelinas,Automatinė,172000,Šiauliai,2000,125
+Opel Mokka,2014,Visureigis / Krosoveris,7800,Dyzelinas,Mechaninė,196000,Panevėžys,1700,96
+Opel Mokka,2014,Visureigis / Krosoveris,7800,Dyzelinas,Mechaninė,227000,Vilnius,1700,96
+Opel Astra,2017,Universalas,7800,Dyzelinas,Automatinė,171500,Vilnius,1600,100
+Opel Antara,2013,Visureigis / Krosoveris,7800,Dyzelinas,Mechaninė,248500,Molėtai,2200,120
+Opel Antara,2011,Visureigis / Krosoveris,7850,Dyzelinas,Automatinė,176000,Vilnius,2200,135
+Opel Insignia,2015,Universalas,7890,Dyzelinas,Mechaninė,276840,Kaunas,2000,88
+Opel Mokka,2016,Visureigis / Krosoveris,7900,Dyzelinas,Automatinė,208000,Panevėžys,1600,100
+Opel Insignia,2014,Universalas,8000,Dyzelinas,Mechaninė,172000,Kaunas,2000,143
+Opel Insignia,2015,Universalas,8000,Dyzelinas,Automatinė,202500,Kaunas,2000,125
+Opel Astra,2016,Sedanas,8000,Benzinas,Automatinė,101000,Vilnius,1400,103
+Opel Astra,2018,Universalas,8000,Dyzelinas,Automatinė,247728,Vilnius,1600,100
+Opel Mokka,2013,Visureigis / Krosoveris,8000,Dyzelinas,Mechaninė,215007,Panevėžys,1700,96
+Opel Mokka,2015,Visureigis / Krosoveris,8200,Dyzelinas,Mechaninė,161165,Šiauliai,1600,100
+Opel Mokka,2013,Visureigis / Krosoveris,8200,Dyzelinas,Mechaninė,152345,Kuršėnai,1700,96
+Opel Mokka,2016,Vienatūris,8200,Benzinas,Mechaninė,148000,Vilkaviškis,1200,103
+Opel Astra,2018,Universalas,8250,Dyzelinas,Mechaninė,262851,Šiauliai,1600,118
+Opel Insignia,2014,Hečbekas,8250,Dyzelinas,Automatinė,199000,Šiauliai,2000,143
+Opel Insignia,2018,Hečbekas,8300,Dyzelinas,Automatinė,235000,Tauragė,1600,100
+Opel Mokka X,2013,Visureigis / Krosoveris,8400,Benzinas,Mechaninė,94000,Kaunas,1400,103
+Opel Astra,2019,Hečbekas,8550,Dyzelinas,Mechaninė,175000,Utena,1600,100
+Opel Mokka,2015,Visureigis / Krosoveris,8700,Dyzelinas,Automatinė,222666,Vilnius,1700,96
+Opel Astra,2017,Universalas,8700,Dyzelinas,Automatinė,249000,Panevėžys,1600,100
+Opel Corsa,2016,Hečbekas,8700,Benzinas,Automatinė,79558,Kaunas,1400,66
+Opel Insignia,2017,Hečbekas,8700,Dyzelinas,Mechaninė,265000,Telšiai,2000,125
+Opel Mokka,2013,Visureigis / Krosoveris,8750,Dyzelinas,Automatinė,144609,Klaipėda,1700,96
+Opel Zafira,2016,Vienatūris,8800,Dyzelinas,Automatinė,143000,Kaunas,1900,125
+Opel Movano,2013,Vienatūris,8900,Dyzelinas,Mechaninė,243000,Tauragė,2300,93
+Opel Mokka,2015,Visureigis / Krosoveris,8900,Dyzelinas,Automatinė,144000,Vilnius,1700,96
+Opel Crossland X,2020,Visureigis / Krosoveris,9000,Dyzelinas,Automatinė,110500,Kaunas,1500,88
+Opel Mokka,2016,Visureigis / Krosoveris,9000,Benzinas,Mechaninė,190000,Kaunas,1400,103
+Opel Vivaro,2016,Keleivinis mikroautobusas,9000,Dyzelinas,Mechaninė,579500,Mažeikiai,1600,92
+Opel Insignia,2019,Universalas,9075,Dyzelinas,Automatinė,150700,Vilnius,1600,100
+Opel Astra,2018,Universalas,9075,Benzinas,Automatinė,130151,Vilnius,1400,110
+Opel Mokka,2013,Visureigis / Krosoveris,9100,Dyzelinas,Automatinė,117000,Marijampolė,1700,96
+Opel Insignia,2017,Universalas,9150,Dyzelinas,Mechaninė,300000,Kaunas,2000,121
+Opel Astra,2020,Universalas,9196,Dyzelinas,Mechaninė,176001,Marijampolė,1500,90
+Opel Mokka,2015,Visureigis / Krosoveris,9200,Dyzelinas,Mechaninė,186000,Šiauliai,1600,100
+Opel Insignia,2018,Universalas,9200,Dyzelinas,Mechaninė,240000,Tauragė,1600,100
+Opel Insignia,2017,Hečbekas,9400,Dyzelinas,Mechaninė,225000,Tauragė,1600,100
+Opel Mokka,2015,Visureigis / Krosoveris,9500,Benzinas,Automatinė,145786,Kaunas,1400,103
+Opel Zafira,2018,Vienatūris,9500,Dyzelinas,Automatinė,193000,Šiauliai,2000,125
+Opel Zafira,2019,Vienatūris,9500,Dyzelinas,Mechaninė,250000,Trakai,2000,125
+Opel Astra,2016,Universalas,9500,Dyzelinas,Automatinė,229000,Marijampolė,1600,100
+Opel Astra,2021,Universalas,9590,Dyzelinas,Mechaninė,156000,Kaunas,1500,90
+Opel Mokka X,2017,Visureigis / Krosoveris,9600,Dyzelinas,Mechaninė,174000,Tauragė,1600,100
+Opel Mokka,2016,Visureigis / Krosoveris,9800,Dyzelinas,Automatinė,128000,Marijampolė,1600,100
+Opel Insignia,2019,Universalas,9800,Dyzelinas,Automatinė,146000,Kaunas,2000,125
+Opel Mokka,2016,Visureigis / Krosoveris,9900,Dyzelinas,Mechaninė,221021,Panevėžys,1600,100
+Opel Grandland X,2018,Visureigis / Krosoveris,9900,Dyzelinas,Automatinė,300000,Kaunas,1600,88
+Opel Mokka X,2017,Visureigis / Krosoveris,9900,Dyzelinas,Automatinė,227000,Tauragė,1600,100
+Opel Astra,2016,Hečbekas,9999,Dyzelinas,Automatinė,235000,Tauragė,1600,100
+Opel Mokka,2016,Visureigis / Krosoveris,10200,Benzinas,Automatinė,125000,Vilnius,1400,103
+Opel Grandland X,2018,Visureigis / Krosoveris,10300,Dyzelinas,Mechaninė,193640,Telšiai,1500,96
+Opel Crossland X,2017,Visureigis / Krosoveris,10400,Dyzelinas,Mechaninė,80000,Klaipėda,1600,85
+Opel Insignia,2018,Hečbekas,10400,Dyzelinas,Mechaninė,158000,Tauragė,1600,81
+Opel Astra,2020,Universalas,10405,Dyzelinas,Mechaninė,131300,Kaunas,1500,77
+Opel Mokka,2017,Visureigis / Krosoveris,10750,Benzinas,Automatinė,155760,Kretinga,1400,109
+Opel Crossland X,2019,Visureigis / Krosoveris,10800,Benzinas,Mechaninė,152197,Šiauliai,1200,96
+Opel Mokka,2016,Visureigis / Krosoveris,10800,Benzinas,Automatinė,65000,Šiauliai,1400,103
+Opel Crossland X,2018,Visureigis / Krosoveris,10849,Benzinas,Mechaninė,98000,Šiauliai,1200,81
+Opel Mokka,2016,Visureigis / Krosoveris,10900,Dyzelinas,Automatinė,125000,Šiauliai,1600,100
+Opel Insignia,2019,Universalas,10900,Dyzelinas,Automatinė,222972,Marijampolė,1600,100
+Opel Astra,2020,Universalas,10999,Dyzelinas,Automatinė,140669,Kaunas,1500,90
+Opel Vivaro,2014,Krovininis mikroautobusas,11000,Dyzelinas,Mechaninė,82533,Kaunas,1600,66
+Opel Mokka,2019,Visureigis / Krosoveris,11000,Benzinas / dujos,Mechaninė,40,Vilnius,1400,103
+Opel Insignia,2018,Universalas,11000,Dyzelinas,Automatinė,245000,"Jelgava, Latvija",1600,100
+Opel Mokka X,2017,Visureigis / Krosoveris,11199,Benzinas,Automatinė,152017,Kretinga,1400,103
+Opel Astra,2020,Universalas,11200,Dyzelinas,Automatinė,132000,Vilnius,1500,90
+Opel Grandland X,2020,Visureigis / Krosoveris,11200,Dyzelinas,Mechaninė,172000,Vilnius,1500,96
+Opel Mokka X,2018,Visureigis / Krosoveris,11200,Benzinas,Mechaninė,85000,Šiauliai,1600,85
+Opel Insignia,2018,Sedanas,11300,Dyzelinas,Automatinė,220000,Kaunas,1600,100
+Opel Crossland X,2018,Visureigis / Krosoveris,11300,Dyzelinas,Mechaninė,147000,Marijampolė,1500,75
+Opel Mokka,2016,Visureigis / Krosoveris,11500,Dyzelinas,Automatinė,121000,Šiauliai,1600,100
+Opel Mokka X,2017,Visureigis / Krosoveris,11500,Benzinas,Automatinė,144000,Kretinga,1400,109
+Opel Insignia,2014,Sedanas,11500,Benzinas,Automatinė,98000,Klaipėda,2000,193
+Opel Mokka X,2017,Visureigis / Krosoveris,11500,Benzinas,Mechaninė,57400,Vilnius,1600,85
+Opel Insignia,2018,Universalas,11500,Dyzelinas,Automatinė,199000,Vilnius,2000,125
+Opel Movano,2013,Krovininis mikroautobusas,11650,Dyzelinas,Mechaninė,153936,Alytus,2300,92
+Opel Astra,2018,Universalas,11750,Dyzelinas,Mechaninė,140794,Šakiai,1600,81
+Opel Crossland X,2017,Visureigis / Krosoveris,11777,Dyzelinas,Automatinė,93605,Radviliškis,1200,81
+Opel Mokka X,2018,Visureigis / Krosoveris,11800,Benzinas,Automatinė,67500,Vilnius,1400,103
+Opel Movano,2020,Krovininis mikroautobusas,11950,Dyzelinas,Mechaninė,188643,Alytus,2300,100
+Opel Astra,2019,Hečbekas,11990,Benzinas,Mechaninė,110000,Kaunas,1400,92
+Opel Vivaro,2018,Krovininis mikroautobusas,12000,Dyzelinas,Mechaninė,251516,Vilnius,1600,88
+Opel Insignia,2018,Universalas,12150,Dyzelinas,Automatinė,232000,Vilnius,2000,154
+Opel Crossland X,2017,Visureigis / Krosoveris,12350,Benzinas,Automatinė,35000,Ukmergė,1200,81
+Opel Mokka X,2018,Visureigis / Krosoveris,12499,Benzinas,Automatinė,67400,Plungė,1400,112
+Opel Grandland X,2019,Visureigis / Krosoveris,12500,Dyzelinas,Automatinė,205000,Marijampolė,1500,96
+Opel Crossland X,2018,Visureigis / Krosoveris,12700,Benzinas,Automatinė,119000,Kaunas,1200,81
+Opel Grandland X,2019,Visureigis / Krosoveris,12766,Dyzelinas,Mechaninė,199000,Marijampolė,1500,96
+Opel Mokka,2019,Sedanas,12800,Benzinas,Automatinė,8258,Šiauliai,1400,103
+Opel Grandland X,2019,Visureigis / Krosoveris,12900,Dyzelinas,Automatinė,128000,Kaunas,1500,96
+Opel Astra,2020,Hečbekas,12900,Benzinas,Mechaninė,30700,Kelmė,1200,107
+Opel Insignia,2019,Universalas,13000,Dyzelinas,Mechaninė,142000,Vilnius,1600,100
+Opel Insignia,2018,Universalas,13000,Benzinas,Automatinė,154800,Radviliškis,1500,121
+Opel Crossland,2021,Visureigis / Krosoveris,13000,Dyzelinas,Automatinė,158000,Tauragė,1500,88
+Opel Grandland X,2019,Visureigis / Krosoveris,13100,Dyzelinas,Automatinė,138000,Kaunas,1500,96
+Opel Vivaro,2016,Keleivinis mikroautobusas,13200,Dyzelinas,Mechaninė,270000,Šiauliai,1600,92
+Opel Combo,2020,Vienatūris,13300,Dyzelinas,Mechaninė,240300,Kaunas,1500,75
+Opel Insignia,2021,Universalas,13500,Dyzelinas,Automatinė,130000,Tauragė,1500,90
+Opel Crossland,2021,Visureigis / Krosoveris,13500,Benzinas,Automatinė,18625,Kaunas,1200,96
+Opel Crossland,2021,Visureigis / Krosoveris,13700,Benzinas,Mechaninė,85900,Kaunas,1200,81
+Opel Mokka X,2021,Vienatūris,13800,Benzinas,Automatinė,62000,Vilnius,1400,103
+Opel Zafira Tourer,2019,Vienatūris,13850,Dyzelinas,Mechaninė,102758,Vilnius,1600,100
+Opel Grandland X,2020,Visureigis / Krosoveris,13950,Dyzelinas,Automatinė,201000,Kaunas,2000,130
+Opel Grandland X,2020,Visureigis / Krosoveris,13982,Dyzelinas,Automatinė,120000,Kalvarija,1500,96
+Opel Combo,2018,Vienatūris,13990,Dyzelinas,Mechaninė,130000,"Rīga, Latvija",1500,75
+Opel Insignia,2017,Hečbekas,14000,Benzinas,Automatinė,90730,Vilnius,1500,121
+Opel Grandland X,2019,Visureigis / Krosoveris,14399,Dyzelinas,Mechaninė,147000,Vilnius,1500,96
+Opel Grandland X,2018,Visureigis / Krosoveris,14400,Benzinas,Automatinė,73743,Vilnius,1200,96
+Opel Crossland,2022,Hečbekas,14400,Benzinas,Automatinė,32000,Kaunas,1200,96
+Opel Astra,2018,Universalas,14490,Benzinas,Automatinė,43000,Vilnius,1400,110
+Opel Combo,2021,Krovininis mikroautobusas,14600,Dyzelinas,Mechaninė,41500,Vilnius,1500,56
+Opel Vivaro,2022,Krovininis mikroautobusas,14750,Dyzelinas,Mechaninė,56711,Alytus,1500,75
+Opel Combo,2019,Vienatūris,14786,Dyzelinas,Mechaninė,105952,Kaunas,1500,75
+Opel Insignia,2019,Universalas,15300,Dyzelinas,Automatinė,170000,Vilnius,2000,125
+Opel Insignia,2019,Hečbekas,15400,Dyzelinas,Automatinė,124000,Šiauliai,1600,100
+Opel Grandland X,2018,Visureigis / Krosoveris,15700,Benzinas,Automatinė,114000,Gargždai,1200,96
+Opel Grandland X,2019,Visureigis / Krosoveris,16000,Benzinas,Automatinė,140000,Vilnius,1200,96
+Opel Insignia,2021,Universalas,16399,Dyzelinas,Automatinė,79177,Kaunas,1500,90
+Opel Insignia,2018,Hečbekas,16800,Benzinas,Automatinė,109000,Elektrėnai,1500,121
+Opel Grandland X,2019,Vienatūris,16900,Dyzelinas,Automatinė,152200,Vilnius,2000,130
+Opel Vivaro,2020,Krovininis mikroautobusas,16900,Dyzelinas,Mechaninė,239000,Kaunas,2000,90
+Opel Insignia,2019,Universalas,17350,Benzinas,Automatinė,78350,Kaunas,1500,121
+Opel Mokka,2022,Visureigis / Krosoveris,17400,Dyzelinas,Mechaninė,25689,Klaipėda,1500,81
+Opel Vivaro,2020,Krovininis mikroautobusas,17500,Dyzelinas,Automatinė,289000,Kaunas,2000,130
+Opel Insignia,2020,Universalas,17800,Dyzelinas,Automatinė,81000,Vilnius,2000,125
+Opel Grandland X,2018,Visureigis / Krosoveris,18499,Benzinas,Automatinė,84218,Kretinga,1200,96
+Opel Insignia,2019,Universalas,18499,Benzinas,Automatinė,38241,Kaunas,1600,147
+Opel Vivaro,2021,Krovininis mikroautobusas,19000,Dyzelinas,Mechaninė,81000,Vilkaviškis,1500,88
+Opel Insignia,2022,Universalas,19400,Dyzelinas,Automatinė,68000,Kaunas,2000,128
+Opel Vivaro,2020,Krovininis mikroautobusas,20900,Dyzelinas,Mechaninė,59300,Šiauliai,1500,88
+Opel Mokka,2021,Visureigis / Krosoveris,20900,Benzinas,Automatinė,48000,Klaipėda,1200,96
+Opel Vivaro,2021,Krovininis mikroautobusas,21350,Dyzelinas,Automatinė,115010,Kaunas,2000,90
+Opel Mokka,2022,Visureigis / Krosoveris,21500,Benzinas,Automatinė,65000,Kaunas,1200,96
+Opel Grandland,2024,Visureigis / Krosoveris,24000,Benzinas,Automatinė,150,Kaunas,1200,96
+Opel Astra,1999,Universalas,320,Dyzelinas,Mechaninė,300000,Vilnius,2000,74
+Opel Vectra,2004,Universalas,350,Dyzelinas,Mechaninė,472000,Prienai,2200,92
+Opel Astra,2005,Kupė (Coupe),399,Benzinas,Mechaninė,304525,Panevėžys,1600,77
+Opel Zafira,2003,Vienatūris,400,Dyzelinas,Mechaninė,350000,Kaunas,2200,92
+Opel Astra,2000,Hečbekas,400,Dyzelinas,Mechaninė,323300,Šiauliai,2000,74
+Opel Astra,1998,Universalas,400,Dyzelinas,Mechaninė,358000,Vilnius,2000,60
+Opel Zafira,2004,Vienatūris,400,Dyzelinas,Automatinė,320000,Anykščiai,2000,74
+Opel Vectra,2003,Sedanas,420,Dyzelinas,Mechaninė,280000,Vilnius,2000,74
+Opel Omega,2003,Universalas,450,Dyzelinas,Automatinė,230000,Trakai,2500,110
+Opel Vectra,2003,Sedanas,450,Dyzelinas,Mechaninė,250000,Vilnius,2200,92
+Opel Zafira,2004,Vienatūris,450,Dyzelinas,Mechaninė,370000,Panevėžys,2200,92
+Opel Astra,2000,Hečbekas,450,Dyzelinas,Mechaninė,287000,Vilnius,1700,55
+Opel Astra,1995,Hečbekas,450,Benzinas,Mechaninė,153694,Alytus,1400,44
+Opel Vectra,2000,Sedanas,450,Benzinas / dujos,Mechaninė,190000,Kaunas,1600,72
+Opel Corsa,1994,Hečbekas,500,Benzinas,Automatinė,219000,Rokiškis,1400,44
+Opel Astra,1999,Hečbekas,500,Dyzelinas,Mechaninė,267244,Mažeikiai,2000,74
+Opel Signum,2004,Hečbekas,500,Dyzelinas,Mechaninė,350000,Vilnius,2200,92
+Opel Zafira,2004,Vienatūris,500,Dyzelinas,Mechaninė,200000,Vilnius,2200,92
+Opel Astra,2002,Hečbekas,500,Dyzelinas,Mechaninė,264606,Vilnius,2000,74
+Opel Vectra,2004,Universalas,520,Dyzelinas,Mechaninė,470000,Šilalė,2200,97
+Opel Signum,2004,Hečbekas,550,Dyzelinas,Mechaninė,375300,Vilnius,2200,92
+Opel Astra,2003,Hečbekas,550,Dyzelinas,Mechaninė,340000,Vilnius,2200,92
+Opel Astra,2000,Hečbekas,550,Dyzelinas,Mechaninė,185246,Kaunas,1700,55
+Opel Zafira,2003,Vienatūris,550,Dyzelinas,Mechaninė,398444,Jonava,2000,74
+Opel Astra,2001,Sedanas,550,Dyzelinas,Automatinė,240000,Kaunas,2000,60
+Opel Corsa,2004,Hečbekas,550,Dyzelinas,Mechaninė,293000,Vilnius,1300,51
+Opel Zafira,2004,Vienatūris,550,Dyzelinas,Automatinė,260000,Kaunas,2000,74
+Opel Vectra,2003,Sedanas,550,Dyzelinas,Mechaninė,347155,Vilnius,2200,92
+Opel Zafira,2001,Vienatūris,550,Dyzelinas,Mechaninė,327000,Marijampolė,2000,74
+Opel Meriva,2003,Vienatūris,590,Benzinas,Mechaninė,185000,Prienai,1600,74
+Opel Signum,2003,Hečbekas,599,Dyzelinas,Mechaninė,300000,Kaunas,2200,92
+Opel Vectra,2004,Hečbekas,600,Dyzelinas,Mechaninė,373600,Kaunas,1900,110
+Opel Meriva,2004,Hečbekas,600,Dyzelinas,Mechaninė,345000,Panevėžys,1700,74
+Opel Zafira,2003,Vienatūris,600,Dyzelinas,Mechaninė,360000,Kaunas,2200,92
+Opel Zafira,2001,Hečbekas,600,Dyzelinas,Mechaninė,395456,Biržai,2000,74
+Opel Vectra,1999,Sedanas,600,Dyzelinas,Mechaninė,269000,Palanga,2000,74
+Opel Vectra,2000,Universalas,600,Dyzelinas,Mechaninė,305000,Vilnius,2000,74
+Opel Zafira,2003,Vienatūris,600,Dyzelinas,Mechaninė,240000,Klaipėda,2000,74
+Opel Astra,1999,Hečbekas,600,Dyzelinas,Mechaninė,315714,Alytus,2000,60
+Opel Astra,2005,Universalas,600,Dyzelinas,Mechaninė,350000,Kuršėnai,1900,74
+Opel Astra,2001,Hečbekas,649,Benzinas,Mechaninė,188623,Marijampolė,1600,62
+Opel Zafira,2003,Vienatūris,650,Dyzelinas,Mechaninė,325497,Mažeikiai,2000,74
+Opel Astra,1998,Hečbekas,650,Benzinas,Mechaninė,241500,Raseiniai,1600,74
+Opel Astra,2008,Universalas,650,Dyzelinas,Mechaninė,254241,Vilnius,1700,74
+Opel Astra,2002,Universalas,650,Dyzelinas,Mechaninė,270000,Vilkaviškis,1700,55
+Opel Astra,2005,Hečbekas,650,Dyzelinas,Mechaninė,260000,Vilnius,1700,74
+Opel Astra,2005,Universalas,650,Dyzelinas,Mechaninė,384264,Vilkaviškis,1900,88
+Opel Zafira,2000,Vienatūris,650,Dyzelinas,Mechaninė,255000,Vilnius,2000,74
+Opel Corsa,2004,Hečbekas,650,Dyzelinas,Mechaninė,255000,Kaunas,1300,51
+Opel Vectra,2002,Hečbekas,700,Dyzelinas,Automatinė,195000,Vilnius,2200,92
+Opel Zafira,2001,Vienatūris,700,Benzinas,Mechaninė,228522,Jonava,2200,108
+Opel Zafira,2006,Vienatūris,700,Dyzelinas,Mechaninė,313268,Vilnius,1900,74
+Opel Zafira,2005,Vienatūris,700,Dyzelinas,Mechaninė,292000,Panevėžys,2000,74
+Opel Astra,2000,Hečbekas,700,Dyzelinas,Automatinė,289000,Kaunas,2000,60
+Opel Vectra,2004,Universalas,700,Dyzelinas,Automatinė,354435,Telšiai,2200,92
+Opel Astra,2000,Universalas,700,Dyzelinas,Mechaninė,25654,Panevėžys,2000,74
+Opel Vectra,2003,Sedanas,720,Benzinas / dujos,Mechaninė,200000,Šiauliai,2200,108
+Opel Zafira,2002,Vienatūris,749,Benzinas / dujos,Mechaninė,220000,Kaunas,1600,74
+Opel Astra,1999,Hečbekas,750,Benzinas,Automatinė,152000,Vilnius,1800,85
+Opel Signum,2003,Hečbekas,750,Dyzelinas,Mechaninė,310000,Kėdainiai,3000,130
+Opel Zafira,2002,Vienatūris,750,Dyzelinas,Mechaninė,251786,Šiauliai,2200,92
+Opel Astra,2006,Hečbekas,750,Dyzelinas,Mechaninė,213271,Kaunas,1700,74
+Opel Astra,2002,Hečbekas,750,Benzinas,Mechaninė,250000,Vilkaviškis,1600,62
+Opel Astra,2002,Universalas,750,Dyzelinas,Mechaninė,252000,Zarasai,2000,75
+Opel Vectra,2001,Sedanas,750,Benzinas,Mechaninė,230100,Vilnius,2200,108
+Opel Zafira,2003,Vienatūris,750,Dyzelinas,Mechaninė,350820,Vilnius,2200,92
+Opel Meriva,2009,Vienatūris,750,Dyzelinas,Mechaninė,224714,Kaunas,1700,74
+Opel Vectra,2003,Sedanas,750,Dyzelinas,Mechaninė,402816,Vilnius,2200,92
+Opel Vectra,2004,Sedanas,750,Benzinas,Mechaninė,240000,Alytus,2200,108
+Opel Astra,2001,Universalas,750,Dyzelinas,Mechaninė,345000,Šilutė,1700,80
+Opel Astra,2006,Universalas,800,Dyzelinas,Mechaninė,400000,Kaunas,1900,88
+Opel Zafira,2003,Vienatūris,800,Benzinas,Mechaninė,210000,Vilkaviškis,1600,74
+Opel Agila,2001,Vienatūris,800,Benzinas,Mechaninė,169000,Šilalė,1000,43
+Opel Astra,2007,Universalas,800,Dyzelinas,Mechaninė,323796,Marijampolė,1900,74
+Opel Astra,2004,Hečbekas,800,Benzinas,Mechaninė,260500,Jonava,100,77
+Opel Tigra,2004,Kabrioletas,800,Benzinas,Automatinė,94497,Klaipėda,1400,66
+Opel Zafira,2002,Vienatūris,800,Dyzelinas,Mechaninė,334000,Trakai,2000,74
+Opel Vectra,1997,Sedanas,800,Benzinas / dujos,Automatinė,217000,Anykščiai,1600,74
+Opel Combo,2002,Krovininis mikroautobusas,847,Dyzelinas,Mechaninė,274272,Vilnius,1700,55
+Opel Astra,2005,Hečbekas,850,Dyzelinas,Mechaninė,288210,Mažeikiai,1900,110
+Opel Omega,2001,Sedanas,850,Dyzelinas,Mechaninė,270000,Vilnius,2500,110
+Opel Astra,2005,Kupė (Coupe),850,Benzinas,Mechaninė,208559,Vilkaviškis,1600,77
+Opel Astra,2001,Universalas,850,Benzinas,Mechaninė,250000,Vilkaviškis,1600,62
+Opel Astra,1999,Hečbekas,850,Benzinas,Mechaninė,179700,Šiauliai,1600,74
+Opel Signum,2004,Hečbekas,850,Dyzelinas,Mechaninė,299999,Kaunas,2200,92
+Opel Zafira,2003,Vienatūris,850,Dyzelinas,Mechaninė,299154,Marijampolė,2200,92
+Opel Astra,2005,Universalas,850,Dyzelinas,Mechaninė,410840,Kaunas,1900,88
+Opel Vectra,2007,Universalas,850,Dyzelinas,Mechaninė,288920,Kėdainiai,1900,88
+Opel Zafira,2002,Vienatūris,850,Dyzelinas,Mechaninė,280000,Kelmė,2000,74
+Opel Astra,2002,Universalas,890,Dyzelinas,Automatinė,298941,Vilnius,2000,60
+Opel Vectra,2004,Hečbekas,900,Dyzelinas,Mechaninė,240057,Kėdainiai,2200,92
+Opel Zafira,2004,Vienatūris,900,Dyzelinas,Mechaninė,313000,Joniškis,2000,74
+Opel Astra,2009,Universalas,900,Benzinas,Mechaninė,330000,Kelmė,1600,85
+Opel Astra,2005,Hečbekas,900,Benzinas,Mechaninė,196140,Vilnius,1600,77
+Opel Signum,2007,Hečbekas,900,Dyzelinas,Mechaninė,389650,Vilkaviškis,1900,110
+Opel Astra,2004,Hečbekas,900,Dyzelinas,Mechaninė,337005,Vilnius,1700,74
+Opel Signum,2004,Universalas,900,Dyzelinas,Mechaninė,299676,Kaunas,2200,92
+Opel Astra,1999,Sedanas,900,Dyzelinas,Mechaninė,307071,Ukmergė,2000,60
+Opel Vectra,2007,Sedanas,900,Dyzelinas,Mechaninė,250000,Panevėžys,1900,88
+Opel Vectra,2004,Universalas,950,Dyzelinas,Mechaninė,310000,Kretinga,1900,110
+Opel Corsa,2003,Hečbekas,950,Benzinas,Automatinė,57000,Kaunas,1400,66
+Opel Astra,2002,Hečbekas,950,Benzinas,Mechaninė,205900,Klaipėda,1600,74
+Opel Meriva,2003,Vienatūris,950,Dyzelinas,Mechaninė,324000,Vilnius,1700,74
+Opel Meriva,2009,Vienatūris,950,Dyzelinas,Mechaninė,159000,Vilnius,1300,55
+Opel Zafira,2003,Vienatūris,950,Benzinas,Mechaninė,220000,Marijampolė,1600,74
+Opel Astra,2002,Sedanas,990,Dyzelinas,Automatinė,284000,Vilnius,2000,60
+Opel Corsa,2010,Hečbekas,999,Dyzelinas,Mechaninė,274684,Kupiškis,1300,51
+Opel Astra,2003,Kabrioletas,1000,Dyzelinas,Mechaninė,230000,Vilnius,2200,92
+Opel Zafira,2007,Vienatūris,1000,Dyzelinas,Mechaninė,265000,Vilnius,1900,88
+Opel Zafira,2004,Vienatūris,1000,Dyzelinas,Mechaninė,301899,Vilnius,2000,74
+Opel Signum,2005,Universalas,1000,Dyzelinas,Mechaninė,449676,Vilkaviškis,1900,110
+Opel Astra,2005,Universalas,1000,Dyzelinas,Mechaninė,303511,Ignalina,1700,74
+Opel Corsa,2007,Hečbekas,1000,Benzinas,Mechaninė,203897,Vilnius,1400,66
+Opel Corsa,2010,Hečbekas,1000,Dyzelinas,Mechaninė,301536,Mažeikiai,1300,66
+Opel Meriva,2005,Vienatūris,1000,Dyzelinas,Mechaninė,265000,Kaunas,1700,74
+Opel Zafira,2005,Vienatūris,1000,Dyzelinas,Mechaninė,259000,Utena,1900,74
+Opel Corsa,2009,Hečbekas,1000,Benzinas,Mechaninė,189244,Šiauliai,1400,66
+Opel Astra,2006,Hečbekas,1050,Dyzelinas,Mechaninė,435000,Kaunas,1900,110
+Opel Astra,2005,Universalas,1090,Dyzelinas,Mechaninė,450000,Kaunas,1900,74
+Opel Signum,2006,Universalas,1100,Dyzelinas,Mechaninė,322080,Vilnius,1900,74
+Opel Astra,2005,Hečbekas,1100,Dyzelinas,Mechaninė,290000,Vilnius,1900,88
+Opel Astra,2005,Universalas,1100,Benzinas,Mechaninė,120000,Vilkaviškis,1600,77
+Opel Meriva,2004,Vienatūris,1100,Dyzelinas,Mechaninė,323856,Klaipėda,1700,74
+Opel Frontera,1998,Visureigis / Krosoveris,1100,Benzinas,Mechaninė,197000,Pakruojis,2200,100
+Opel Meriva,2007,Universalas,1100,Benzinas / dujos,Automatinė,224725,Vilnius,200,92
+Opel Vectra,2002,Sedanas,1100,Dyzelinas,Mechaninė,374565,Naujoji Akmenė,2200,92
+Opel Vectra,2002,Hečbekas,1150,Dyzelinas,Mechaninė,333735,Mažeikiai,2200,92
+Opel Astra,2005,Universalas,1150,Dyzelinas,Mechaninė,197181,Klaipėda,1700,74
+Opel Vectra,2007,Universalas,1150,Benzinas,Mechaninė,284091,Vilnius,2200,114
+Opel Meriva,2006,Vienatūris,1150,Dyzelinas,Mechaninė,245000,Vilnius,1300,55
+Opel Signum,2006,Universalas,1199,Dyzelinas,Mechaninė,280000,Vilnius,1900,110
+Opel Signum,2007,Hečbekas,1200,Dyzelinas,Automatinė,323000,Vilnius,3000,135
+Opel Astra,2008,Universalas,1200,Benzinas,Mechaninė,264000,Vilkaviškis,1400,66
+Opel Zafira,2003,Vienatūris,1200,Dyzelinas,Mechaninė,280000,Vilnius,2000,74
+Opel Astra,2004,Hečbekas,1200,Dyzelinas,Mechaninė,355000,Kaunas,1700,59
+Opel Astra,2006,Universalas,1200,Dyzelinas,Automatinė,330000,Kaunas,1900,88
+Opel Meriva,2009,Vienatūris,1200,Dyzelinas,Mechaninė,269780,Šilutė,1700,74
+Opel Meriva,2003,Vienatūris,1200,Benzinas,Mechaninė,163000,Kalvarija,1600,74
+Opel Zafira,2007,Vienatūris,1200,Dyzelinas,Mechaninė,368000,Vilnius,1900,74
+Opel Astra,2007,Hečbekas,1200,Dyzelinas,Mechaninė,244500,Širvintos,1300,66
+Opel Vectra,2004,Universalas,1200,Dyzelinas,Automatinė,332000,Vilnius,2200,92
+Opel Vivaro,2007,Komercinis,1220,Dyzelinas,Mechaninė,370000,Vilnius,2000,88
+Opel Vectra,2005,Sedanas,1250,Dyzelinas,Mechaninė,340000,Kaunas,1900,88
+Opel Signum,2008,Hečbekas,1250,Benzinas,Mechaninė,215083,Marijampolė,1800,103
+Opel Meriva,2006,Vienatūris,1250,Benzinas / dujos,Mechaninė,300100,Kaunas,1400,66
+Opel Vectra,2002,Sedanas,1250,Dyzelinas,Mechaninė,229800,Klaipėda,2200,92
+Opel Astra,2004,Hečbekas,1290,Benzinas,Mechaninė,197590,Vilnius,1600,77
+Opel Zafira,2005,Vienatūris,1299,Dyzelinas,Mechaninė,304521,Šilutė,2000,74
+Opel Astra,2009,Hečbekas,1299,Benzinas / dujos,Mechaninė,276000,Kaunas,1400,66
+Opel Astra,2002,Hečbekas,1300,Benzinas,Automatinė,110000,Vilkaviškis,1600,62
+Opel Astra,2006,Universalas,1300,Benzinas,Mechaninė,186444,Klaipėda,1400,66
+Opel Astra,2002,Universalas,1300,Benzinas,Automatinė,260000,Vilkaviškis,1600,74
+Opel Astra,2005,Hečbekas,1300,Dyzelinas,Mechaninė,395000,Panevėžys,1900,88
+Opel Astra,2005,Kupė (Coupe),1300,Dyzelinas,Mechaninė,291558,Ukmergė,1900,110
+Opel Astra,2002,Kabrioletas,1300,Benzinas / dujos,Mechaninė,210000,Kaunas,1600,74
+Opel Astra,2004,Hečbekas,1300,Benzinas,Automatinė,176927,Vilnius,1600,77
+Opel Corsa,2007,Hečbekas,1300,Dyzelinas,Mechaninė,270000,Vilnius,1300,55
+Opel Astra,2006,Hečbekas,1300,Dyzelinas,Mechaninė,200000,Joniškis,1700,74
+Opel Vectra,2005,Hečbekas,1340,Dyzelinas,Mechaninė,281266,Kretinga,1900,110
+Opel Astra,2009,Hečbekas,1350,Benzinas,Mechaninė,209155,Marijampolė,1600,85
+Opel Astra,2009,Universalas,1350,Dyzelinas,Mechaninė,311000,Kaunas,1900,74
+Opel Zafira,2007,Vienatūris,1350,Dyzelinas,Mechaninė,260000,Klaipėda,1900,88
+Opel Astra,2009,Kupė (Coupe),1350,Dyzelinas,Mechaninė,205000,Šiauliai,1700,92
+Opel Zafira,2004,Vienatūris,1350,Dyzelinas,Mechaninė,253144,Utena,2000,74
+Opel Meriva,2005,Vienatūris,1390,Benzinas / dujos,Mechaninė,233000,Kaunas,1600,74
+Opel Astra,2009,Hečbekas,1400,Benzinas,Mechaninė,228900,Vilnius,1400,66
+Opel Astra,2003,Kabrioletas,1400,Dyzelinas,Mechaninė,250000,Panevėžys,2200,92
+Opel Astra,2005,Hečbekas,1400,Benzinas,Mechaninė,148000,Marijampolė,1400,66
+Opel Vectra,2005,Universalas,1400,Dyzelinas,Mechaninė,264000,Šilutė,1900,110
+Opel Astra,2003,Universalas,1400,Benzinas,Mechaninė,190000,Vilkaviškis,1600,76
+Opel Astra,2005,Universalas,1400,Dyzelinas,Mechaninė,258000,Kaunas,1900,88
+Opel Astra,2009,Sedanas,1400,Benzinas,Mechaninė,185700,Druskininkai,1600,85
+Opel Meriva,2006,Vienatūris,1400,Benzinas,Mechaninė,226380,Šilutė,1400,66
+Opel Vectra,2006,Universalas,1449,Dyzelinas,Mechaninė,340587,Klaipėda,1900,88
+Opel Astra,2006,Universalas,1450,Dyzelinas,Mechaninė,238000,Marijampolė,1900,88
+Opel Astra,2005,Hečbekas,1450,Benzinas,Mechaninė,185000,Rokiškis,1600,77
+Opel Meriva,2009,Hečbekas,1450,Dyzelinas,Mechaninė,220000,Prienai,1700,92
+Opel Zafira,2003,Vienatūris,1450,Benzinas,Mechaninė,189000,Marijampolė,1800,92
+Opel Vectra,1992,Hečbekas,1490,Dyzelinas,Mechaninė,284000,Pasvalys,1700,60
+Opel Insignia,2009,Hečbekas,1499,Dyzelinas,Mechaninė,203934,Klaipėda,2000,96
+Opel Astra,2006,Universalas,1499,Benzinas,Mechaninė,323000,Šakiai,1600,77
+Opel Astra,2007,Universalas,1499,Dyzelinas,Mechaninė,244000,Mažeikiai,1700,74
+Opel Zafira,2008,Vienatūris,1499,Dyzelinas,Mechaninė,310264,Mažeikiai,1700,92
+Opel Zafira,2007,Vienatūris,1499,Dyzelinas,Mechaninė,296000,Vilnius,1900,88
+Opel Astra,2005,Universalas,1499,Dyzelinas,Mechaninė,280000,Marijampolė,1700,74
+Opel Astra,2001,Kabrioletas,1500,Benzinas,Mechaninė,180000,Vilnius,1800,92
+Opel Astra,2007,Universalas,1500,Benzinas,Mechaninė,298671,Kaunas,1600,77
+Opel Frontera,1999,Visureigis / Krosoveris,1500,Dyzelinas,Mechaninė,247000,Kaišiadorys,2200,85
+Opel Zafira,2006,Vienatūris,1500,Dyzelinas,Mechaninė,280000,Šiauliai,1900,88
+Opel Vectra,2005,Universalas,1500,Benzinas,Mechaninė,186800,Kaunas,1800,90
+Opel Signum,2007,Hečbekas,1500,Dyzelinas,Mechaninė,349825,Vilnius,1900,88
+Opel Vectra,2004,Universalas,1500,Dyzelinas,Mechaninė,100000,Kelmė,1900,110
+Opel Astra,2007,Kupė (Coupe),1500,Benzinas,Mechaninė,190000,Panevėžys,1800,103
+Opel Astra,2005,Kupė (Coupe),1500,Dyzelinas,Mechaninė,215000,Kaunas,1900,110
+Opel Signum,2006,Hečbekas,1500,Dyzelinas,Automatinė,368200,Vilnius,1900,110
+Opel Corsa,2006,Hečbekas,1500,Dyzelinas,Mechaninė,21300,Telšiai,1300,66
+Opel Vectra,2008,Universalas,1500,Dyzelinas,Automatinė,380790,Radviliškis,1900,110
+Opel Zafira,2005,Vienatūris,1550,Dyzelinas,Mechaninė,207251,Panevėžys,2000,74
+Opel Astra,2006,Hečbekas,1550,Dyzelinas,Mechaninė,302295,Kaunas,1300,66
+Opel Astra,2006,Universalas,1550,Dyzelinas,Mechaninė,298270,Klaipėda,1900,88
+Opel Vectra,2004,Sedanas,1550,Dyzelinas,Mechaninė,286564,Vilnius,1900,110
+Opel Zafira,2006,Vienatūris,1550,Dyzelinas,Mechaninė,3300000,Panevėžys,1900,88
+Opel Meriva,2009,Vienatūris,1590,Dyzelinas,Mechaninė,187524,Vilnius,1300,55
+Opel Astra,2003,Universalas,1599,Benzinas,Mechaninė,213998,Marijampolė,1600,92
+Opel Astra,2005,Universalas,1600,Benzinas,Automatinė,190000,Vilkaviškis,1800,92
+Opel Corsa,2008,Hečbekas,1600,Dyzelinas,Mechaninė,215000,Kaunas,1300,55
+Opel Astra,2010,Universalas,1600,Dyzelinas,Mechaninė,240904,Kaunas,1900,74
+Opel Vectra,2007,Universalas,1600,Dyzelinas,Mechaninė,352000,Vilnius,1900,88
+Opel Corsa,2007,Hečbekas,1600,Benzinas,Mechaninė,128000,Kaišiadorys,1400,66
+Opel Astra,2007,Universalas,1650,Benzinas,Mechaninė,203000,Marijampolė,1600,77
+Opel Insignia,2011,Universalas,1650,Dyzelinas,Mechaninė,53000,Vievis,2000,118
+Opel Astra,2007,Universalas,1650,Dyzelinas,Mechaninė,250000,Rokiškis,1900,88
+Opel Frontera,1997,Visureigis / Krosoveris,1650,Dyzelinas,Mechaninė,211000,Kaunas,2500,85
+Opel Frontera,2002,Visureigis / Krosoveris,1650,Dyzelinas,Mechaninė,295632,Rokiškis,2200,85
+Opel Senator,1991,Sedanas,1650,Benzinas,Mechaninė,200000,Klaipėda,3000,150
+Opel Astra,2007,Hečbekas,1650,Dyzelinas,Mechaninė,340500,Jonava,1700,74
+Opel Astra,2004,Hečbekas,1650,Benzinas,Mechaninė,285888,Vilnius,1600,74
+Opel Corsa,2011,Hečbekas,1650,Dyzelinas,Mechaninė,303000,Vilnius,1300,55
+Opel Astra,2005,Universalas,1699,Dyzelinas,Mechaninė,307500,Alytus,1900,110
+Opel Astra,2006,Hečbekas,1700,Dyzelinas,Mechaninė,262200,Kretinga,1900,74
+Opel Tigra,2006,Kabrioletas,1700,Benzinas,Mechaninė,240000,Klaipėda,1400,66
+Opel Astra,2009,Universalas,1700,Dyzelinas,Mechaninė,260532,Radviliškis,1700,81
+Opel Zafira,2008,Vienatūris,1700,Dyzelinas,Mechaninė,301200,Druskininkai,1900,88
+Opel Astra,2007,Universalas,1700,Dyzelinas,Mechaninė,289797,Zarasai,1900,74
+Opel Insignia,2009,Universalas,1700,Dyzelinas,Mechaninė,264480,Šiauliai,2000,118
+Opel Meriva,2007,Vienatūris,1750,Benzinas,Mechaninė,150000,Tauragė,1600,77
+Opel Astra,2007,Universalas,1750,Benzinas,Automatinė,190000,Klaipėda,1600,85
+Opel Zafira,2006,Vienatūris,1750,Dyzelinas,Mechaninė,231000,Marijampolė,1900,74
+Opel Tigra,2006,Kabrioletas,1750,Benzinas,Mechaninė,186000,Vilkaviškis,1400,66
+Opel Astra,2007,Hečbekas,1750,Benzinas,Mechaninė,134500,Vilnius,1400,66
+Opel Meriva,2008,Vienatūris,1800,Benzinas,Mechaninė,202000,Gargždai,1600,77
+Opel Zafira,2008,Vienatūris,1800,Dyzelinas,Mechaninė,294892,Klaipėda,1900,88
+Opel Zafira,2005,Vienatūris,1800,Dyzelinas,Mechaninė,295100,Klaipėda,2200,92
+Opel Vectra,2007,Universalas,1800,Benzinas,Automatinė,230000,Vilnius,2800,169
+Opel Zafira,2010,Universalas,1850,Benzinas / dujos,Mechaninė,300000,Marijampolė,200,110
+Opel Meriva,2007,Vienatūris,1850,Benzinas,Mechaninė,163452,Ukmergė,1400,66
+Opel Astra,2008,Universalas,1850,Dyzelinas,Mechaninė,257000,Marijampolė,1900,74
+Opel Signum,2006,Hečbekas,1850,Dyzelinas,Automatinė,253960,Kaunas,1900,110
+Opel Astra,2006,Universalas,1850,Dyzelinas,Automatinė,364000,Birštonas,1900,88
+Opel Zafira,2008,Vienatūris,1850,Dyzelinas,Mechaninė,377140,Kaunas,1900,88
+Opel Astra,2008,Hečbekas,1890,Benzinas / dujos,Mechaninė,317000,Kaunas,1600,85
+Opel Zafira,2006,Vienatūris,1900,Benzinas,Mechaninė,231000,Jonava,1800,103
+Opel Combo,2010,Kita,1900,Dyzelinas,Mechaninė,300000,Panevėžys,1300,55
+Opel Astra,2006,Universalas,1900,Dyzelinas,Mechaninė,28000,Alytus,1900,88
+Opel Zafira,2007,Vienatūris,1900,Dyzelinas,Mechaninė,281000,Kretinga,1900,88
+Opel Astra,2000,Kupė (Coupe),1950,Benzinas,Mechaninė,166590,Marijampolė,2000,140
+Opel Zafira,2007,Vienatūris,1950,Dyzelinas,Automatinė,246823,Raseiniai,1900,110
+Opel Astra,2005,Universalas,1950,Benzinas,Automatinė,230000,Vilnius,1800,92
+Opel Zafira,2008,Vienatūris,1950,Dyzelinas,Mechaninė,256887,Vilnius,1700,92
+Opel Astra,2002,Kabrioletas,1960,Benzinas,Mechaninė,236901,Alytus,1600,74
+Opel Astra,2006,Hečbekas,1960,Dyzelinas,Automatinė,254073,Vilnius,1900,88
+Opel Combo,2005,Vienatūris,1990,Benzinas,Mechaninė,158991,Panevėžys,1600,71
+Opel Corsa,2011,Hečbekas,1999,Dyzelinas,Mechaninė,312000,Kaunas,1300,70
+Opel Meriva,2006,Vienatūris,1999,Benzinas,Mechaninė,236900,Vilkaviškis,1600,77
+Opel Astra,2004,Hečbekas,1999,Benzinas / dujos,Automatinė,267209,Vilnius,1600,77
+Opel Astra,2012,Universalas,2000,Dyzelinas,Mechaninė,237654,Kaunas,1700,96
+Opel Antara,2007,Visureigis / Krosoveris,2000,Dyzelinas,Mechaninė,344111,Panevėžys,2000,110
+Opel Zafira,2006,Vienatūris,2000,Benzinas,Mechaninė,297120,Vilnius,1800,103
+Opel Corsa,2010,Hečbekas,2000,Dyzelinas,Mechaninė,213000,Utena,1300,55
+Opel Astra,2004,Hečbekas,2000,Benzinas,Automatinė,233943,Kaunas,1800,92
+Opel Astra,2009,Hečbekas,2000,Dyzelinas,Mechaninė,336474,Anykščiai,1900,110
+Opel Vectra,2008,Hečbekas,2000,Dyzelinas,Mechaninė,211000,Kalvarija,2000,74
+Opel Corsa,2009,Hečbekas,2000,Dyzelinas,Mechaninė,340000,Marijampolė,1300,66
+Opel Corsa,2010,Hečbekas,2000,Dyzelinas,Mechaninė,213356,Tauragė,1300,55
+Opel Zafira,2005,Vienatūris,2000,Dyzelinas,Mechaninė,356710,Marijampolė,1900,110
+Opel Astra,2000,Kabrioletas,2000,Benzinas,Mechaninė,166000,Jurbarkas,1600,55
+Opel Monterey,1993,Visureigis / Krosoveris,2030,Dyzelinas,Mechaninė,230617,Kaunas,3100,84
+Opel Corsa,2010,Hečbekas,2050,Benzinas,Mechaninė,172464,Tauragė,1200,63
+Opel Astra,2015,Universalas,2050,Dyzelinas,Mechaninė,176000,Rokiškis,2000,121
+Opel Zafira,2004,Kita,2050,Dyzelinas,Mechaninė,259841,Šiauliai,2000,74
+Opel Insignia,2009,Sedanas,2100,Benzinas,Mechaninė,265000,Kaunas,1800,103
+Opel Astra,2010,Universalas,2100,Benzinas / dujos,Mechaninė,207000,Marijampolė,1600,92
+Opel Zafira,2008,Vienatūris,2100,Dyzelinas,Automatinė,330000,Tauragė,1900,88
+Opel Astra,2006,Universalas,2100,Dyzelinas,Automatinė,284000,Skuodas,1900,88
+Opel Vectra,2007,Universalas,2100,Dyzelinas,Mechaninė,330258,Šiauliai,1900,110
+Opel Vectra,2005,Sedanas,2100,Dyzelinas,Mechaninė,265533,Jurbarkas,1900,88
+Opel Agila,2009,Hečbekas,2100,Dyzelinas,Mechaninė,159512,Radviliškis,1300,55
+Opel Astra,2011,Universalas,2150,Dyzelinas,Mechaninė,270000,Kaunas,1700,81
+Opel Astra,2005,Hečbekas,2150,Benzinas,Mechaninė,210000,Vilkaviškis,1600,77
+Opel Astra,2006,Hečbekas,2150,Benzinas,Automatinė,105150,Marijampolė,1600,77
+Opel Vectra,2006,Universalas,2150,Dyzelinas,Mechaninė,300800,Alytus,1900,110
+Opel Zafira,2009,Vienatūris,2199,Dyzelinas,Mechaninė,306755,Šiauliai,1700,92
+Opel Corsa,2008,Hečbekas,2200,Dyzelinas,Mechaninė,292600,Ariogala,1300,55
+Opel Astra,2010,Hečbekas,2200,Dyzelinas,Mechaninė,239464,Ukmergė,2000,118
+Opel Meriva,2010,Vienatūris,2200,Dyzelinas,Automatinė,205000,Kaunas,1700,74
+Opel Insignia,2014,Universalas,2200,Dyzelinas,Mechaninė,140000,Prienai,1600,100
+Opel Zafira,2008,Vienatūris,2200,Dyzelinas,Mechaninė,226002,Plungė,1900,88
+Opel Corsa,2013,Hečbekas,2200,Benzinas,Mechaninė,183100,Vilnius,1200,63
+Opel Signum,2005,Hečbekas,2200,Benzinas,Mechaninė,295000,Vilnius,1800,90
+Opel Zafira,2009,Vienatūris,2200,Dyzelinas,Mechaninė,240757,Jonava,1700,81
+Opel Astra,2010,Universalas,2200,Dyzelinas,Mechaninė,260000,Šakiai,1900,74
+Opel Zafira,2009,Vienatūris,2200,Dyzelinas,Mechaninė,339400,Klaipėda,1700,92
+Opel Astra,2005,Hečbekas,2200,Dyzelinas,Mechaninė,227000,Šiauliai,1700,74
+Opel Astra,2006,Hečbekas,2200,Benzinas,Automatinė,253000,Klaipėda,1800,92
+Opel Astra,2009,Hečbekas,2200,Benzinas,Mechaninė,125130,Vilnius,1600,85
+Opel Zafira,2006,Vienatūris,2200,Dyzelinas,Mechaninė,288958,Kaunas,1900,88
+Opel Zafira,2007,Vienatūris,2300,Dyzelinas,Mechaninė,198000,Pakruojis,1900,110
+Opel Astra,2009,Hečbekas,2300,Dyzelinas,Mechaninė,300000,Kelmė,1700,81
+Opel Corsa,2013,Hečbekas,2300,Benzinas,Mechaninė,340000,Kelmė,1200,63
+Opel Zafira,2009,Vienatūris,2300,Dyzelinas,Mechaninė,202000,Kaunas,1700,81
+Opel Movano,1999,Vienatūris,2300,Dyzelinas,Mechaninė,285797,Vilnius,2200,66
+Opel Vectra,2008,Universalas,2300,Dyzelinas,Automatinė,273953,Vilnius,1900,110
+Opel Frontera,1995,Visureigis / Krosoveris,2300,Dyzelinas,Mechaninė,3000000,Klaipėda,2800,83
+Opel Zafira,2008,Vienatūris,2350,Dyzelinas,Mechaninė,280000,Marijampolė,1900,110
+Opel Astra,2006,Kabrioletas,2350,Benzinas / dujos,Mechaninė,241000,Marijampolė,1600,77
+Opel Astra,2005,Universalas,2350,Dyzelinas,Mechaninė,275000,Klaipėda,1900,110
+Opel Astra,2006,Kabrioletas,2350,Benzinas,Mechaninė,202881,Kretinga,1800,103
+Opel Astra,2006,Universalas,2350,Dyzelinas,Mechaninė,292622,Ignalina,1900,74
+Opel Signum,2008,Hečbekas,2350,Dyzelinas,Automatinė,323000,Šiauliai,1900,110
+Opel Signum,2007,Hečbekas,2390,Dyzelinas,Automatinė,302500,Kaunas,3000,135
+Opel Vectra,2007,Universalas,2399,Dyzelinas,Mechaninė,203785,Jonava,1900,88
+Opel Insignia,2009,Universalas,2400,Dyzelinas,Mechaninė,338596,Panevėžys,2000,118
+Opel Corsa,2008,Hečbekas,2400,Dyzelinas,Mechaninė,263000,Kaunas,1700,92
+Opel Corsa,2012,Hečbekas,2400,Dyzelinas,Mechaninė,215000,Šilutė,1300,55
+Opel Zafira,2008,Vienatūris,2400,Dyzelinas,Mechaninė,235000,Panevėžys,1700,81
+Opel Zafira,2006,Vienatūris,2450,Dyzelinas,Mechaninė,270000,Vilkaviškis,1900,110
+Opel Antara,2009,Visureigis / Krosoveris,2499,Benzinas / dujos,Automatinė,115000,Vilnius,3200,167
+Opel Vivaro,2005,Vienatūris,2500,Dyzelinas,Mechaninė,342765,Rokiškis,1900,74
+Opel Zafira,2008,Vienatūris,2500,Benzinas / dujos,Mechaninė,175000,Marijampolė,1800,103
+Opel Antara,2007,Visureigis / Krosoveris,2500,Dyzelinas,Mechaninė,280000,Kaunas,2000,110
+Opel Corsa,2013,Hečbekas,2500,Benzinas,Mechaninė,104983,Marijampolė,1200,63
+Opel Antara,2008,Visureigis / Krosoveris,2500,Benzinas,Mechaninė,215000,Ukmergė,2400,110
+Opel Zafira,2007,Vienatūris,2500,Dyzelinas,Mechaninė,322618,Panevėžys,1900,88
+Opel Insignia,2009,Universalas,2500,Dyzelinas,Mechaninė,267700,Kaunas,2000,118
+Opel Insignia,2010,Universalas,2500,Dyzelinas,Mechaninė,303696,Kaunas,2000,118
+Opel Meriva,2008,Vienatūris,2500,Benzinas,Automatinė,116500,Šiauliai,1800,92
+Opel Zafira,2011,Vienatūris,2500,Dyzelinas,Mechaninė,202000,Kaunas,1700,81
+Opel Zafira,2011,Vienatūris,2500,Dyzelinas,Mechaninė,185000,Kaunas,1700,81
+Opel Astra,2010,Hečbekas,2500,Dyzelinas,Mechaninė,218000,Šiauliai,1700,81
+Opel Zafira,2007,Vienatūris,2500,Dyzelinas,Automatinė,350000,Kalvarija,1900,110
+Opel Zafira,2007,Vienatūris,2500,Dyzelinas,Mechaninė,265190,Šiauliai,1900,110
+Opel Astra,1999,Kabrioletas,2500,Benzinas,Mechaninė,232839,Alytus,1600,55
+Opel Astra,2007,Universalas,2550,Dyzelinas,Automatinė,229358,Vilnius,1900,88
+Opel Astra,2007,Kabrioletas,2550,Dyzelinas,Mechaninė,268000,Vilnius,1900,110
+Opel Vivaro,2006,Vienatūris,2550,Dyzelinas,Mechaninė,50000,Vilnius,1900,74
+Opel Insignia,2010,Sedanas,2550,Dyzelinas,Mechaninė,306000,Vilnius,2000,96
+Opel Combo,2011,Vienatūris,2599,Dyzelinas,Mechaninė,201000,Kaunas,1300,55
+Opel Calibra,1996,Kupė (Coupe),2600,Benzinas,Mechaninė,186000,Pasvalys,2000,85
+Opel Astra,2009,Hečbekas,2600,Dyzelinas,Mechaninė,271000,Raseiniai,1700,81
+Opel Astra,2008,Universalas,2600,Dyzelinas,Mechaninė,250000,Kaunas,1900,88
+Opel Vectra,2008,Universalas,2600,Dyzelinas,Mechaninė,258300,Prienai,1900,110
+Opel Zafira,2009,Vienatūris,2600,Dyzelinas,Automatinė,314000,Vilnius,1900,88
+Opel Insignia,2009,Universalas,2600,Dyzelinas,Mechaninė,340000,Kuršėnai,2000,118
+Opel Astra,2006,Universalas,2600,Benzinas,Mechaninė,214345,Radviliškis,1600,77
+Opel Insignia,2010,Hečbekas,2600,Dyzelinas,Mechaninė,330000,Alytus,2000,118
+Opel Meriva,2009,Vienatūris,2600,Benzinas / dujos,Mechaninė,203000,Marijampolė,1600,77
+Opel Zafira,2005,Vienatūris,2650,Benzinas,Mechaninė,207000,Kretinga,2200,110
+Opel Insignia,2010,Sedanas,2650,Dyzelinas,Automatinė,313845,Kaunas,2000,118
+Opel Astra,2010,Universalas,2650,Dyzelinas,Mechaninė,242000,Vilkaviškis,1700,81
+Opel Corsa,2012,Hečbekas,2651,Dyzelinas,Mechaninė,187508,Vilnius,1300,70
+Opel Corsa,2015,Hečbekas,2700,Dyzelinas,Mechaninė,221000,Vilnius,1300,55
+Opel Zafira,2008,Vienatūris,2700,Dyzelinas,Automatinė,257000,Rokiškis,1900,110
+Opel Corsa,2007,Hečbekas,2700,Benzinas,Automatinė,200000,Vilnius,1400,66
+Opel Astra,2006,Universalas,2700,Dyzelinas,Mechaninė,255174,Utena,1900,88
+Opel Insignia,2010,Universalas,2700,Dyzelinas,Mechaninė,280000,Šilutė,2000,96
+Opel Astra,2008,Universalas,2700,Dyzelinas,Automatinė,218200,Klaipėda,1900,88
+Opel Astra,2006,Universalas,2700,Benzinas,Mechaninė,188135,Radviliškis,1600,77
+Opel Astra,2010,Universalas,2700,Dyzelinas,Mechaninė,194480,Vilnius,1700,81
+Opel Insignia,2010,Universalas,2700,Dyzelinas,Automatinė,252540,Radviliškis,2000,118
+Opel Zafira,2007,Vienatūris,2700,Dyzelinas,Mechaninė,319292,Kaunas,1900,88
+Opel Zafira,2008,Vienatūris,2700,Dyzelinas,Mechaninė,214000,Tauragė,1700,92
+Opel Corsa,2010,Hečbekas,2700,Dyzelinas,Mechaninė,216861,Mažeikiai,1300,66
+Opel Astra,2007,Kabrioletas,2700,Dyzelinas,Mechaninė,243000,Plungė,1900,110
+Opel Astra,2009,Hečbekas,2700,Dyzelinas,Mechaninė,254859,Rokiškis,1700,81
+Opel Corsa,2014,Komercinis,2750,Dyzelinas,Mechaninė,96000,Klaipėda,1300,55
+Opel Vectra,2007,Hečbekas,2750,Dyzelinas,Automatinė,203000,Kaunas,1900,128
+Opel Astra,2017,Hečbekas,2799,Benzinas,Mechaninė,168000,Jonava,1400,74
+Opel Astra,2009,Kabrioletas,2800,Benzinas,Mechaninė,160000,Panevėžys,1800,103
+Opel Frontera,2003,Visureigis / Krosoveris,2800,Dyzelinas,Mechaninė,120000,Alytus,2200,88
+Opel Monterey,1993,Visureigis / Krosoveris,2800,Dyzelinas,Mechaninė,189741,Panevėžys,3100,84
+Opel Corsa,2007,Hečbekas,2850,Dyzelinas,Mechaninė,249000,Kretinga,1300,66
+Opel Astra,2010,Universalas,2850,Dyzelinas,Mechaninė,279000,Kaunas,1700,92
+Opel Astra,2010,Universalas,2850,Benzinas,Mechaninė,250352,Tauragė,1800,103
+Opel Insignia,2009,Hečbekas,2899,Dyzelinas,Mechaninė,362500,Klaipėda,2000,118
+Opel Combo,2009,Vienatūris,2900,Benzinas / dujos,Mechaninė,212000,Mažeikiai,1600,69
+Opel Insignia,2009,Sedanas,2900,Dyzelinas,Automatinė,234000,Marijampolė,2000,118
+Opel Insignia,2011,Universalas,2900,Dyzelinas,Mechaninė,210000,Šiauliai,2000,96
+Opel Antara,2008,Visureigis / Krosoveris,2900,Benzinas / elektra,Automatinė,200000,Kaunas,2400,125
+Opel Astra,2010,Universalas,2900,Dyzelinas,Mechaninė,206345,Radviliškis,1700,81
+Opel Corsa,2013,Hečbekas,2900,Dyzelinas,Mechaninė,300597,Mažeikiai,1300,70
+Opel Meriva,2009,Hečbekas,2900,Benzinas,Mechaninė,160000,Širvintos,1600,77
+Opel Vectra,2007,Universalas,2950,Dyzelinas,Mechaninė,285000,Vilnius,1900,110
+Opel Zafira,2008,Vienatūris,2950,Dyzelinas,Mechaninė,258076,Tauragė,1700,92
+Opel Signum,2006,Hečbekas,2950,Dyzelinas,Mechaninė,238000,Ukmergė,3000,150
+Opel Antara,2007,Visureigis / Krosoveris,2950,Dyzelinas,Mechaninė,371791,Utena,2000,110
+Opel Movano,2005,Krovininis mikroautobusas,2950,Dyzelinas,Mechaninė,280000,Vilnius,2500,88
+Opel Astra,2012,Universalas,2950,Dyzelinas,Mechaninė,303000,Marijampolė,1700,92
+Opel Insignia,2009,Hečbekas,2950,Dyzelinas,Mechaninė,225500,Vilnius,2000,96
+Opel Corsa,2011,Hečbekas,2990,Dyzelinas,Mechaninė,225000,Tauragė,1300,70
+Opel Insignia,2010,Universalas,2990,Dyzelinas,Mechaninė,260000,Rokiškis,2000,118
+Opel Zafira,2006,Vienatūris,2999,Benzinas,Mechaninė,146000,Marijampolė,2000,147
+Opel Astra,2011,Hečbekas,2999,Dyzelinas,Mechaninė,220000,Kaunas,1700,81
+Opel Astra,2011,Universalas,2999,Dyzelinas,Mechaninė,274586,Vilnius,2000,118
+Opel Insignia,2009,Hečbekas,2999,Dyzelinas,Mechaninė,260000,Alytus,2000,118
+Opel Astra,2011,Hečbekas,2999,Dyzelinas,Mechaninė,300000,Rokiškis,1700,81
+Opel Astra,2009,Universalas,2999,Benzinas,Automatinė,99000,Kaunas,1600,85
+Opel Astra,2012,Universalas,2999,Dyzelinas,Mechaninė,255000,Kupiškis,1700,81
+Opel Astra,2006,Kabrioletas,2999,Dyzelinas,Mechaninė,222000,Klaipėda,1900,110
+Opel Astra,2010,Hečbekas,2999,Benzinas,Mechaninė,199000,Utena,1400,103
+Opel Astra,2000,Hečbekas,2999,Benzinas,Mechaninė,180000,Šiauliai,2000,118
+Opel Astra,2010,Hečbekas,3000,Dyzelinas,Mechaninė,259900,Kaunas,2000,118
+Opel Astra,2008,Sedanas,3000,Dyzelinas,Mechaninė,133393,Jonava,1700,74
+Opel Zafira,2008,Vienatūris,3000,Dyzelinas,Mechaninė,289884,Šiauliai,1900,88
+Opel Insignia,2009,Hečbekas,3000,Dyzelinas,Mechaninė,247593,Palanga,2000,96
+Opel Kadett,1971,Sedanas,3000,Benzinas,Mechaninė,32292,Klaipėda,1100,37
+Opel Zafira,2008,Vienatūris,3050,Benzinas,Mechaninė,201059,Marijampolė,1800,103
+Opel Zafira,2005,Vienatūris,3050,Benzinas,Automatinė,195000,Kaišiadorys,2200,110
+Opel Zafira,2009,Vienatūris,3099,Dyzelinas,Automatinė,196600,Kaunas,1900,110
+Opel Insignia,2010,Universalas,3100,Dyzelinas,Mechaninė,250100,Prienai,2000,96
+Opel Insignia,2009,Hečbekas,3100,Dyzelinas,Mechaninė,239000,Tauragė,2000,118
+Opel Insignia,2013,Universalas,3100,Dyzelinas,Automatinė,268000,Utena,2000,96
+Opel Antara,2008,Visureigis / Krosoveris,3150,Dyzelinas,Mechaninė,295832,Vilnius,2000,110
+Opel Astra,2008,Kabrioletas,3150,Dyzelinas,Mechaninė,250125,Kretinga,1900,110
+Opel Meriva,2011,Vienatūris,3150,Benzinas,Mechaninė,180000,Kaunas,1400,103
+Opel Zafira,2006,Vienatūris,3200,Benzinas / dujos,Mechaninė,220536,Kaunas,1600,77
+Opel Astra,2011,Universalas,3200,Dyzelinas,Automatinė,310000,Kaunas,2000,118
+Opel Astra,2010,Hečbekas,3200,Dyzelinas,Mechaninė,225770,Vilnius,1700,81
+Opel Insignia,2009,Universalas,3200,Dyzelinas,Mechaninė,282000,Tauragė,2000,118
+Opel Zafira,2011,Vienatūris,3200,Benzinas,Automatinė,183000,Marijampolė,1800,103
+Opel Vivaro,2005,Vienatūris,3200,Dyzelinas,Mechaninė,372635,Klaipėda,1900,74
+Opel Antara,2009,Visureigis / Krosoveris,3200,Benzinas / dujos,Mechaninė,386191,Prienai,2400,103
+Opel Combo,2009,Vienatūris,3250,Dyzelinas,Mechaninė,204000,Kelmė,1300,55
+Opel Zafira,2010,Vienatūris,3250,Dyzelinas,Mechaninė,282000,Panevėžys,1900,110
+Opel Astra,2011,Hečbekas,3250,Dyzelinas,Mechaninė,177000,Vilnius,1300,70
+Opel Insignia,2011,Universalas,3250,Dyzelinas,Mechaninė,245000,Tauragė,2000,118
+Opel Insignia,2010,Universalas,3300,Dyzelinas,Automatinė,252000,Pasvalys,2000,118
+Opel Zafira,2010,Vienatūris,3300,Dyzelinas,Automatinė,240000,Birštonas,1900,110
+Opel Zafira,2011,Vienatūris,3300,Dyzelinas,Mechaninė,240000,Kaunas,1700,81
+Opel Zafira,2012,Vienatūris,3300,Dyzelinas,Mechaninė,230000,Alytus,1700,81
+Opel Insignia,2009,Sedanas,3300,Dyzelinas,Mechaninė,305000,Tauragė,2000,81
+Opel Antara,2007,Visureigis / Krosoveris,3300,Dyzelinas,Mechaninė,294000,Vilnius,2000,110
+Opel Insignia,2011,Sedanas,3300,Dyzelinas,Mechaninė,292000,Kelmė,2000,118
+Opel Insignia,2010,Sedanas,3300,Benzinas,Mechaninė,266700,Kaunas,1800,103
+Opel Insignia,2011,Sedanas,3300,Dyzelinas,Mechaninė,329000,Elektrėnai,2000,118
+Opel Insignia,2012,Universalas,3350,Dyzelinas,Mechaninė,349172,Plungė,2000,96
+Opel Zafira,2010,Vienatūris,3390,Dyzelinas,Mechaninė,287000,Kaunas,1700,81
+Opel Insignia,2009,Hečbekas,3400,Dyzelinas,Mechaninė,270000,Vilnius,2000,118
+Opel Astra,2010,Hečbekas,3400,Benzinas,Mechaninė,239000,Marijampolė,1600,85
+Opel Astra,2010,Kabrioletas,3400,Benzinas,Mechaninė,125000,Kėdainiai,1800,103
+Opel Astra,2015,Universalas,3400,Dyzelinas,Mechaninė,212300,Rokiškis,1600,81
+Opel Insignia,2010,Universalas,3400,Dyzelinas,Mechaninė,259000,Vilnius,2000,118
+Opel Zafira,2010,Vienatūris,3400,Benzinas,Mechaninė,196500,Vilnius,1600,85
+Opel Vivaro,2009,Krovininis mikroautobusas,3450,Dyzelinas,Mechaninė,344000,Tauragė,2500,107
+Opel Astra,2010,Hečbekas,3450,Dyzelinas,Mechaninė,274000,Tauragė,1300,70
+Opel Insignia,2011,Universalas,3450,Dyzelinas,Mechaninė,266575,Trakai,2000,96
+Opel Meriva,2011,Vienatūris,3450,Dyzelinas,Mechaninė,210000,Tauragė,1300,70
+Opel Insignia,2009,Sedanas,3450,Dyzelinas,Mechaninė,238000,Varėna,2000,118
+Opel Insignia,2008,Sedanas,3450,Dyzelinas,Automatinė,223000,Marijampolė,2000,118
+Opel Insignia,2009,Universalas,3490,Dyzelinas,Mechaninė,224000,Vilnius,2000,118
+Opel Astra,2010,Hečbekas,3499,Benzinas,Mechaninė,245192,Šiauliai,1400,103
+Opel Astra,2010,Hečbekas,3500,Dyzelinas,Mechaninė,207680,Panevėžys,1700,81
+Opel Agila,2014,Hečbekas,3500,Benzinas,Mechaninė,191000,Tauragė,1200,69
+Opel Insignia,2011,Universalas,3500,Dyzelinas,Mechaninė,268100,Šiauliai,2000,96
+Opel Astra,2011,Hečbekas,3500,Dyzelinas,Mechaninė,272121,Vilnius,1300,70
+Opel Insignia,2012,Sedanas,3500,Benzinas,Mechaninė,163000,Vilnius,1600,132
+Opel Antara,2008,Visureigis / Krosoveris,3500,Dyzelinas,Mechaninė,220508,Vilnius,2000,110
+Opel Insignia,2011,Universalas,3500,Dyzelinas,Mechaninė,325000,Telšiai,2000,118
+Opel Zafira,2010,Vienatūris,3500,Dyzelinas,Mechaninė,240000,Panevėžys,1700,92
+Opel Monterey,1998,Visureigis / Krosoveris,3500,Dyzelinas,Mechaninė,319000,Druskininkai,3000,117
+Opel Corsa,2013,Hečbekas,3500,Dyzelinas,Mechaninė,205000,Kaunas,1300,70
+Opel Vivaro,2007,Keleivinis mikroautobusas,3500,Dyzelinas,Mechaninė,399890,Rokiškis,2000,84
+Opel Insignia,2012,Sedanas,3550,Dyzelinas,Mechaninė,275000,Klaipėda,2000,81
+Opel Vectra,2007,Universalas,3550,Dyzelinas,Mechaninė,225000,Kaunas,1900,110
+Opel Insignia,2011,Universalas,3550,Dyzelinas,Automatinė,221000,Marijampolė,2000,118
+Opel Insignia,2010,Sedanas,3550,Dyzelinas,Mechaninė,251050,Marijampolė,2000,81
+Opel Vivaro,2004,Keleivinis mikroautobusas,3599,Dyzelinas,Mechaninė,428922,Raseiniai,2500,99
+Opel Astra,2011,Universalas,3600,Benzinas,Mechaninė,195000,Panevėžys,1400,103
+Opel Vivaro,2004,Keleivinis mikroautobusas,3600,Dyzelinas,Mechaninė,290000,Druskininkai,1900,74
+Opel Insignia,2012,Universalas,3600,Dyzelinas,Mechaninė,270000,Klaipėda,2000,118
+Opel Insignia,2010,Universalas,3600,Dyzelinas,Mechaninė,310769,Alytus,2000,118
+Opel Antara,2008,Visureigis / Krosoveris,3600,Benzinas / dujos,Automatinė,182000,Vilnius,3200,167
+Opel Astra,2010,Hečbekas,3600,Dyzelinas,Mechaninė,272700,Kaunas,1700,81
+Opel Vivaro,2004,Keleivinis mikroautobusas,3600,Dyzelinas,Mechaninė,462564,Joniškis,1900,74
+Opel Combo,2015,Komercinis,3650,Benzinas / dujos,Mechaninė,139000,Vilnius,1400,88
+Opel Insignia,2011,Hečbekas,3650,Dyzelinas,Mechaninė,273000,Vilkaviškis,2000,96
+Opel Astra,2011,Universalas,3650,Dyzelinas,Mechaninė,263000,Vilkaviškis,1700,81
+Opel Vivaro,2005,Krovininis mikroautobusas,3700,Dyzelinas,Mechaninė,270440,Kaunas,1900,74
+Opel Zafira,2009,Vienatūris,3700,Dyzelinas,Mechaninė,250000,Kaunas,1900,110
+Opel Astra,2011,Universalas,3700,Dyzelinas,Mechaninė,295000,Klaipėda,1700,92
+Opel Kadett,1976,Kupė (Coupe),3750,Benzinas,Mechaninė,45236,Kaunas,1200,44
+Opel Astra,2010,Hečbekas,3750,Benzinas,Mechaninė,180000,Vilnius,1600,85
+Opel Meriva,2012,Vienatūris,3750,Dyzelinas,Mechaninė,254000,Jonava,1700,81
+Opel Antara,2007,Visureigis / Krosoveris,3750,Dyzelinas,Automatinė,274735,Kėdainiai,2000,110
+Opel Astra,2011,Universalas,3750,Dyzelinas,Mechaninė,170000,Vilnius,1700,81
+Opel Astra,2012,Universalas,3750,Dyzelinas,Mechaninė,310395,Vilnius,1700,81
+Opel Insignia,2011,Sedanas,3750,Dyzelinas,Mechaninė,175000,Vilnius,2000,118
+Opel Combo,2018,Komercinis,3751,Dyzelinas,Mechaninė,122585,Klaipėda,1600,77
+Opel Astra,2011,Universalas,3799,Dyzelinas,Mechaninė,177749,Šakiai,1300,70
+Opel Astra,2011,Universalas,3800,Dyzelinas,Automatinė,193000,Utena,2000,118
+Opel Movano,2009,Krovininis mikroautobusas,3800,Dyzelinas,Mechaninė,250000,Vilnius,2400,103
+Opel Meriva,2011,Vienatūris,3800,Dyzelinas,Mechaninė,192260,Marijampolė,1700,81
+Opel Combo,2012,Komercinis,3820,Dyzelinas,Mechaninė,148000,Plungė,1300,66
+Opel Astra,2011,Universalas,3850,Dyzelinas,Mechaninė,280000,Marijampolė,2000,118
+Opel Meriva,2011,Vienatūris,3850,Benzinas,Mechaninė,178000,Marijampolė,1400,74
+Opel Meriva,2013,Vienatūris,3899,Dyzelinas,Automatinė,292294,Vilnius,1700,96
+Opel Insignia,2014,Hečbekas,3900,Dyzelinas,Mechaninė,234000,Tauragė,2000,96
+Opel Insignia,2011,Universalas,3900,Dyzelinas,Mechaninė,254900,Telšiai,2000,118
+Opel Insignia,2011,Hečbekas,3900,Dyzelinas,Automatinė,245235,Utena,2000,96
+Opel Astra,2016,Universalas,3900,Dyzelinas,Mechaninė,353000,Panevėžys,1600,100
+Opel Insignia,2010,Universalas,3900,Dyzelinas,Mechaninė,220000,Vilnius,2000,118
+Opel Astra,2013,Sedanas,3900,Dyzelinas,Mechaninė,170900,Vilnius,1700,96
+Opel Insignia,2009,Universalas,3950,Dyzelinas,Mechaninė,343500,Kaunas,2000,118
+Opel Insignia,2010,Universalas,3950,Benzinas,Mechaninė,195000,Panevėžys,1800,103
+Opel Insignia,2010,Universalas,3950,Dyzelinas,Mechaninė,298500,Kazlų Rūda,2000,118
+Opel Insignia,2011,Universalas,3950,Dyzelinas,Mechaninė,259000,Vilkaviškis,2000,118
+Opel Astra,2010,Hečbekas,3990,Dyzelinas,Mechaninė,252000,Šiauliai,1700,81
+Opel Meriva,2011,Vienatūris,3999,Dyzelinas,Mechaninė,185000,Kretinga,1700,81
+Opel Zafira,2011,Vienatūris,3999,Dyzelinas,Mechaninė,260000,Tauragė,1700,92
+Opel Meriva,2011,Vienatūris,4000,Dyzelinas,Automatinė,292050,Klaipėda,1700,74
+Opel Astra,2014,Universalas,4000,Dyzelinas,Mechaninė,240000,Tauragė,1700,81
+Opel Kadett,1990,Kabrioletas,4000,Benzinas,Mechaninė,10000,Tauragė,2000,240
+Opel Insignia,2010,Universalas,4000,Dyzelinas,Mechaninė,265000,Kaunas,2000,118
+Opel Insignia,2012,Universalas,4000,Dyzelinas,Automatinė,385000,Klaipėda,2000,120
+Opel Insignia,2009,Universalas,4000,Dyzelinas,Mechaninė,250000,Utena,2000,96
+Opel Vivaro,2007,Keleivinis mikroautobusas,4000,Dyzelinas,Mechaninė,505218,Vilnius,2000,84
+Opel Insignia,2011,Hečbekas,4000,Dyzelinas,Mechaninė,199000,Plungė,2000,81
+Opel Astra,2010,Hečbekas,4000,Dyzelinas,Automatinė,280000,Plungė,2000,118
+Opel Astra,2013,Hečbekas,4000,Dyzelinas,Mechaninė,385700,Kaunas,1700,81
+Opel Insignia,2009,Universalas,4000,Dyzelinas,Automatinė,209840,Kaunas,2000,118
+Opel Adam,2015,Hečbekas,4050,Benzinas / dujos,Mechaninė,166000,Vilnius,1400,64
+Opel Astra,2012,Universalas,4099,Dyzelinas,Mechaninė,264100,Marijampolė,1700,81
+Opel Vivaro,2007,Vienatūris,4100,Dyzelinas,Mechaninė,420000,Vilnius,2000,66
+Opel Astra,2015,Hečbekas,4100,Benzinas,Mechaninė,159629,Marijampolė,1400,103
+Opel Vivaro,2009,Krovininis mikroautobusas,4100,Dyzelinas,Mechaninė,193000,Tauragė,2000,84
+Opel Antara,2008,Visureigis / Krosoveris,4100,Dyzelinas,Automatinė,130000,Panevėžys,2000,110
+Opel Astra,2012,Hečbekas,4100,Dyzelinas,Mechaninė,246583,Vilnius,1700,81
+Opel Meriva,2011,Vienatūris,4100,Benzinas,Mechaninė,129000,Vilnius,1400,103
+Opel Insignia,2011,Universalas,4150,Dyzelinas,Mechaninė,259900,Tauragė,2000,96
+Opel Meriva,2012,Vienatūris,4150,Benzinas,Mechaninė,163000,Marijampolė,1400,88
+Opel Astra,2011,Universalas,4150,Benzinas,Mechaninė,214526,Marijampolė,1600,85
+Opel Insignia,2012,Hečbekas,4150,Dyzelinas,Mechaninė,245000,Visaginas,2000,96
+Opel Antara,2008,Visureigis / Krosoveris,4199,Dyzelinas,Automatinė,198250,Marijampolė,2000,110
+Opel Insignia,2013,Universalas,4200,Dyzelinas,Automatinė,337329,Panevėžys,2000,118
+Opel Astra,2010,Hečbekas,4200,Dyzelinas,Mechaninė,229244,Ukmergė,1700,81
+Opel Meriva,2011,Vienatūris,4200,Dyzelinas,Automatinė,251000,Šiauliai,1700,74
+Opel Vivaro,2012,Krovininis mikroautobusas,4200,Dyzelinas,Mechaninė,190000,Vilnius,2000,84
+Opel Insignia,2011,Universalas,4200,Dyzelinas,Automatinė,214000,Vilnius,2000,96
+Opel Astra,2014,Hečbekas,4200,Dyzelinas,Mechaninė,157000,Vilnius,1600,81
+Opel Astra,2011,Hečbekas,4200,Dyzelinas,Mechaninė,225701,Vilnius,1700,81
+Opel Astra,2010,Hečbekas,4200,Benzinas,Mechaninė,167000,Kaunas,1400,64
+Opel Combo,2014,Vienatūris,4200,Dyzelinas,Mechaninė,250745,Kaunas,1300,66
+Opel Insignia,2011,Universalas,4200,Dyzelinas,Automatinė,275000,Šiauliai,2000,96
+Opel Astra,2010,Hečbekas,4200,Benzinas,Mechaninė,220000,Pasvalys,1400,103
+Opel Antara,2010,Visureigis / Krosoveris,4250,Dyzelinas,Mechaninė,167000,Utena,2000,110
+Opel Astra,2012,Universalas,4250,Dyzelinas,Mechaninė,223000,Vilnius,1700,96
+Opel Antara,2007,Visureigis / Krosoveris,4300,Dyzelinas,Automatinė,159826,Vilnius,2000,110
+Opel Zafira,2010,Vienatūris,4300,Dyzelinas,Mechaninė,262567,Marijampolė,1900,110
+Opel Insignia,2011,Universalas,4350,Dyzelinas,Mechaninė,350000,Birštonas,2000,118
+Opel Insignia,2010,Universalas,4350,Dyzelinas,Mechaninė,325500,Kaunas,2000,118
+Opel Astra,2012,Universalas,4399,Dyzelinas,Mechaninė,203000,Kėdainiai,1700,81
+Opel Antara,2009,Visureigis / Krosoveris,4400,Dyzelinas,Mechaninė,287345,Ukmergė,2000,110
+Opel Astra,2010,Hečbekas,4400,Benzinas,Mechaninė,197283,Vilnius,1600,132
+Opel Astra,2010,Kabrioletas,4400,Dyzelinas,Mechaninė,280,Mažeikiai,1900,110
+Opel Insignia,2011,Universalas,4400,Dyzelinas,Automatinė,226604,Telšiai,2000,118
+Opel Meriva,2011,Vienatūris,4400,Benzinas / dujos,Mechaninė,135000,Kaunas,1400,103
+Opel Insignia,2009,Hečbekas,4400,Dyzelinas,Mechaninė,230100,Radviliškis,2000,96
+Opel Astra,2014,Universalas,4465,Dyzelinas,Mechaninė,276500,Kaunas,1600,81
+Opel Vivaro,2012,Krovininis mikroautobusas,4500,Dyzelinas,Mechaninė,199158,Šiauliai,2000,66
+Opel Mokka X,2019,Visureigis / Krosoveris,4500,Benzinas,Automatinė,33000,Kretinga,1400,103
+Opel Insignia,2010,Universalas,4500,Dyzelinas,Mechaninė,286000,Birštonas,2000,118
+Opel Astra,2011,Universalas,4500,Dyzelinas,Automatinė,170000,Kaunas,2000,118
+Opel Monza,1984,Kupė (Coupe),4500,Benzinas,Automatinė,100000,Ukmergė,2000,85
+Opel Insignia,2015,Hečbekas,4500,Dyzelinas,Automatinė,271423,Kelmė,2000,120
+Opel Antara,2010,Visureigis / Krosoveris,4500,Dyzelinas,Mechaninė,243600,Klaipėda,2000,110
+Opel Astra,2013,Universalas,4500,Dyzelinas,Mechaninė,175000,Utena,1700,81
+Opel Vivaro,2008,Krovininis mikroautobusas,4500,Dyzelinas,Mechaninė,380000,Vilnius,2500,107
+Opel Astra,2016,Universalas,4500,Benzinas,Mechaninė,181520,Kaunas,1600,85
+Opel Astra,2012,Universalas,4500,Dyzelinas,Mechaninė,227667,Kaunas,1700,81
+Opel Insignia,2011,Universalas,4500,Dyzelinas,Automatinė,193000,Vilnius,2000,118
+Opel Insignia,2011,Universalas,4550,Dyzelinas,Automatinė,265000,Jonava,2000,118
+Opel Astra,2013,Universalas,4550,Dyzelinas,Mechaninė,187000,Šiauliai,1700,81
+Opel Insignia,2010,Universalas,4580,Dyzelinas,Mechaninė,280500,Kaunas,2000,118
+Opel Antara,2008,Visureigis / Krosoveris,4599,Dyzelinas,Automatinė,278265,Kretinga,2000,110
+Opel Antara,2008,Visureigis / Krosoveris,4599,Dyzelinas,Automatinė,210000,Joniškis,2000,110
+Opel Zafira,2014,Vienatūris,4600,Dyzelinas,Mechaninė,123000,Kaunas,1700,81
+Opel Zafira,2015,Vienatūris,4600,Dyzelinas,Mechaninė,123000,Kaunas,1700,81
+Opel Vivaro,2007,Keleivinis mikroautobusas,4600,Dyzelinas,Mechaninė,251000,Kelmė,2500,107
+Opel Meriva,2012,Vienatūris,4600,Benzinas,Mechaninė,180000,Šiauliai,1400,88
+Opel Astra,2013,Universalas,4600,Dyzelinas,Mechaninė,250000,Utena,1700,81
+Opel Astra,2012,Universalas,4600,Dyzelinas,Automatinė,256000,Vilnius,2000,121
+Opel Astra,2016,Universalas,4600,Dyzelinas,Mechaninė,237000,Ukmergė,1600,81
+Opel Insignia,2012,Universalas,4650,Dyzelinas,Mechaninė,266000,Kėdainiai,2000,118
+Opel Astra,2016,Universalas,4650,Benzinas,Mechaninė,201000,Kaunas,1400,74
+Opel Astra,2013,Hečbekas,4650,Benzinas,Mechaninė,211000,Vilkaviškis,1600,85
+Opel Astra,2014,Universalas,4700,Dyzelinas,Mechaninė,212900,Kaunas,1700,81
+Opel Vivaro,2003,Vienatūris,4700,Benzinas,Mechaninė,270000,Mažeikiai,2000,88
+Opel Astra,2013,Hečbekas,4700,Benzinas,Mechaninė,150230,Vilnius,1400,74
+Opel Astra,2014,Universalas,4700,Dyzelinas,Mechaninė,258000,Pakruojis,1700,81
+Opel Insignia,2010,Sedanas,4700,Dyzelinas,Automatinė,242230,Klaipėda,2000,118
+Opel Insignia,2013,Universalas,4700,Dyzelinas,Mechaninė,250000,Šiauliai,2000,118
+Opel Insignia,2012,Universalas,4700,Dyzelinas,Mechaninė,302000,Kaunas,2000,118
+Opel Insignia,2013,Universalas,4750,Dyzelinas,Mechaninė,249000,Kretinga,2000,118
+Opel Meriva,2014,Vienatūris,4750,Dyzelinas,Mechaninė,250000,Vilnius,1700,81
+Opel Zafira,2012,Vienatūris,4750,Benzinas,Mechaninė,165400,Kaunas,1800,103
+Opel Insignia,2010,Universalas,4750,Dyzelinas,Automatinė,241100,Vilnius,2000,96
+Opel Astra,2010,Hečbekas,4790,Dyzelinas,Automatinė,195380,Klaipėda,2000,118
+Opel Astra,2011,Hečbekas,4799,Dyzelinas,Mechaninė,220065,Palanga,2000,118
+Opel Corsa,2015,Hečbekas,4800,Dyzelinas,Mechaninė,141000,Tauragė,1300,70
+Opel Movano,2011,Krovininis mikroautobusas,4800,Dyzelinas,Mechaninė,248761,Kėdainiai,2300,92
+Opel Astra,2012,Hečbekas,4800,Dyzelinas,Mechaninė,129870,Rokiškis,1700,96
+Opel Vivaro,2008,Vienatūris,4800,Dyzelinas,Mechaninė,243000,Kaunas,2500,107
+Opel Insignia,2011,Sedanas,4800,Dyzelinas,Automatinė,262000,Vilnius,2000,118
+Opel Insignia,2012,Sedanas,4800,Dyzelinas,Automatinė,247000,Vilnius,2000,118
+Opel Meriva,2011,Vienatūris,4850,Dyzelinas,Mechaninė,216067,Kretinga,1700,96
+Opel Astra,2013,Universalas,4850,Benzinas,Mechaninė,132242,Marijampolė,1600,85
+Opel Insignia,2011,Universalas,4850,Dyzelinas,Mechaninė,270354,Raseiniai,2000,118
+Opel Antara,2009,Visureigis / Krosoveris,4850,Dyzelinas,Mechaninė,230000,Vilnius,2000,110
+Opel Vivaro,2011,Krovininis mikroautobusas,4900,Dyzelinas,Mechaninė,170000,Šilalė,2500,107
+Opel Astra,2012,Kupė (Coupe),4900,Dyzelinas,Mechaninė,223680,Kaunas,1700,96
+Opel Corsa,2018,Hečbekas,4900,Dyzelinas,Mechaninė,195000,Klaipėda,1300,70
+Opel Astra,2015,Universalas,4900,Dyzelinas,Mechaninė,202300,Vilnius,1600,81
+Opel Astra,2011,Hečbekas,4900,Dyzelinas,Mechaninė,210000,Kaunas,1700,81
+Opel Zafira Tourer,2012,Vienatūris,4900,Dyzelinas,Automatinė,338000,Jonava,2000,96
+Opel Astra,2015,Hečbekas,4900,Dyzelinas,Mechaninė,230700,Vilnius,1600,81
+Opel Meriva,2010,Vienatūris,4900,Dyzelinas,Automatinė,272000,Marijampolė,1700,74
+Opel Insignia,2013,Universalas,4950,Dyzelinas,Automatinė,262000,Vilnius,2000,96
+Opel Movano,2007,Keleivinis mikroautobusas,4950,Dyzelinas,Automatinė,110600,Klaipėda,2500,74
+Opel Astra,2012,Hečbekas,4950,Benzinas / dujos,Automatinė,224531,Kaunas,1600,85
+Opel Insignia,2011,Universalas,4950,Dyzelinas,Automatinė,224000,"Rīga, Latvija",2000,120
+Opel Insignia,2009,Universalas,4990,Dyzelinas,Automatinė,249300,Marijampolė,2000,120
+Opel Antara,2012,Visureigis / Krosoveris,4999,Dyzelinas,Mechaninė,218000,Marijampolė,2200,135
+Opel Astra,2013,Hečbekas,4999,Dyzelinas,Mechaninė,260000,Kaunas,1700,96
+Opel Insignia,2014,Universalas,4999,Dyzelinas,Mechaninė,273000,Kaunas,2000,103
+Opel Corsa,2018,Hečbekas,4999,Dyzelinas,Mechaninė,180000,Klaipėda,1300,70
+Opel Vivaro,2005,Keleivinis mikroautobusas,4999,Dyzelinas,Mechaninė,290000,Utena,1900,74
+Opel Meriva,2010,Vienatūris,4999,Dyzelinas,Automatinė,93000,Telšiai,1700,74
+Opel Astra,2012,Universalas,4999,Benzinas,Automatinė,201700,Vilnius,1400,103
+Opel Antara,2012,Visureigis / Krosoveris,5000,Dyzelinas,Mechaninė,220943,Elektrėnai,2200,135
+Opel Movano,2009,Keleivinis mikroautobusas,5000,Dyzelinas,Automatinė,187700,Klaipėda,2500,74
+Opel Vivaro,2007,Keleivinis mikroautobusas,5000,Dyzelinas,Mechaninė,380000,Jonava,2500,107
+Opel Astra,2014,Universalas,5050,Dyzelinas,Mechaninė,187373,Vilnius,1600,81
+Opel Astra,2013,Universalas,5100,Dyzelinas,Mechaninė,286000,Kretinga,1700,81
+Opel Astra,2016,Universalas,5100,Dyzelinas,Mechaninė,151000,Kaunas,1600,81
+Opel Ampera,2012,Hečbekas,5100,Benzinas / elektra,Automatinė,328500,Kaunas,1400,174
+Opel Insignia,2010,Universalas,5100,Dyzelinas,Mechaninė,223500,Marijampolė,2000,118
+Opel Antara,2012,Visureigis / Krosoveris,5100,Dyzelinas,Mechaninė,249000,Ukmergė,2200,120
+Opel Antara,2013,Visureigis / Krosoveris,5100,Dyzelinas,Automatinė,310000,Kaunas,2200,120
+Opel Mokka X,2018,Visureigis / Krosoveris,5100,Dyzelinas,Automatinė,270000,Marijampolė,1600,100
+Opel Astra,2013,Universalas,5150,Dyzelinas,Mechaninė,279837,Kuršėnai,1700,81
+Opel Corsa,2020,Hečbekas,5150,Benzinas,Mechaninė,13000,Kaunas,1200,74
+Opel Combo,2017,Vienatūris,5180,Dyzelinas,Mechaninė,300000,Vilnius,1300,70
+Opel Insignia,2015,Hečbekas,5200,Dyzelinas,Mechaninė,149538,Molėtai,2000,103
+Opel Astra,2013,Hečbekas,5200,Dyzelinas,Mechaninė,171000,Vilnius,1700,81
+Opel Vivaro,2010,Krovininis mikroautobusas,5300,Dyzelinas,Mechaninė,258000,Mažeikiai,2500,107
+Opel Astra,2010,Hečbekas,5300,Dyzelinas,Automatinė,192000,Marijampolė,2000,118
+Opel Antara,2012,Visureigis / Krosoveris,5300,Dyzelinas,Mechaninė,210000,Šilutė,2200,120
+Opel Insignia,2012,Universalas,5350,Dyzelinas,Automatinė,273000,Plungė,2000,118
+Opel Zafira Tourer,2013,Vienatūris,5350,Benzinas / dujos,Mechaninė,208000,Panevėžys,1400,103
+Opel Vivaro,2013,Keleivinis mikroautobusas,5350,Dyzelinas,Mechaninė,505000,Kaunas,2000,84
+Opel Meriva,2016,Vienatūris,5399,Dyzelinas,Mechaninė,199257,Rokiškis,1600,70
+Opel Antara,2012,Visureigis / Krosoveris,5400,Dyzelinas,Mechaninė,243046,Tauragė,2200,120
+Opel Zafira Tourer,2012,Vienatūris,5400,Dyzelinas,Mechaninė,242000,Vilnius,2000,96
+Opel Zafira Tourer,2012,Vienatūris,5450,Dyzelinas,Mechaninė,189520,Tauragė,2000,96
+Opel Movano,2009,Krovininis mikroautobusas,5500,Dyzelinas,Mechaninė,246000,Tauragė,2500,88
+Opel Vivaro,2011,Vienatūris,5500,Dyzelinas,Automatinė,277000,Klaipėda,2500,107
+Opel Insignia,2016,Universalas,5500,Dyzelinas,Automatinė,310600,Kaunas,1600,100
+Opel Meriva,2012,Vienatūris,5500,Dyzelinas,Mechaninė,267314,Klaipėda,1300,70
+Opel Astra,2015,Universalas,5550,Dyzelinas,Mechaninė,215000,Vilnius,1600,81
+Opel Astra,2015,Universalas,5550,Dyzelinas,Mechaninė,196000,Vilnius,1600,81
+Opel Antara,2014,Visureigis / Krosoveris,5555,Benzinas,Automatinė,180000,Plungė,2400,136
+Opel Insignia,2014,Universalas,5599,Dyzelinas,Mechaninė,171000,Raseiniai,2000,143
+Opel Astra,2016,Universalas,5600,Dyzelinas,Mechaninė,185650,Kaunas,1600,100
+Opel Insignia,2014,Universalas,5600,Dyzelinas,Automatinė,260000,Tauragė,2000,120
+Opel Astra,2014,Universalas,5600,Dyzelinas,Mechaninė,249000,Šiauliai,1600,81
+Opel Cascada,2013,Kabrioletas,5650,Dyzelinas,Mechaninė,275000,Marijampolė,2000,121
+Opel Astra,2017,Universalas,5670,Dyzelinas,Mechaninė,191000,Vilnius,1600,70
+Opel Antara,2012,Universalas,5700,Dyzelinas,Mechaninė,224300,Kaunas,2200,120
+Opel Insignia,2015,Universalas,5700,Dyzelinas,Automatinė,227000,Kaunas,2000,143
+Opel Astra,2015,Universalas,5700,Dyzelinas,Mechaninė,124605,Mažeikiai,1600,81
+Opel Astra,2014,Universalas,5700,Dyzelinas,Mechaninė,241000,Panevėžys,1600,81
+Opel Astra,2013,Universalas,5700,Dyzelinas,Mechaninė,190550,Vilnius,1300,70
+Opel Zafira Tourer,2012,Vienatūris,5750,Dyzelinas,Mechaninė,262000,Kėdainiai,2000,96
+Opel Zafira Tourer,2014,Vienatūris,5750,Dyzelinas,Mechaninė,208000,Pakruojis,1600,100
+Opel Insignia,2013,Universalas,5750,Dyzelinas,Automatinė,225000,Kaunas,2000,120
+Opel Vivaro,2006,Keleivinis mikroautobusas,5800,Dyzelinas,Mechaninė,223084,Alytus,1900,74
+Opel Insignia,2015,Universalas,5800,Dyzelinas,Mechaninė,239100,Kazlų Rūda,2000,103
+Opel Astra,2010,Hečbekas,5800,Benzinas,Automatinė,95000,Kėdainiai,1600,85
+Opel Insignia,2011,Universalas,5800,Dyzelinas,Automatinė,235106,Marijampolė,2000,120
+Opel Antara,2013,Visureigis / Krosoveris,5800,Dyzelinas,Automatinė,246454,Šiauliai,2200,135
+Opel Corsa,2018,Hečbekas,5900,Dyzelinas,Mechaninė,130000,Tauragė,1300,70
+Opel Antara,2013,Visureigis / Krosoveris,5900,Dyzelinas,Mechaninė,167300,Utena,2200,147
+Opel Zafira Tourer,2013,Vienatūris,5900,Dyzelinas,Mechaninė,199130,Klaipėda,2000,96
+Opel Zafira Tourer,2015,Vienatūris,5900,Dyzelinas,Mechaninė,353000,Vilnius,1600,100
+Opel Zafira Tourer,2012,Vienatūris,5900,Dyzelinas,Automatinė,242000,Klaipėda,2000,121
+Opel Vivaro,2005,Keleivinis mikroautobusas,5900,Dyzelinas,Mechaninė,265345,Kuršėnai,2500,99
+Opel Zafira Tourer,2012,Vienatūris,5950,Dyzelinas,Mechaninė,206000,Šiauliai,2000,81
+Opel Antara,2013,Visureigis / Krosoveris,5950,Dyzelinas,Mechaninė,200000,Vilkaviškis,2200,120
+Opel Insignia,2011,Universalas,5950,Dyzelinas,Automatinė,222000,Telšiai,2000,118
+Opel Zafira Tourer,2013,Vienatūris,5990,Dyzelinas,Mechaninė,255156,Vilnius,2000,96
+Opel Insignia,2014,Universalas,5990,Dyzelinas,Mechaninė,320000,Raseiniai,2000,103
+Opel Mokka,2015,Visureigis / Krosoveris,5999,Dyzelinas,Mechaninė,104000,Kelmė,1600,100
+Opel Astra,2015,Universalas,5999,Dyzelinas,Mechaninė,221800,Alytus,1600,100
+Opel Combo,2014,Komercinis,5999,Dyzelinas,Mechaninė,137000,Tauragė,1600,77
+Opel Vivaro,2011,Keleivinis mikroautobusas,5999,Dyzelinas,Mechaninė,272000,Vilnius,2000,66
+Opel Zafira Tourer,2013,Vienatūris,6000,Dyzelinas,Mechaninė,280000,Raseiniai,2000,121
+Opel Senator,1978,Sedanas,6000,Benzinas,Automatinė,10724,Panevėžys,2800,103
+Opel Insignia,2012,Universalas,6099,Dyzelinas,Automatinė,244575,Kaunas,2000,118
+Opel Insignia,2014,Universalas,6100,Dyzelinas,Mechaninė,248150,Vilnius,2000,103
+Opel Insignia,2014,Universalas,6100,Dyzelinas,Mechaninė,176000,Vilnius,2000,120
+Opel Antara,2012,Visureigis / Krosoveris,6200,Dyzelinas,Mechaninė,132900,Kaunas,2200,120
+Opel Meriva,2015,Vienatūris,6200,Dyzelinas,Automatinė,211500,Vilnius,1700,81
+Opel Vivaro,2008,Keleivinis mikroautobusas,6200,Dyzelinas,Mechaninė,395600,Klaipėda,2500,107
+Opel Mokka,2014,Visureigis / Krosoveris,6250,Benzinas,Mechaninė,162823,Vilnius,1600,85
+Opel Corsa,2015,Hečbekas,6250,Benzinas,Automatinė,230000,Vilnius,1400,66
+Opel Vivaro,2007,Keleivinis mikroautobusas,6292,Dyzelinas,Mechaninė,353100,Šiauliai,2000,66
+Opel Astra,2018,Universalas,6299,Dyzelinas,Mechaninė,223000,Kaunas,1600,81
+Opel Zafira Tourer,2016,Vienatūris,6300,Dyzelinas,Mechaninė,189250,Kaunas,1600,88
+Opel Astra,2016,Universalas,6400,Dyzelinas,Mechaninė,256000,Telšiai,1600,81
+Opel Insignia,2014,Universalas,6450,Dyzelinas,Automatinė,255560,Kaunas,2000,143
+Opel Movano,2016,Krovininis mikroautobusas,6500,Dyzelinas,Mechaninė,297000,Tauragė,2300,100
+Opel Zafira Tourer,2013,Vienatūris,6500,Dyzelinas,Mechaninė,244000,Kėdainiai,2000,96
+Opel Astra,2019,Universalas,6500,Dyzelinas,Mechaninė,230000,Šiauliai,1600,100
+Opel Astra,2015,Hečbekas,6500,Benzinas,Automatinė,254000,Akmenė,1600,85
+Opel Antara,2012,Visureigis / Krosoveris,6500,Dyzelinas,Mechaninė,173500,Tauragė,2200,120
+Opel Insignia,2015,Sedanas,6500,Dyzelinas,Automatinė,171000,Kaunas,2000,120
+Opel Zafira Tourer,2012,Vienatūris,6500,Dyzelinas,Automatinė,191210,Visaginas,2000,121
+Opel Insignia,2011,Hečbekas,6549,Dyzelinas,Automatinė,183000,Kaunas,2000,118
+Opel Insignia,2016,Universalas,6550,Dyzelinas,Mechaninė,250123,Utena,1600,100
+Opel Antara,2012,Visureigis / Krosoveris,6600,Dyzelinas,Automatinė,264000,Vilnius,2200,135
+Opel Antara,2015,Visureigis / Krosoveris,6700,Dyzelinas,Mechaninė,227000,Tauragė,2200,135
+Opel Antara,2012,Visureigis / Krosoveris,6700,Dyzelinas,Mechaninė,176231,Utena,2200,120
+Opel Astra,2018,Universalas,6700,Dyzelinas,Mechaninė,209000,Kaunas,1600,81
+Opel Insignia,2014,Universalas,6700,Dyzelinas,Automatinė,297000,Marijampolė,2000,143
+Opel Insignia,2016,Hečbekas,6700,Dyzelinas,Mechaninė,148201,Tauragė,1600,88
+Opel Meriva,2014,Vienatūris,6700,Benzinas / dujos,Automatinė,146000,Alytus,1400,103
+Opel Antara,2011,Visureigis / Krosoveris,6750,Benzinas,Mechaninė,131000,Šiauliai,2400,123
+Opel Zafira Tourer,2015,Vienatūris,6750,Dyzelinas,Mechaninė,199000,Klaipėda,2000,96
+Opel Insignia,2014,Hečbekas,6800,Dyzelinas,Mechaninė,233000,Kaunas,2000,88
+Opel Zafira Tourer,2014,Vienatūris,6900,Dyzelinas,Mechaninė,240321,Utena,2000,121
+Opel Ampera,2012,Hečbekas,6900,Benzinas / elektra,Automatinė,200000,Vilnius,1400,111
+Opel Insignia,2014,Sedanas,6900,Dyzelinas,Mechaninė,289000,Marijampolė,2000,120
+Opel Astra,2015,Universalas,6950,Benzinas,Mechaninė,180795,Vilnius,1400,103
+Opel Antara,2012,Visureigis / Krosoveris,6950,Dyzelinas,Mechaninė,181000,Šiauliai,2200,120
+Opel Zafira Tourer,2016,Vienatūris,6950,Dyzelinas,Automatinė,195000,Kaunas,2000,125
+Opel Vivaro,2009,Keleivinis mikroautobusas,6999,Dyzelinas,Mechaninė,284327,Marijampolė,2000,84
+Opel Astra,2020,Universalas,6999,Benzinas,Mechaninė,260000,Utena,1200,96
+Opel Zafira Tourer,2016,Vienatūris,7000,Benzinas,Mechaninė,164000,Panevėžys,1400,103
+Opel Insignia,2016,Hečbekas,7000,Dyzelinas,Automatinė,190712,Tauragė,1600,100
+Opel Insignia,2013,Universalas,7100,Dyzelinas,Automatinė,164000,Marijampolė,2000,143
+Opel Astra,2018,Universalas,7100,Dyzelinas,Mechaninė,205000,Rokiškis,1600,81
+Opel Zafira,2016,Vienatūris,7100,Dyzelinas,Mechaninė,215000,Klaipėda,1600,100
+Opel Insignia,2015,Universalas,7149,Dyzelinas,Mechaninė,195523,Vilnius,1600,100
+Opel Zafira Tourer,2016,Vienatūris,7199,Dyzelinas,Mechaninė,254723,Kretinga,1600,100
+Opel Vivaro,2017,Keleivinis mikroautobusas,7200,Dyzelinas,Mechaninė,225600,Tauragė,1600,89
+Opel Astra,2017,Universalas,7200,Dyzelinas,Mechaninė,193000,Kaunas,1600,81
+Opel Astra,2014,Sedanas,7200,Benzinas,Mechaninė,79689,Klaipėda,1400,103
+Opel Astra,2016,Universalas,7200,Dyzelinas,Mechaninė,177100,Kaunas,1600,81
+Opel Antara,2012,Visureigis / Krosoveris,7299,Dyzelinas,Automatinė,100000,Marijampolė,2200,120
+Opel Mokka,2014,Visureigis / Krosoveris,7300,Benzinas / dujos,Automatinė,197000,Vilnius,1400,103
+Opel Vivaro,2016,Krovininis mikroautobusas,7350,Dyzelinas,Mechaninė,195000,Tauragė,1600,88
+Opel Astra,2016,Hečbekas,7400,Benzinas,Mechaninė,142000,Rokiškis,1400,92
+Opel Mokka,2013,Visureigis / Krosoveris,7400,Benzinas,Mechaninė,235000,Šiauliai,1600,85
+Opel Mokka,2015,Visureigis / Krosoveris,7400,Dyzelinas,Mechaninė,181700,Tauragė,1600,100
+Opel Mokka,2013,Visureigis / Krosoveris,7400,Dyzelinas,Mechaninė,204456,Kuršėnai,1700,96
+Opel Mokka,2013,Visureigis / Krosoveris,7500,Dyzelinas,Mechaninė,302900,Radviliškis,1700,96
+Opel Mokka,2013,Visureigis / Krosoveris,7500,Dyzelinas,Automatinė,253300,Mažeikiai,1700,96
+Opel Astra,2018,Universalas,7500,Dyzelinas,Mechaninė,140000,Kaunas,1600,81
+Opel Corsa,2017,Hečbekas,7500,Benzinas,Mechaninė,81000,Vilnius,1400,66
+Opel Movano,2013,Vienatūris,7500,Dyzelinas,Mechaninė,386000,Vilnius,2300,107
+Opel Astra,2017,Universalas,7590,Dyzelinas,Mechaninė,270000,Šiauliai,1600,81
+Opel Mokka,2013,Visureigis / Krosoveris,7599,Benzinas,Mechaninė,130000,Vilnius,1600,85
+Opel Insignia,2014,Universalas,7600,Dyzelinas,Automatinė,249800,Kaunas,2000,143
+Opel Corsa,2017,Hečbekas,7600,Benzinas,Mechaninė,55290,Kaunas,1000,66
+Opel Zafira Tourer,2015,Vienatūris,7639,Dyzelinas,Mechaninė,220000,Kaunas,1600,88
+Opel Astra,2018,Universalas,7650,Dyzelinas,Automatinė,155500,Tauragė,1600,100
+Opel Antara,2012,Visureigis / Krosoveris,7800,Dyzelinas,Automatinė,166000,Telšiai,2200,135
+Opel Vivaro,2011,Keleivinis mikroautobusas,7850,Dyzelinas,Mechaninė,440000,Mažeikiai,2000,84
+Opel Mokka,2013,Visureigis / Krosoveris,7899,Dyzelinas,Automatinė,142806,Marijampolė,1700,96
+Opel Astra,2017,Universalas,7900,Dyzelinas,Mechaninė,139000,Tauragė,1600,81
+Opel Mokka X,2016,Visureigis / Krosoveris,7950,Benzinas,Mechaninė,208000,Raseiniai,1600,85
+Opel Astra,2018,Universalas,7999,Dyzelinas,Mechaninė,149000,Panevėžys,1600,81
+Opel Insignia,2016,Universalas,7999,Dyzelinas,Mechaninė,118700,Marijampolė,2000,125
+Opel Movano,2015,Keleivinis mikroautobusas,7999,Dyzelinas,Mechaninė,350000,Kaunas,2300,92
+Opel Mokka,2015,Visureigis / Krosoveris,7999,Dyzelinas,Mechaninė,240000,Tauragė,1700,96
+Opel Insignia,2012,Sedanas,8100,Benzinas,Automatinė,205000,Kaunas,2800,239
+Opel Astra,2017,Hečbekas,8100,Benzinas,Automatinė,113859,Šiauliai,1000,77
+Opel Astra,2016,Universalas,8150,Dyzelinas,Mechaninė,206351,Vilnius,1600,100
+Opel Insignia,2014,Universalas,8200,Dyzelinas,Automatinė,300000,Klaipėda,2000,120
+Opel Insignia,2017,Hečbekas,8200,Dyzelinas,Automatinė,204000,Kaunas,1600,100
+Opel Movano,2016,Krovininis mikroautobusas,8200,Dyzelinas,Mechaninė,249342,Tauragė,2300,120
+Opel Insignia,2014,Universalas,8300,Benzinas,Automatinė,158200,Vilnius,1600,125
+Opel Zafira,2018,Vienatūris,8300,Dyzelinas,Mechaninė,240000,Panevėžys,2000,125
+Opel Zafira Tourer,2017,Vienatūris,8300,Dyzelinas,Automatinė,134000,Kaunas,2000,96
+Opel Astra,2016,Hečbekas,8300,Dyzelinas,Mechaninė,151000,Klaipėda,1600,118
+Opel Insignia,2014,Hečbekas,8300,Dyzelinas,Automatinė,325000,Šiauliai,2000,120
+Opel Astra,2018,Universalas,8400,Dyzelinas,Automatinė,230000,Kaunas,1600,100
+Opel Insignia,2016,Universalas,8499,Dyzelinas,Mechaninė,122000,Vilnius,1600,100
+Opel Zafira,2019,Vienatūris,8500,Dyzelinas,Automatinė,202000,Panevėžys,2000,96
+Opel Insignia,2017,Universalas,8500,Dyzelinas,Mechaninė,163000,Vilnius,2000,125
+Opel Mokka,2014,Visureigis / Krosoveris,8600,Benzinas,Mechaninė,145750,Panevėžys,1600,85
+Opel Insignia,2016,Universalas,8600,Dyzelinas,Automatinė,104000,Alytus,1600,100
+Opel Vivaro,2016,Krovininis mikroautobusas,8700,Dyzelinas,Mechaninė,190000,Skaudvilė,1600,89
+Opel Mokka,2013,Visureigis / Krosoveris,8795,Benzinas / dujos,Mechaninė,258000,Kretinga,1600,85
+Opel Mokka,2013,Visureigis / Krosoveris,8800,Dyzelinas,Automatinė,228500,Vilnius,1700,96
+Opel Meriva,2017,Vienatūris,8800,Benzinas,Automatinė,68585,Kaunas,1400,103
+Opel Vivaro,2016,Krovininis mikroautobusas,8900,Dyzelinas,Mechaninė,248000,Šiauliai,1600,107
+Opel Zafira Tourer,2016,Vienatūris,8900,Dyzelinas,Automatinė,174191,Klaipėda,2000,125
+Opel Movano,2007,Keleivinis mikroautobusas,8900,Dyzelinas,Automatinė,76000,Raseiniai,2500,84
+Opel Astra,2016,Hečbekas,8900,Dyzelinas,Mechaninė,80730,Vilnius,1600,100
+Opel Mokka X,2017,Visureigis / Krosoveris,8950,Dyzelinas,Mechaninė,192000,Tauragė,1600,100
+Opel Mokka,2015,Visureigis / Krosoveris,9100,Dyzelinas,Mechaninė,178000,Kretinga,1600,100
+Opel Insignia,2018,Universalas,9200,Dyzelinas,Automatinė,232800,Kaunas,2000,125
+Opel Mokka,2016,Visureigis / Krosoveris,9200,Dyzelinas,Mechaninė,221000,Klaipėda,1600,100
+Opel Insignia,2019,Hečbekas,9200,Dyzelinas,Mechaninė,197255,Mažeikiai,1600,100
+Opel Insignia,2019,Hečbekas,9200,Dyzelinas,Mechaninė,155600,"Jēkabpils, Latvija",1600,100
+Opel Mokka,2016,Visureigis / Krosoveris,9400,Dyzelinas,Automatinė,195000,Telšiai,1600,100
+Opel Astra,2019,Hečbekas,9500,Dyzelinas,Automatinė,195494,Vilnius,1600,100
+Opel Movano,2016,Keleivinis mikroautobusas,9500,Dyzelinas,Automatinė,49000,Tauragė,2300,92
+Opel Mokka,2015,Visureigis / Krosoveris,9500,Benzinas,Mechaninė,60000,Vilnius,1600,85
+Opel Mokka,2016,Visureigis / Krosoveris,9500,Benzinas,Automatinė,141000,Vilnius,1400,103
+Opel Insignia,2014,Sedanas,9550,Benzinas / dujos,Mechaninė,148000,Šiauliai,2000,193
+Opel Mokka,2017,Visureigis / Krosoveris,9750,Dyzelinas,Mechaninė,200000,Kaunas,1600,100
+Opel Mokka X,2016,Visureigis / Krosoveris,9799,Benzinas,Mechaninė,150000,Kaunas,1600,85
+Opel Mokka X,2017,Visureigis / Krosoveris,9800,Dyzelinas,Mechaninė,180450,Tauragė,1600,81
+Opel Insignia,2017,Universalas,9800,Dyzelinas,Automatinė,267000,Vilnius,2000,125
+Opel Vivaro,2010,Keleivinis mikroautobusas,9800,Dyzelinas,Mechaninė,270000,Šiauliai,2500,107
+Opel Mokka,2016,Visureigis / Krosoveris,9800,Dyzelinas,Automatinė,132606,Marijampolė,1600,100
+Opel Movano,2012,Keleivinis mikroautobusas,9850,Dyzelinas,Mechaninė,194000,Panevėžys,2300,107
+Opel Vivaro,2014,Krovininis mikroautobusas,9900,Dyzelinas,Mechaninė,174201,Marijampolė,2000,84
+Opel Movano,2015,Keleivinis mikroautobusas,9900,Dyzelinas,Automatinė,184244,Klaipėda,2300,92
+Opel Vivaro,2018,Krovininis mikroautobusas,9900,Dyzelinas,Mechaninė,220856,Kėdainiai,1600,92
+Opel Zafira,2017,Vienatūris,9950,Dyzelinas,Automatinė,156665,Kelmė,2000,125
+Opel Mokka X,2016,Visureigis / Krosoveris,10000,Benzinas,Mechaninė,65000,Vilnius,1600,85
+Opel Mokka X,2018,Visureigis / Krosoveris,10300,Benzinas,Automatinė,109000,Rokiškis,1400,103
+Opel Vivaro,2017,Vienatūris,10300,Dyzelinas,Mechaninė,337000,"Jelgava, Latvija",1600,107
+Opel Vivaro,2018,Keleivinis mikroautobusas,10400,Dyzelinas,Mechaninė,348000,Vilnius,1600,92
+Opel Crossland X,2018,Visureigis / Krosoveris,10400,Benzinas,Mechaninė,90000,Kaunas,1200,96
+Opel Ampera,2013,Hečbekas,10400,Benzinas / elektra,Automatinė,118700,Vilnius,1400,111
+Opel Astra,2017,Universalas,10500,Benzinas,Automatinė,165600,Vilnius,1400,110
+Opel Mokka X,2017,Visureigis / Krosoveris,10599,Benzinas,Mechaninė,91850,Kaunas,1600,85
+Opel Crossland X,2018,Visureigis / Krosoveris,10700,Dyzelinas,Mechaninė,176747,Kretinga,1600,88
+Opel Cascada,2017,Kabrioletas,10900,Benzinas,Automatinė,36491,Klaipėda,1600,147
+Opel Vivaro,2014,Keleivinis mikroautobusas,11000,Dyzelinas,Mechaninė,338000,Klaipėda,2000,84
+Opel Insignia,2018,Universalas,11150,Dyzelinas,Mechaninė,188000,Panevėžys,1600,100
+Opel Mokka X,2017,Visureigis / Krosoveris,11199,Benzinas,Automatinė,160000,Vilnius,1400,103
+Opel Movano,2015,Krovininis mikroautobusas,11200,Dyzelinas,Mechaninė,155000,Marijampolė,2300,92
+Opel Crossland X,2020,Visureigis / Krosoveris,11500,Dyzelinas,Automatinė,169000,Tauragė,1500,88
+Opel Crossland X,2019,Visureigis / Krosoveris,11550,Benzinas,Mechaninė,57000,Utena,1200,81
+Opel Mokka X,2018,Visureigis / Krosoveris,11700,Benzinas,Automatinė,83366,Šilalė,1400,103
+Opel Insignia,2020,Hečbekas,11798,Dyzelinas,Mechaninė,182557,Tauragė,1600,81
+Opel Astra,2017,Universalas,11799,Benzinas,Automatinė,244505,Vilnius,1400,110
+Opel Insignia,2019,Universalas,11950,Dyzelinas,Mechaninė,152600,Vilnius,1600,100
+Opel Movano,2013,Krovininis mikroautobusas,11979,Dyzelinas,Mechaninė,243379,Vilnius,2300,92
+Opel Crossland X,2019,Visureigis / Krosoveris,12000,Benzinas,Automatinė,10600,Alytus,1200,81
+Opel Insignia,2019,Universalas,12000,Dyzelinas,Mechaninė,87920,Utena,1600,100
+Opel Astra,2019,Universalas,12300,Benzinas,Mechaninė,32217,Kaunas,1200,96
+Opel Mokka,2018,Visureigis / Krosoveris,12555,Benzinas,Automatinė,80123,Vilnius,1400,110
+Opel Crossland X,2018,Visureigis / Krosoveris,12999,Benzinas,Automatinė,13900,Alytus,1200,81
+Opel Combo,2020,Vienatūris,12999,Dyzelinas,Mechaninė,53000,Vilnius,1500,75
+Opel Insignia,2019,Universalas,13000,Dyzelinas,Automatinė,222000,Vilnius,2000,125
+Opel Insignia,2017,Hečbekas,13200,Dyzelinas,Automatinė,227050,Kazlų Rūda,2000,125
+Opel Combo,2019,Keleivinis mikroautobusas,13200,Dyzelinas,Mechaninė,76000,Vilnius,1500,75
+Opel Mokka X,2019,Visureigis / Krosoveris,13290,Benzinas,Automatinė,79446,Klaipėda,1400,114
+Opel Grandland X,2018,Visureigis / Krosoveris,13500,Dyzelinas,Mechaninė,66000,Marijampolė,1600,88
+Opel Mokka X,2020,Visureigis / Krosoveris,13500,Benzinas,Automatinė,39155,Panevėžys,1400,103
+Opel Corsa,2022,Hečbekas,13950,Benzinas,Automatinė,5500,Šiauliai,1200,74
+Opel Grandland X,2019,Visureigis / Krosoveris,14600,Benzinas,Mechaninė,74863,"Rīga, Latvija",1200,96
+Opel Insignia,2021,Hečbekas,14900,Dyzelinas,Automatinė,62000,Tauragė,1500,90
+Opel Mokka X,2021,Visureigis / Krosoveris,14990,Benzinas,Automatinė,26123,Vilnius,1400,104
+Opel Insignia,2017,Hečbekas,14999,Dyzelinas,Mechaninė,123000,Marijampolė,2000,125
+Opel Grandland X,2018,Visureigis / Krosoveris,14999,Benzinas,Automatinė,119000,Vilnius,1200,96
+Opel Insignia,2018,Hečbekas,15500,Dyzelinas,Automatinė,14700,Tauragė,1600,100
+Opel Vivaro,2016,Vienatūris,15500,Dyzelinas,Mechaninė,250000,Panevėžys,1600,92
+Opel Grandland X,2021,Visureigis / Krosoveris,15700,Benzinas,Mechaninė,33752,Jurbarkas,1200,96
+Opel Insignia,2018,Universalas,15990,Dyzelinas,Automatinė,145356,Joniškis,2000,125
+Opel Movano,2018,Krovininis mikroautobusas,16000,Dyzelinas,Mechaninė,230000,Vilnius,2300,107
+Opel Movano,2018,Komercinis,16200,Dyzelinas,Mechaninė,109333,Kaunas,2300,92
+Opel Vivaro,2018,Keleivinis mikroautobusas,16500,Dyzelinas,Mechaninė,322000,Kaunas,1600,92
+Opel Mokka,2021,Visureigis / Krosoveris,16500,Benzinas,Mechaninė,90565,"Rīga, Latvija",1200,96
+Opel Insignia,2018,Universalas,17000,Dyzelinas,Automatinė,138000,Skuodas,2000,125
+Opel Insignia,2021,Universalas,17300,Dyzelinas,Automatinė,138000,Vilnius,2000,128
+Opel Vivaro,2018,Krovininis mikroautobusas,17908,Dyzelinas,Mechaninė,71000,Akmenė,1600,89
+Opel Vivaro,2018,Keleivinis mikroautobusas,17990,Dyzelinas,Mechaninė,198000,"Iecava, Latvija",1600,107
+Opel Insignia,2020,Hečbekas,18250,Dyzelinas,Automatinė,90000,Vilnius,1500,90
+Opel Mokka,2021,Visureigis / Krosoveris,18750,Benzinas,Automatinė,13800,Jonava,1200,96
+Opel Insignia,2021,Hečbekas,19300,Dyzelinas,Automatinė,123660,Kaunas,2000,128
+Opel Insignia,2018,Visureigis / Krosoveris,19900,Dyzelinas,Automatinė,94000,"Rīga, Latvija",2000,154
+Opel Astra,2023,Hečbekas,23500,Benzinas,Automatinė,6000,Kaunas,1200,96
+Opel Vectra,2022,Sedanas,750,Dyzelinas,Mechaninė,300000,Kaunas,2200,92
+Opel Astra,2018,Universalas,1000,Dyzelinas,Mechaninė,300000,Vilnius,1600,70
+Opel Omega,2016,Sedanas,900,Dyzelinas,Mechaninė,307279,Kaunas,2200,88
+Opel Signum,2017,Universalas,1350,Dyzelinas,Mechaninė,338430,Švenčionys,1900,110

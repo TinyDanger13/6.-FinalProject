@@ -1,0 +1,263 @@
+Title,Year,Type,Price,Engine type,Gearbox_type,Power_unit,Milage,City
+Toyota Corolla,['2007-07'],Sedanas,2850,Benzinas,Automatinė,"1.6 l.,",284664,Vilnius
+Toyota Corolla,['2008-05'],Sedanas,3900,Benzinas,Automatinė,"1.6 l.,         91  kW",265554,Vilnius
+Toyota Corolla,['2019-10'],Universalas,13400,Benzinas,Automatinė,"1.2 l.,         85  kW",135000,Vilnius
+Toyota Corolla,['2019-08'],Sedanas,18450,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",107897,Vilnius
+Toyota Corolla,['2002-07'],Hečbekas,1400,Benzinas,Mechaninė,"1.4 l.,         71  kW",254041,Kaišiadorys
+Toyota Corolla,['2005-09'],Hečbekas,1500,Benzinas,Mechaninė,"1.6 l.,         81  kW",326515,Marijampolė
+Toyota Corolla,['2004'],Hečbekas,1900,Benzinas,Mechaninė,"1.6 l.,         81  kW",220422,Vilnius
+Toyota Corolla,['2011-06'],Sedanas,2400,Benzinas,Mechaninė,"1.3 l.,         73  kW",228100,Vilnius
+Toyota Corolla,['2005-11'],Hečbekas,2850,Dyzelinas,Automatinė,"1.4 l.,         66  kW",335451,Kretinga
+Toyota Corolla,['2007'],Vienatūris,4200,Dyzelinas,Mechaninė,"2.2 l.,         100  kW",314474,Kaunas
+Toyota Corolla,['2011-06'],Sedanas,5800,Benzinas,Automatinė,97  kW,108220,"Rīga, Latvija"
+Toyota Corolla,['2017-02'],Sedanas,8900,Benzinas,Mechaninė,"1.3 l.,         73  kW",159260,Vilnius
+Toyota Corolla,['2017-03'],Sedanas,9450,Benzinas,Mechaninė,"1.3 l.,         73  kW",186400,Vilnius
+Toyota Corolla,['2019-04'],Sedanas,12900,Benzinas,Mechaninė,"1.6 l.,         97  kW",137060,Vilnius
+Toyota Corolla,['2019-12'],Universalas,13200,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",169500,Vilnius
+Toyota Corolla,['2019-06'],Sedanas,13500,Benzinas,Mechaninė,"1.6 l.,         97  kW",131048,Vilnius
+Toyota Corolla,['2019-07'],Hečbekas,13900,Benzinas,Automatinė,"1.2 l.,         85  kW",109800,Vilnius
+Toyota Corolla,['2019-04'],Sedanas,13900,Benzinas,Mechaninė,"1.6 l.,         97  kW",115237,Vilnius
+Toyota Corolla,['2019-07'],Universalas,13900,Benzinas,Mechaninė,"1.2 l.,         85  kW",125432,Vilnius
+Toyota Corolla,['2017-03'],Sedanas,13900,Benzinas,Automatinė,"1.6 l.,         97  kW",150000,Kaunas
+Toyota Corolla,['2021-02'],Hečbekas,14200,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",149000,Kaunas
+Toyota Corolla,['2019-09'],Hečbekas,14500,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",191900,Vilnius
+Toyota Corolla,['2020-04'],Sedanas,14900,Benzinas,Mechaninė,"1.6 l.,         97  kW",87832,Vilnius
+Toyota Corolla,['2019-04'],Kita,14900,Benzinas,Mechaninė,"1.2 l.,         85  kW",138160,Vilnius
+Toyota Corolla,['2019-11'],Universalas,14900,Benzinas,Mechaninė,"1.2 l.,         85  kW",67700,Klaipėda
+Toyota Corolla,['2019-04'],Universalas,15500,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",122225,Panevėžys
+Toyota Corolla,['2019-05'],Universalas,15500,Benzinas,Automatinė,"1.2 l.,         85  kW",147231,Vilnius
+Toyota Corolla,['2019-08'],Hečbekas,15700,Benzinas,Mechaninė,"1.2 l.,         85  kW",20088,Šiauliai
+Toyota Corolla,['2019-11'],Universalas,15790,Benzinas / elektra,Automatinė,"2.0 l.,         132  kW",198300,Panevėžys
+Toyota Corolla,['2020-08'],Sedanas,15899,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",111300,Vilnius
+Toyota Corolla,['2021-03'],Universalas,15900,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",220000,"Tallinn, Estija"
+Toyota Corolla,['2018-11'],Sedanas,15900,Benzinas,Automatinė,"1.6 l.,         97  kW",50900,Vilnius
+Toyota Corolla,['2019-06'],Universalas,15999,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",130000,Vilnius
+Toyota Corolla,['2019-09'],Sedanas,16500,Benzinas,Automatinė,"1.2 l.,         85  kW",33500,Vilnius
+Toyota Corolla,['2019-08'],Sedanas,16800,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",102652,Vilnius
+Toyota Corolla,['2019-09'],Sedanas,16900,Benzinas,Automatinė,"1.6 l.,         97  kW",90884,Vilnius
+Toyota Corolla,['2021-03'],Universalas,16900,Benzinas,Automatinė,"1.2 l.,         85  kW",101500,Kaunas
+Toyota Corolla,['2019-12'],Universalas,17300,Benzinas,Automatinė,"1.2 l.,         85  kW",78700,Vilnius
+Toyota Corolla,['2021-06'],Sedanas,17650,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",89500,Vilnius
+Toyota Corolla,['2021-07'],Universalas,17900,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",67972,Šiauliai
+Toyota Corolla,['2019-06'],Sedanas,17900,Benzinas,Automatinė,"1.6 l.,         97  kW",64400,Vilnius
+Toyota Corolla,['2019-08'],Sedanas,17950,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",94940,Vilnius
+Toyota Corolla,['2022-07'],Hečbekas,18400,Benzinas,Mechaninė,"1.2 l.,         85  kW",24951,Vilnius
+Toyota Corolla,['2020-10'],Universalas,18500,Benzinas,Automatinė,"1.2 l.,         85  kW",108400,Vilnius
+Toyota Corolla,['2020-02'],Sedanas,18500,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",121200,Kaunas
+Toyota Corolla,['2020-02'],Universalas,18600,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",86000,Marijampolė
+Toyota Corolla,['2022-04'],Hečbekas,18900,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",27015,Šiauliai
+Toyota Corolla,['2020-12'],Universalas,18900,Benzinas / elektra,Automatinė,"2.0 l.,         132  kW",260000,Vilnius
+Toyota Corolla,['2020-12'],Universalas,18950,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",69857,Marijampolė
+Toyota Corolla,['2022-06'],Sedanas,18950,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",57850,Vilnius
+Toyota Corolla,['2019-12'],Sedanas,18990,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",53100,Vilnius
+Toyota Corolla,['2019-12'],Hečbekas,19350,Benzinas / elektra,Automatinė,"2.0 l.,         114  kW",45000,Vilnius
+Toyota Corolla,['2020-12'],Universalas,19800,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",37466,Šiauliai
+Toyota Corolla,['2021-03'],Hečbekas,19850,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",45120,Vilnius
+Toyota Corolla,['2020-08'],Sedanas,19900,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",30554,Vilnius
+Toyota Corolla,['2020-01'],Universalas,19900,Benzinas / elektra,Automatinė,"2.0 l.,         135  kW",64434,Šiauliai
+Toyota Corolla,['2022-01'],Hečbekas,19900,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",47681,Šiauliai
+Toyota Corolla,['2022-01'],Hečbekas,20000,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",79700,Vilnius
+Toyota Corolla,['2021-11'],Universalas,20000,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",86400,Vilnius
+Toyota Corolla,['2019-04'],Hečbekas,20200,Benzinas / elektra,Automatinė,"2.0 l.,         112  kW",53739,Šiauliai
+Toyota Corolla,['2021-03'],Hečbekas,20500,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",60350,Kaunas
+Toyota Corolla,['2021-03'],Hečbekas,20500,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",46267,Vilnius
+Toyota Corolla,['2020-11'],Universalas,20500,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",53388,Šiauliai
+Toyota Corolla,['2020-01'],Universalas,20800,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",75590,Šiauliai
+Toyota Corolla,['2020-03'],Universalas,20900,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",121700,Vilnius
+Toyota Corolla,['2019-07'],Sedanas,20900,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",107900,Vilnius
+Toyota Corolla,['2019-08'],Sedanas,20900,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",105900,Vilnius
+Toyota Corolla,['2022-05'],Sedanas,20900,Benzinas,Automatinė,"1.5 l.,         92  kW",29800,Vilnius
+Toyota Corolla,['2019-11'],Universalas,20900,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",95200,Kaunas
+Toyota Corolla,['2022-11'],Hečbekas,21500,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",37200,Vilnius
+Toyota Corolla,['2022-05'],Universalas,21500,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",84710,Šiauliai
+Toyota Corolla,['2022-11'],Hečbekas,21500,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",63800,Klaipėda
+Toyota Corolla,['2022-11'],Hečbekas,21500,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",42200,Vilnius
+Toyota Corolla,['2023-09'],Universalas,21900,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",17463,Kaunas
+Toyota Corolla,['2020-02'],Universalas,22500,Benzinas / elektra,Automatinė,"2.0 l.,         132  kW",32972,Panevėžys
+Toyota Corolla,['2021-06'],Sedanas,22700,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",57900,Vilnius
+Toyota Corolla,['2020-05'],Sedanas,22700,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",55600,Vilnius
+Toyota Corolla,['2020-01'],Sedanas,22700,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",49200,Vilnius
+Toyota Corolla,['2021-04'],Sedanas,22900,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",44300,Vilnius
+Toyota Corolla,['2019-10'],Sedanas,22900,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",88900,Vilnius
+Toyota Corolla,['2019-09'],Universalas,22900,Benzinas / elektra,Automatinė,"2.0 l.,         112  kW",121200,Vilnius
+Toyota Corolla,['2022-05'],Universalas,23500,Benzinas / elektra,Automatinė,"2.0 l.,         135  kW",62274,Šiauliai
+Toyota Corolla,['2021-09'],Universalas,23900,Benzinas / elektra,Automatinė,"2.0 l.,         135  kW",28432,Šiauliai
+Toyota Corolla,['2022-02'],Sedanas,23900,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",44333,Vilnius
+Toyota Corolla,['2021-08'],Universalas,23950,Benzinas / elektra,Automatinė,"2.0 l.,         135  kW",5040,Vilnius
+Toyota Corolla,['2023-05'],Sedanas,24000,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",26500,Vilnius
+Toyota Corolla,['2023-05'],Universalas,24000,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",21900,Vilnius
+Toyota Corolla,['2023-06'],Universalas,24700,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",27678,Šiauliai
+Toyota Corolla,['2019-09'],Universalas,24900,Benzinas / elektra,Automatinė,"2.0 l.,         112  kW",78600,Vilnius
+Toyota Corolla,['2019-11'],Universalas,24900,Benzinas / elektra,Automatinė,"2.0 l.,         112  kW",110200,Vilnius
+Toyota Corolla,['2021-06'],Universalas,25900,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",39200,Vilnius
+Toyota Corolla,['2021-11'],Universalas,26900,Benzinas / elektra,Automatinė,"2.0 l.,         135  kW",56000,Vilnius
+Toyota Corolla,['2024'],Sedanas,2750031810,Benzinas / elektra,Automatinė,"1.8 l.,         103  kW",4,Šiauliai
+Toyota Corolla,['2023-09'],Hečbekas,31500,Kita,Automatinė,"1.8 l.,         103  kW",10000,Vilnius
+Toyota Corolla,['2023-06'],Sedanas,31500,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",14400,Vilnius
+Toyota Corolla,['2023-09'],Universalas,32500,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",18500,Vilnius
+Toyota Corolla,['2023-07'],Hečbekas,33500,Benzinas / elektra,Automatinė,"2.0 l.,         112  kW",12100,Vilnius
+Toyota Corolla,['2024'],Universalas,3370034260,Benzinas / elektra,Automatinė,"1.8 l.,         103  kW",1,Panevėžys
+Toyota Corolla,['2001-02'],Hečbekas,749,Benzinas,Mechaninė,"1.6 l.,         81  kW",319591,Vilnius
+Toyota Corolla,['2003-06'],Hečbekas,750,Benzinas,Mechaninė,"1.4 l.,         71  kW",204943,Vilnius
+Toyota Corolla,['2003-12'],Hečbekas,850,Dyzelinas,Mechaninė,"2.0 l.,         85  kW",246860,Vilnius
+Toyota Corolla,['2004-09'],Hečbekas,1340,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",400000,Vilnius
+Toyota Corolla,['2004-04'],Hečbekas,1450,Benzinas / dujos,Mechaninė,"1.6 l.,         81  kW",333800,Vilnius
+Toyota Corolla,['2004-12'],Hečbekas,1550,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",232730,Kretinga
+Toyota Corolla,['2005-04'],Hečbekas,1550,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",322000,Vilnius
+Toyota Corolla,['2004'],Hečbekas,1757,Dyzelinas,Mechaninė,"2.0 l.,         85  kW",360000,Vilnius
+Toyota Corolla,['2005-05'],Hečbekas,1800,Dyzelinas,Automatinė,"1.6 l.,         66  kW",238000,Kaunas
+Toyota Corolla,['2004-06'],Vienatūris,1850,Benzinas,Mechaninė,"1.6 l.,",414000,Kelmė
+Toyota Corolla,['2005-04'],Sedanas,1870,Dyzelinas,Automatinė,"1.4 l.,         66  kW",289000,Panevėžys
+Toyota Corolla,['2005'],Hečbekas,1950,Benzinas,Mechaninė,"1.6 l.,         81  kW",238000,Vilnius
+Toyota Corolla,['2005-12'],Hečbekas,1999,Dyzelinas,Automatinė,"1.4 l.,         66  kW",280999,Vilnius
+Toyota Corolla,['2008-01'],Sedanas,2000,Benzinas,Automatinė,"1.6 l.,         91  kW",236727,Šakiai
+Toyota Corolla,['2004-11'],Hečbekas,2100,Benzinas,Mechaninė,"1.6 l.,         81  kW",243000,Vilnius
+Toyota Corolla,['2005-06'],Hečbekas,2100,Dyzelinas,Automatinė,"1.4 l.,         66  kW",177200,Radviliškis
+Toyota Corolla,['2004-09'],Hečbekas,2150,Dyzelinas,Mechaninė,"2.0 l.,         85  kW",314922,Alytus
+Toyota Corolla,['2005-06'],Hečbekas,2200,Dyzelinas,Mechaninė,"2.0 l.,         85  kW",267000,Vilnius
+Toyota Corolla,['2005-05'],Hečbekas,2450,Dyzelinas,Automatinė,"1.4 l.,         66  kW",180000,Elektrėnai
+Toyota Corolla,['2004'],Hečbekas,2499,Benzinas,Automatinė,"1.6 l.,         81  kW",130000,Klaipėda
+Toyota Corolla,['2007-01'],Sedanas,2500,Benzinas,Automatinė,"1.8 l.,         96  kW",214213,Vilnius
+Toyota Corolla,['2006-10'],Hečbekas,2500,Benzinas,Mechaninė,"1.6 l.,         81  kW",199000,Vilnius
+Toyota Corolla,['2004-12'],Hečbekas,2500,Dyzelinas,Mechaninė,"2.0 l.,         85  kW",259000,Klaipėda
+Toyota Corolla,['2005-12'],Kupė (Coupe),2600,Dyzelinas,Automatinė,"1.4 l.,         66  kW",251000,Klaipėda
+Toyota Corolla,['2007'],Universalas,2600,Dyzelinas,Mechaninė,"2.2 l.,         100  kW",305000,Kupiškis
+Toyota Corolla,['2007-11'],Sedanas,2850,Benzinas,Mechaninė,"1.6 l.,         91  kW",246000,Marijampolė
+Toyota Corolla,['2007-10'],Sedanas,3099,Benzinas,Mechaninė,"1.6 l.,         91  kW",111300,Vilnius
+Toyota Corolla,['2011-10'],Sedanas,3750,Benzinas,Mechaninė,"1.6 l.,         91  kW",217000,Ukmergė
+Toyota Corolla,['2008-08'],Sedanas,3800,Dyzelinas,Automatinė,"1.4 l.,         66  kW",286990,Radviliškis
+Toyota Corolla,['2009-08'],Sedanas,3800,Benzinas,Automatinė,"1.6 l.,         91  kW",251440,Vilnius
+Toyota Corolla,['2019-05'],Hečbekas,5900,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",171000,Alytus
+Toyota Corolla,['2015-03'],Sedanas,7000,Benzinas,Mechaninė,"1.6 l.,         97  kW",160000,Vilnius
+Toyota Corolla,['2015-07'],Sedanas,7200,Benzinas,Mechaninė,"1.6 l.,         97  kW",154767,Klaipėda
+Toyota Corolla,['2014-03'],Sedanas,8100,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",93000,Ukmergė
+Toyota Corolla,['2015-03'],Sedanas,8900,Benzinas,Mechaninė,"1.6 l.,         97  kW",134000,Kaunas
+Toyota Corolla,['2014-07'],Sedanas,8950,Dyzelinas,Automatinė,"1.4 l.,         66  kW",162000,"Rīga, Latvija"
+Toyota Corolla,['2014-07'],Sedanas,9350,Benzinas,Automatinė,"1.6 l.,         97  kW",154000,Vilnius
+Toyota Corolla,['2019-10'],Universalas,9500,Benzinas / elektra,Automatinė,"2.0 l.,         132  kW",205774,Kaunas
+Toyota Corolla,['2019-07'],Universalas,9500,Benzinas,Automatinė,"1.2 l.,         85  kW",98500,Šiauliai
+Toyota Corolla,['2016-03'],Sedanas,9750,Benzinas,Automatinė,"1.6 l.,         97  kW",150000,Vilnius
+Toyota Corolla,['2015-04'],Sedanas,9900,Benzinas,Automatinė,"1.6 l.,         97  kW",106173,Vilnius
+Toyota Corolla,['2018-09'],Sedanas,10200,Benzinas,Automatinė,"1.6 l.,         97  kW",115580,Vilnius
+Toyota Corolla,['2019-04'],Hečbekas,11600,Benzinas / elektra,Automatinė,"1.8 l.,         89  kW",186500,Kaunas
+Toyota Corolla,['2018-11'],Sedanas,12200,Benzinas,Mechaninė,"1.6 l.,         97  kW",107100,Klaipėda
+Toyota Corolla,['2019-02'],Sedanas,12500,Benzinas,Mechaninė,"1.6 l.,         97  kW",116124,Klaipėda
+Toyota Corolla,['2020-11'],Universalas,12700,Benzinas,Mechaninė,"1.2 l.,         85  kW",132000,Vilnius
+Toyota Corolla,['2019-02'],Sedanas,12900,Benzinas,Automatinė,"1.6 l.,         97  kW",132300,Klaipėda
+Toyota Corolla,['2019-09'],Sedanas,12999,Benzinas,Mechaninė,"1.6 l.,         97  kW",170000,Ukmergė
+Toyota Corolla,['2020-04'],Universalas,13299,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",241300,Kaunas
+Toyota Corolla,['2016-07'],Sedanas,13500,Benzinas,Automatinė,"1.6 l.,         97  kW",64500,Klaipėda
+Toyota Corolla,['2020-04'],Universalas,13800,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",99000,Šiauliai
+Toyota Corolla,['2019-12'],Universalas,14100,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",146000,Vilnius
+Toyota Corolla,['2020-08'],Universalas,14500,Benzinas / elektra,Automatinė,"1.8 l.,",217000,Tauragė
+Toyota Corolla,['2020-11'],Universalas,14600,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",193000,Vilnius
+Toyota Corolla,['2021-01'],Hečbekas,14700,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",124150,Kaunas
+Toyota Corolla,['2019-09'],Hečbekas,15100,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",139544,Alytus
+Toyota Corolla,['2019-04'],Sedanas,15100,Benzinas,Automatinė,"1.6 l.,         92  kW",76,Vilnius
+Toyota Corolla,['2019-06'],Sedanas,15499,Benzinas / elektra,Automatinė,"1.8 l.,         89  kW",76000,Ukmergė
+Toyota Corolla,['2020-09'],Universalas,15500,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",160000,Anykščiai
+Toyota Corolla,['2022-05'],Universalas,15600,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",65837,Kaunas
+Toyota Corolla,['2019-10'],Hečbekas,15990,Benzinas,Automatinė,"1.2 l.,         85  kW",20975,Vilnius
+Toyota Corolla,['2019-06'],Universalas,16200,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",144396,Kaunas
+Toyota Corolla,['2022-02'],Sedanas,16600,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",210000,Vilkaviškis
+Toyota Corolla,['2022-09'],Universalas,16700,Benzinas / elektra,Automatinė,"2.0 l.,         135  kW",84834,Šiauliai
+Toyota Corolla,['2020-01'],Hečbekas,16940,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",50600,Kaunas
+Toyota Corolla,['2022-02'],Sedanas,17400,Benzinas / elektra,Automatinė,"1.8 l.,",21800,Kėdainiai
+Toyota Corolla,['2019-11'],Hečbekas,17450,Benzinas / elektra,Automatinė,"1.8 l.,         108  kW",38000,Šiauliai
+Toyota Corolla,['2020-07'],Universalas,17500,Benzinas,Mechaninė,"1.2 l.,         85  kW",73000,Klaipėda
+Toyota Corolla,['2019-05'],Sedanas,17500,Benzinas,Automatinė,"1.6 l.,         97  kW",83700,Klaipėda
+Toyota Corolla,['2022-12'],Hečbekas,17900,Benzinas,Automatinė,"2.0 l.,         124  kW",8000,Vilnius
+Toyota Corolla,['2022-08'],Universalas,17900,Benzinas,Automatinė,"1.2 l.,",26090,"Rīga, Latvija"
+Toyota Corolla,['2022-05'],Sedanas,17990,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",26266,Vilnius
+Toyota Corolla,['2019-11'],Universalas,17990,Benzinas / elektra,Automatinė,"2.0 l.,         112  kW",129700,Vilnius
+Toyota Corolla,['2020'],Hečbekas,18450,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",47000,Panevėžys
+Toyota Corolla,['2021-05'],Sedanas,18500,Benzinas,Automatinė,"1.5 l.,         92  kW",75000,Klaipėda
+Toyota Corolla,['2019'],Hečbekas,18990,Benzinas / elektra,Automatinė,"2.0 l.,         132  kW",150000,Kaunas
+Toyota Corolla,['2021-05'],Sedanas,19100,Benzinas,Automatinė,"1.5 l.,         92  kW",71900,Klaipėda
+Toyota Corolla,['2020-09'],Universalas,19500,Benzinas,Automatinė,"1.2 l.,         85  kW",110000,Klaipėda
+Toyota Corolla,['2020-07'],Universalas,19699,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",28000,Kaunas
+Toyota Corolla,['2023-08'],Sedanas,19700,Benzinas,Mechaninė,"1.5 l.,         92  kW",5000,Klaipėda
+Toyota Corolla,['2021-04'],Sedanas,20500,Benzinas / elektra,Automatinė,"1.8 l.,",50000,Kaunas
+Toyota Corolla,['2019-08'],Sedanas,21900,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",82500,Klaipėda
+Toyota Corolla,['2022-07'],Sedanas,22000,Benzinas,Automatinė,"1.8 l.,         99  kW",16494,"Rīga, Latvija"
+Toyota Corolla,['2021-01'],Kita,22700,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",50300,Klaipėda
+Toyota Corolla,['2022-12'],Sedanas,23000,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",19800,Panevėžys
+Toyota Corolla,['2024'],Universalas,35005,Benzinas / elektra,Automatinė,"1.8 l.,         103  kW",10,Klaipėda
+Toyota Corolla,['2004-06'],Hečbekas,750,Dyzelinas,Mechaninė,"2.0 l.,         85  kW",350000,Nemenčinė
+Toyota Corolla,['2004-06'],Hečbekas,750,Benzinas,Mechaninė,"1.3 l.,         65  kW",230000,Kaunas
+Toyota Corolla,['2001-12'],Hečbekas,800,Dyzelinas,Mechaninė,"2.0 l.,         66  kW",329472,Klaipėda
+Toyota Corolla,['2000-08'],Universalas,850,Dyzelinas,Mechaninė,"2.0 l.,         66  kW",256600,Kaunas
+Toyota Corolla,['2000'],Hečbekas,950,Dyzelinas,Mechaninė,"2.0 l.,",336000,Vilnius
+Toyota Corolla,['2002'],Hečbekas,950,Benzinas / dujos,Mechaninė,"1.6 l.,         81  kW",222768,Šilutė
+Toyota Corolla,['2002'],Hečbekas,1100,Benzinas,Mechaninė,"1.3 l.,         71  kW",179000,Vilnius
+Toyota Corolla,['1998'],Hečbekas,1150,Benzinas,Mechaninė,"1.6 l.,         84  kW",188740,"Jelgava, Latvija"
+Toyota Corolla,['2003'],Hečbekas,1250,Benzinas,Mechaninė,"1.6 l.,         81  kW",207020,Mažeikiai
+Toyota Corolla,['2004-08'],Hečbekas,1400,Dyzelinas,Mechaninė,"2.0 l.,         85  kW",342520,Kaunas
+Toyota Corolla,['2001-09'],Sedanas,1450,Benzinas / dujos,Automatinė,"1.6 l.,         81  kW",290000,Alytus
+Toyota Corolla,['2004-05'],Universalas,1499,Dyzelinas,Mechaninė,"2.0 l.,         66  kW",219300,Vilnius
+Toyota Corolla,['2003-12'],Kupė (Coupe),1600,Benzinas,Mechaninė,"1.6 l.,         81  kW",2022000,Vilnius
+Toyota Corolla,['2005-02'],Hečbekas,1700,Dyzelinas,Mechaninė,"2.0 l.,         85  kW",280000,Telšiai
+Toyota Corolla,['2004-12'],Hečbekas,1700,Dyzelinas,Mechaninė,"2.0 l.,         85  kW",245000,Vilnius
+Toyota Corolla,['2005'],Hečbekas,1800,Dyzelinas,Automatinė,"1.4 l.,         66  kW",219000,Vilnius
+Toyota Corolla,['2006-02'],Hečbekas,1900,Dyzelinas,Mechaninė,"2.0 l.,         85  kW",287493,Vilnius
+Toyota Corolla,['2004-12'],Hečbekas,1900,Dyzelinas,Automatinė,"1.4 l.,         66  kW",316688,Kaunas
+Toyota Corolla,['2003-05'],Hečbekas,1995,Dyzelinas,Mechaninė,"2.0 l.,         85  kW",277491,Klaipėda
+Toyota Corolla,['2007'],Sedanas,2000,Benzinas,Mechaninė,"1.6 l.,         91  kW",300000,Kelmė
+Toyota Corolla,['2005-10'],Hečbekas,2200,Dyzelinas,Automatinė,"1.4 l.,         66  kW",265000,Tauragė
+Toyota Corolla,['2005-06'],Hečbekas,2300,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",244420,Kaunas
+Toyota Corolla,['2006'],Hečbekas,2450,Dyzelinas,Automatinė,"1.4 l.,",250000,Vilnius
+Toyota Corolla,['2006-04'],Hečbekas,2450,Dyzelinas,Automatinė,"1.4 l.,         66  kW",227640,Šalčininkai
+Toyota Corolla,['2006'],Hečbekas,2500,Benzinas,Automatinė,"1.6 l.,",190000,Vilnius
+Toyota Corolla,['2005-04'],Sedanas,2600,Dyzelinas,Automatinė,"1.4 l.,         66  kW",181883,Alytus
+Toyota Corolla,['2005-05'],Hečbekas,2600,Dyzelinas,Automatinė,"1.4 l.,         66  kW",129900,Klaipėda
+Toyota Corolla,['2009-11'],Sedanas,2699,Benzinas,Automatinė,"1.8 l.,         92  kW",177000,Kaunas
+Toyota Corolla,['2005-07'],Hečbekas,2850,Dyzelinas,Automatinė,"1.4 l.,         66  kW",196800,Vilnius
+Toyota Corolla,['2006'],Hečbekas,2900,Benzinas / dujos,Mechaninė,"1.4 l.,         71  kW",210000,Vilnius
+Toyota Corolla,['2005'],Sedanas,2900,Benzinas,Mechaninė,"1.6 l.,         81  kW",147000,"Jelgava, Latvija"
+Toyota Corolla,['2007-10'],Sedanas,2999,Benzinas,Mechaninė,"1.6 l.,         91  kW",290000,Kaunas
+Toyota Corolla,['2005-06'],Hečbekas,3000,Benzinas,Mechaninė,"1.6 l.,         81  kW",240000,Klaipėda
+Toyota Corolla,['2008'],Sedanas,3400,Benzinas,Mechaninė,"1.6 l.,         91  kW",180500,Vilnius
+Toyota Corolla,['2005-11'],Hečbekas,3500,Benzinas,Automatinė,"1.6 l.,         81  kW",69850,Vilnius
+Toyota Corolla,['2010-01'],Sedanas,3990,Dyzelinas,Automatinė,"1.4 l.,         66  kW",156000,Vilnius
+Toyota Corolla,['2016-09'],Sedanas,8600,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",98700,Vilnius
+Toyota Corolla,['2015-08'],Sedanas,8800,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",195847,Kaunas
+Toyota Corolla,['2013-12'],Sedanas,8900,Benzinas,Automatinė,"1.6 l.,         97  kW",170000,Alytus
+Toyota Corolla,['2016-04'],Sedanas,8950,Benzinas,Automatinė,"1.6 l.,         97  kW",291000,Kaunas
+Toyota Corolla,['2023-08'],Hečbekas,9900,Benzinas / elektra,Automatinė,"1.8 l.,",3300,Panevėžys
+Toyota Corolla,['2018-02'],Sedanas,10200,Benzinas,Mechaninė,"1.6 l.,         97  kW",136000,Mažeikiai
+Toyota Corolla,['2016-10'],Sedanas,10600,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",118000,Šiauliai
+Toyota Corolla,['2019-03'],Universalas,11200,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",123493,Marijampolė
+Toyota Corolla,['2017-06'],Sedanas,11500,Benzinas,Mechaninė,"1.6 l.,         97  kW",60600,Druskininkai
+Toyota Corolla,['2018-08'],Sedanas,11500,Benzinas,Mechaninė,"1.6 l.,         97  kW",73520,Panevėžys
+Toyota Corolla,['2019-06'],Universalas,11550,Benzinas,Mechaninė,"1.2 l.,         85  kW",131000,Vilnius
+Toyota Corolla,['2017-04'],Sedanas,11800,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",132000,Vilnius
+Toyota Corolla,['2019-06'],Universalas,11900,Benzinas,Mechaninė,"1.2 l.,         85  kW",115300,Vilnius
+Toyota Corolla,['2018-02'],Sedanas,11999,Benzinas,Mechaninė,"1.6 l.,         97  kW",100000,Mažeikiai
+Toyota Corolla,['2016-02'],Sedanas,12000,Benzinas,Mechaninė,"1.6 l.,         97  kW",55000,Vilnius
+Toyota Corolla,['2019'],Sedanas,12990,Benzinas,Mechaninė,"1.6 l.,         97  kW",49000,Vilnius
+Toyota Corolla,['2016-06'],Sedanas,13000,Benzinas,Automatinė,"1.6 l.,         97  kW",86000,Kaunas
+Toyota Corolla,['2019-10'],Universalas,13350,Benzinas,Automatinė,"1.2 l.,         85  kW",133000,Vilnius
+Toyota Corolla,['2019-06'],Sedanas,13500,Benzinas,Mechaninė,"1.6 l.,         97  kW",130100,Druskininkai
+Toyota Corolla,['2019-05'],Universalas,14499,Benzinas,Mechaninė,"1.2 l.,         85  kW",58900,Elektrėnai
+Toyota Corolla,['2019'],Universalas,15290,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",236000,Kaunas
+Toyota Corolla,['2021-06'],Hečbekas,15299,Benzinas,Mechaninė,"1.2 l.,         85  kW",19590,Vilnius
+Toyota Corolla,['2020-07'],Universalas,15399,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",137737,Kaunas
+Toyota Corolla,['2019-04'],Hečbekas,15800,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",18700,Panevėžys
+Toyota Corolla,['2019-07'],Universalas,15800,Benzinas,Automatinė,"1.2 l.,         85  kW",112000,Vilnius
+Toyota Corolla,['2019-11'],Hečbekas,15900,Benzinas / elektra,Automatinė,"1.8 l.,",60000,Šiauliai
+Toyota Corolla,['2020-01'],Universalas,16000,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",222735,Mažeikiai
+Toyota Corolla,['2019'],Sedanas,16200,Benzinas / elektra,Automatinė,"1.8 l.,         89  kW",43000,Alytus
+Toyota Corolla,['2019-06'],Sedanas,16600,Benzinas / elektra,Automatinė,"1.8 l.,",158100,Kaunas
+Toyota Corolla,['2020-12'],Hečbekas,16700,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",46600,Tauragė
+Toyota Corolla,['2021-04'],Hečbekas,17300,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",24900,Panevėžys
+Toyota Corolla,['2019-12'],Hečbekas,17400,Benzinas / elektra,Automatinė,"2.0 l.,         112  kW",31000,Panevėžys
+Toyota Corolla,['2020-10'],Universalas,17500,Benzinas / elektra,Automatinė,"1.8 l.,         76  kW",62000,Alytus
+Toyota Corolla,['2021-05'],Sedanas,17800,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",62700,"Rīga, Latvija"
+Toyota Corolla,['2020-01'],Sedanas,18500,Benzinas / elektra,Automatinė,"1.8 l.,",82000,Vilnius
+Toyota Corolla,['2020-08'],Hečbekas,18500,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",58000,Vilnius
+Toyota Corolla,['2020-01'],Universalas,18800,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",95650,Ignalina
+Toyota Corolla,['2020-08'],Hečbekas,19700,Benzinas / elektra,Automatinė,"2.0 l.,         112  kW",44000,Kaunas
+Toyota Corolla,['2022-05'],Hečbekas,19990,Benzinas / elektra,Automatinė,"1.8 l.,         90  kW",15301,Vilnius
+Toyota Corolla,['2020-03'],Hečbekas,20500,Benzinas / elektra,Automatinė,"2.0 l.,         112  kW",31500,Vilnius
+Toyota Corolla,['2022-10'],Hečbekas,20500,Benzinas / elektra,Automatinė,"1.8 l.,         72  kW",33300,"Rīga, Latvija"
+Toyota Corolla,['2019-10'],Hečbekas,21000,Benzinas / elektra,Automatinė,"2.0 l.,         132  kW",75590,Panevėžys

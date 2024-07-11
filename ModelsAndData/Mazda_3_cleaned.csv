@@ -1,0 +1,58 @@
+Title,Year,Type,Price,Engine type,Gearbox_type,Milage,City,Engine,Power
+Mazda 3,2015,Sedanas,3700,Dyzelinas,Mechaninė,251000,Telšiai,2200,110
+Mazda 3,2015,Sedanas,7100,Dyzelinas,Mechaninė,244125,Ukmergė,2200,110
+Mazda 3,2013,Hečbekas,7999,Dyzelinas,Automatinė,224219,Kretinga,2200,110
+Mazda 3,2019,Hečbekas,12900,Dyzelinas,Automatinė,202370,Tauragė,1800,85
+Mazda 3,2016,Hečbekas,14991,Benzinas,Automatinė,70450,Vilnius,2000,88
+Mazda 3,2019,Hečbekas,15551,Benzinas,Automatinė,83840,Klaipėda,2000,88
+Mazda 3,2019,Hečbekas,15551,Benzinas,Automatinė,102000,Klaipėda,2000,88
+Mazda 3,2020,Hečbekas,15950,Benzinas,Mechaninė,45784,Kaunas,2000,90
+Mazda 3,2019,Hečbekas,15991,Benzinas,Automatinė,105520,Vilnius,2000,88
+Mazda 3,2020,Sedanas,17990,Benzinas,Automatinė,63319,Kaunas,2500,137
+Mazda 3,2021,Hečbekas,19500,Benzinas / elektra,Automatinė,56400,Kaunas,1600,110
+Mazda 3,2019,Sedanas,22990,Benzinas,Automatinė,84000,Vilnius,2000,132
+Mazda 3,2009,Hečbekas,1200,Benzinas,Mechaninė,246000,Kaunas,1600,77
+Mazda 3,2005,Hečbekas,1350,Dyzelinas,Mechaninė,220000,Vilnius,1600,80
+Mazda 3,2007,Hečbekas,1400,Dyzelinas,Mechaninė,235736,Panevėžys,1600,80
+Mazda 3,2008,Sedanas,1600,Benzinas,Mechaninė,190000,Vilnius,1600,77
+Mazda 3,2008,Sedanas,2000,Benzinas,Mechaninė,100000,Telšiai,1600,77
+Mazda 3,2009,Hečbekas,2750,Benzinas,Automatinė,88000,Klaipėda,2000,110
+Mazda 3,2011,Hečbekas,2950,Dyzelinas,Mechaninė,240000,Tauragė,2200,136
+Mazda 3,2009,Hečbekas,3600,Benzinas,Mechaninė,209998,Šiauliai,1600,77
+Mazda 3,2011,Hečbekas,3950,Dyzelinas,Mechaninė,216000,Radviliškis,2200,110
+Mazda 3,2013,Hečbekas,4200,Dyzelinas,Mechaninė,200000,Šiauliai,2200,110
+Mazda 3,2009,Sedanas,4200,Benzinas,Mechaninė,132000,Rokiškis,1600,77
+Mazda 3,2014,Hečbekas,5850,Dyzelinas,Mechaninė,229000,Radviliškis,2200,110
+Mazda 3,2015,Hečbekas,7500,Benzinas,Automatinė,216380,Klaipėda,2000,88
+Mazda 3,2015,Hečbekas,8250,Benzinas,Automatinė,136000,Klaipėda,2000,88
+Mazda 3,2014,Hečbekas,8500,Benzinas,Mechaninė,87000,Marijampolė,2000,88
+Mazda 3,2013,Hečbekas,8600,Benzinas,Automatinė,144177,Klaipėda,2000,88
+Mazda 3,2016,Sedanas,8900,Dyzelinas,Automatinė,182000,Raseiniai,2200,110
+Mazda 3,2016,Sedanas,9900,Benzinas,Automatinė,155000,Vilnius,2000,120
+Mazda 3,2015,Hečbekas,11000,Benzinas,Automatinė,64050,Telšiai,2500,136
+Mazda 3,2017,Hečbekas,12900,Dyzelinas,Automatinė,42289,Panevėžys,1500,77
+Mazda 3,2022,Hečbekas,15900,Benzinas / elektra,Automatinė,146000,Vilnius,2000,137
+Mazda 3,2020,Sedanas,18200,Benzinas,Automatinė,63000,Šiauliai,2500,137
+Mazda 3,2004,Hečbekas,400,Benzinas,Mechaninė,280000,Šakiai,1600,77
+Mazda 3,2005,Kupė (Coupe),1000,Dyzelinas,Mechaninė,231800,Kretinga,1600,80
+Mazda 3,2005,Hečbekas,1400,Dyzelinas,Mechaninė,177000,Vilnius,1600,80
+Mazda 3,2008,Hečbekas,1600,Dyzelinas,Mechaninė,262700,Šiauliai,1600,80
+Mazda 3,2008,Hečbekas,2100,Dyzelinas,Mechaninė,259000,Klaipėda,1600,80
+Mazda 3,2007,Hečbekas,2600,Benzinas / dujos,Mechaninė,227000,Kaunas,2000,110
+Mazda 3,2010,Hečbekas,2900,Dyzelinas,Mechaninė,260000,Kaunas,1600,96
+Mazda 3,2009,Hečbekas,3850,Benzinas,Automatinė,220000,Vilnius,2000,110
+Mazda 3,2012,Hečbekas,3999,Dyzelinas,Mechaninė,290199,Kretinga,1600,85
+Mazda 3,2010,Hečbekas,4150,Dyzelinas,Mechaninė,212000,Klaipėda,1600,80
+Mazda 3,2014,Hečbekas,4300,Dyzelinas,Mechaninė,143738,Kaunas,2200,110
+Mazda 3,2010,Hečbekas,4400,Benzinas,Mechaninė,169000,Klaipėda,1600,77
+Mazda 3,2011,Hečbekas,4400,Dyzelinas,Mechaninė,197722,Kaunas,1600,85
+Mazda 3,2014,Hečbekas,4500,Dyzelinas,Mechaninė,201829,Kaunas,2200,110
+Mazda 3,2010,Hečbekas,4500,Benzinas,Mechaninė,200000,Šiauliai,1600,77
+Mazda 3,2014,Hečbekas,6500,Dyzelinas,Mechaninė,269000,Šiauliai,2200,110
+Mazda 3,2016,Hečbekas,8000,Benzinas,Automatinė,177500,Kaunas,2000,88
+Mazda 3,2015,Sedanas,8888,Benzinas,Automatinė,99969,Kėdainiai,2000,115
+Mazda 3,2017,Hečbekas,14000,Benzinas,Mechaninė,134521,Plungė,2000,88
+Mazda 3,2017,Hečbekas,17500,Benzinas,Automatinė,92150,Vilnius,2000,88
+Mazda 3,2020,Hečbekas,18800,Benzinas / elektra,Automatinė,37000,Marijampolė,2000,90
+Mazda 3,2022,Hečbekas,24900,Benzinas,Automatinė,16300,Vilnius,2500,137
+Mazda 3,2012,Sedanas,3550,Benzinas,Automatinė,157333,Kėdainiai,2000,110

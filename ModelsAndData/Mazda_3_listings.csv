@@ -1,0 +1,59 @@
+Title,Year,Type,Price,Engine type,Gearbox_type,Power_unit,Milage,City
+Mazda 3,['2015-04'],Sedanas,3700,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",251000,Telšiai
+Mazda 3,['2015'],Sedanas,7100,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",244125,Ukmergė
+Mazda 3,['2013-11'],Hečbekas,7999,Dyzelinas,Automatinė,"2.2 l.,         110  kW",224219,Kretinga
+Mazda 3,['2019-11'],Hečbekas,12900,Dyzelinas,Automatinė,"1.8 l.,         85  kW",202370,Tauragė
+Mazda 3,['2016-03'],Hečbekas,14991,Benzinas,Automatinė,"2.0 l.,         88  kW",70450,Vilnius
+Mazda 3,['2019-01'],Hečbekas,15551,Benzinas,Automatinė,"2.0 l.,         88  kW",83840,Klaipėda
+Mazda 3,['2019-01'],Hečbekas,15551,Benzinas,Automatinė,"2.0 l.,         88  kW",102000,Klaipėda
+Mazda 3,['2020-06'],Hečbekas,15950,Benzinas,Mechaninė,"2.0 l.,         90  kW",45784,Kaunas
+Mazda 3,['2019-01'],Hečbekas,15991,Benzinas,Automatinė,"2.0 l.,         88  kW",105520,Vilnius
+Mazda 3,['2020-11'],Sedanas,17990,Benzinas,Automatinė,"2.5 l.,         137  kW",63319,Kaunas
+Mazda 3,['2021-06'],Hečbekas,19500,Benzinas / elektra,Automatinė,"1.6 l.,         110  kW",56400,Kaunas
+Mazda 3,['2019-11'],Sedanas,22990,Benzinas,Automatinė,"2.0 l.,         132  kW",84000,Vilnius
+Mazda 3,['2009-02'],Hečbekas,1200,Benzinas,Mechaninė,"1.6 l.,         77  kW",246000,Kaunas
+Mazda 3,['2005-01'],Hečbekas,1350,Dyzelinas,Mechaninė,"1.6 l.,         80  kW",220000,Vilnius
+Mazda 3,['2007'],Hečbekas,1400,Dyzelinas,Mechaninė,"1.6 l.,         80  kW",235736,Panevėžys
+Mazda 3,['2008-08'],Sedanas,1600,Benzinas,Mechaninė,"1.6 l.,         77  kW",190000,Vilnius
+Mazda 3,['2008'],Sedanas,2000,Benzinas,Mechaninė,"1.6 l.,         77  kW",100000,Telšiai
+Mazda 3,['2009-12'],Hečbekas,2750,Benzinas,Automatinė,"2.0 l.,         110  kW",88000,Klaipėda
+Mazda 3,['2011-07'],Hečbekas,2950,Dyzelinas,Mechaninė,"2.2 l.,         136  kW",240000,Tauragė
+Mazda 3,['2009-07'],Hečbekas,3600,Benzinas,Mechaninė,"1.6 l.,         77  kW",209998,Šiauliai
+Mazda 3,['2011-01'],Hečbekas,3950,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",216000,Radviliškis
+Mazda 3,['2013-10'],Hečbekas,4200,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",200000,Šiauliai
+Mazda 3,['2009-12'],Sedanas,4200,Benzinas,Mechaninė,"1.6 l.,         77  kW",132000,Rokiškis
+Mazda 3,['2014-02'],Hečbekas,5850,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",229000,Radviliškis
+Mazda 3,['2015'],Hečbekas,7500,Benzinas,Automatinė,"2.0 l.,         88  kW",216380,Klaipėda
+Mazda 3,['2015-02'],Hečbekas,8250,Benzinas,Automatinė,"2.0 l.,         88  kW",136000,Klaipėda
+Mazda 3,['2014-11'],Hečbekas,8500,Benzinas,Mechaninė,"2.0 l.,         88  kW",87000,Marijampolė
+Mazda 3,['2013-11'],Hečbekas,8600,Benzinas,Automatinė,"2.0 l.,         88  kW",144177,Klaipėda
+Mazda 3,['2016-03'],Sedanas,8900,Dyzelinas,Automatinė,"2.2 l.,         110  kW",182000,Raseiniai
+Mazda 3,['2016-01'],Sedanas,9900,Benzinas,Automatinė,"2.0 l.,         120  kW",155000,Vilnius
+Mazda 3,['2015-01'],Hečbekas,11000,Benzinas,Automatinė,"2.5 l.,         136  kW",64050,Telšiai
+Mazda 3,['2017-10'],Hečbekas,12900,Dyzelinas,Automatinė,"1.5 l.,         77  kW",42289,Panevėžys
+Mazda 3,['2022-06'],Hečbekas,15900,Benzinas / elektra,Automatinė,"2.0 l.,         137  kW",146000,Vilnius
+Mazda 3,['2020-05'],Sedanas,18200,Benzinas,Automatinė,"2.5 l.,         137  kW",63000,Šiauliai
+Mazda 3,['2004'],Hečbekas,400,Benzinas,Mechaninė,"1.6 l.,         77  kW",280000,Šakiai
+Mazda 3,['2005-12'],Kupė (Coupe),1000,Dyzelinas,Mechaninė,"1.6 l.,         80  kW",231800,Kretinga
+Mazda 3,['2005-11'],Hečbekas,1400,Dyzelinas,Mechaninė,"1.6 l.,         80  kW",177000,Vilnius
+Mazda 3,['2008-05'],Hečbekas,1600,Dyzelinas,Mechaninė,"1.6 l.,         80  kW",262700,Šiauliai
+Mazda 3,['2008-11'],Hečbekas,2100,Dyzelinas,Mechaninė,"1.6 l.,         80  kW",259000,Klaipėda
+Mazda 3,['2007-04'],Hečbekas,2600,Benzinas / dujos,Mechaninė,"2.0 l.,         110  kW",227000,Kaunas
+Mazda 3,['2010'],Hečbekas,2900,Dyzelinas,Mechaninė,"1.6 l.,         96  kW",260000,Kaunas
+Mazda 3,['2009-12'],Hečbekas,3850,Benzinas,Automatinė,"2.0 l.,         110  kW",220000,Vilnius
+Mazda 3,['2012-10'],Hečbekas,3999,Dyzelinas,Mechaninė,"1.6 l.,         85  kW",290199,Kretinga
+Mazda 3,['2010-07'],Hečbekas,4150,Dyzelinas,Mechaninė,"1.6 l.,         80  kW",212000,Klaipėda
+Mazda 3,['2014-02'],Hečbekas,4300,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",143738,Kaunas
+Mazda 3,['2010-12'],Hečbekas,4400,Benzinas,Mechaninė,"1.6 l.,         77  kW",169000,Klaipėda
+Mazda 3,['2011-06'],Hečbekas,4400,Dyzelinas,Mechaninė,"1.6 l.,         85  kW",197722,Kaunas
+Mazda 3,['2014-06'],Hečbekas,4500,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",201829,Kaunas
+Mazda 3,['2010'],Hečbekas,4500,Benzinas,Mechaninė,"1.6 l.,         77  kW",200000,Šiauliai
+Mazda 3,['2014-03'],Hečbekas,6500,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",269000,Šiauliai
+Mazda 3,['2016'],Hečbekas,8000,Benzinas,Automatinė,"2.0 l.,         88  kW",177500,Kaunas
+Mazda 3,['2015'],Sedanas,8888,Benzinas,Automatinė,"2.0 l.,         115  kW",99969,Kėdainiai
+Mazda 3,['2016-08'],Hečbekas,12900,Benzinas,Automatinė,"2.0 l.,",82152,Utena
+Mazda 3,['2017-04'],Hečbekas,14000,Benzinas,Mechaninė,"2.0 l.,         88  kW",134521,Plungė
+Mazda 3,['2017'],Hečbekas,17500,Benzinas,Automatinė,"2.0 l.,         88  kW",92150,Vilnius
+Mazda 3,['2020-03'],Hečbekas,18800,Benzinas / elektra,Automatinė,"2.0 l.,         90  kW",37000,Marijampolė
+Mazda 3,['2022-09'],Hečbekas,24900,Benzinas,Automatinė,"2.5 l.,         137  kW",16300,Vilnius
+Mazda 3,['2012'],Sedanas,3550,Benzinas,Automatinė,"2.0 l.,         110  kW",157333,Kėdainiai

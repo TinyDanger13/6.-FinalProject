@@ -1,0 +1,97 @@
+Title,Year,Type,Price,Engine type,Gearbox_type,Power_unit,Milage,City
+Hyundai i30,['2012-01'],Hečbekas,1550,Benzinas,Mechaninė,"1.4 l.,         80  kW",155000,Šiauliai
+Hyundai i30,['2009-02'],Hečbekas,2000,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",345099,Panevėžys
+Hyundai i30,['2011-10'],Universalas,2390,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",220000,Marijampolė
+Hyundai i30,['2008-03'],Hečbekas,3199,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",209000,Klaipėda
+Hyundai i30,['2012'],Hečbekas,3200,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",272500,Klaipėda
+Hyundai i30,['2011-03'],Universalas,3250,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",254200,Kretinga
+Hyundai i30,['2013-11'],Hečbekas,4500,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",230000,Vilnius
+Hyundai i30,['2016-02'],Hečbekas,7200,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",230000,Marijampolė
+Hyundai i30,['2015-09'],Universalas,7350,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",161000,Kaunas
+Hyundai i30,['2021-03'],Universalas,11500,Dyzelinas,Automatinė,"1.6 l.,         85  kW",162500,Tauragė
+Hyundai i30,['2017-10'],Hečbekas,16900,Benzinas,Mechaninė,"2.0 l.,         202  kW",115000,Vilnius
+Hyundai i30,['2024-03'],Universalas,2495727730,Benzinas,Automatinė,"1.5 l.,         118  kW",20,Vilnius
+Hyundai i30,['2008-03'],Hečbekas,N/A,Benzinas,Automatinė,"1.6 l.,         90  kW",226435,"Harjumaa, Estija"
+Hyundai i30,['2008-12'],Hečbekas,1500,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",300000,Klaipėda
+Hyundai i30,['2008-10'],Hečbekas,1650,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",224433,Palanga
+Hyundai i30,['2009'],Hečbekas,1900,Benzinas,Mechaninė,"1.4 l.,         80  kW",107727,Vilnius
+Hyundai i30,['2008-01'],Hečbekas,2400,Dyzelinas,Mechaninė,"1.6 l.,         85  kW",244969,Kaunas
+Hyundai i30,['2009-11'],Hečbekas,2400,Dyzelinas,Mechaninė,"1.6 l.,         85  kW",214189,Šiauliai
+Hyundai i30,['2011-03'],Hečbekas,2450,Benzinas / dujos,Mechaninė,"1.4 l.,         80  kW",210000,Vilnius
+Hyundai i30,['2011-02'],Hečbekas,2550,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",349885,Klaipėda
+Hyundai i30,['2010-06'],Universalas,2600,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",219200,Utena
+Hyundai i30,['2008'],Universalas,2600,Benzinas,Mechaninė,"1.6 l.,         93  kW",282300,Kaunas
+Hyundai i30,['2011-01'],Hečbekas,2750,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",278000,Marijampolė
+Hyundai i30,['2007-10'],Hečbekas,2800,Benzinas,Mechaninė,"1.6 l.,         80  kW",151800,Panevėžys
+Hyundai i30,['2011-02'],Hečbekas,2900,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",400000,Kėdainiai
+Hyundai i30,['2012-11'],Hečbekas,3000,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",304000,Vilnius
+Hyundai i30,['2009'],Hečbekas,3400,Benzinas,Mechaninė,"1.4 l.,         80  kW",104476,Kaunas
+Hyundai i30,['2012-03'],Hečbekas,3450,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",300000,Vilnius
+Hyundai i30,['2011-04'],Universalas,3450,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",142000,Alytus
+Hyundai i30,['2013-10'],Hečbekas,3490,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",265700,Utena
+Hyundai i30,['2009-09'],Hečbekas,4200,Benzinas,Automatinė,"1.6 l.,         93  kW",115000,Šiauliai
+Hyundai i30,['2011-05'],Hečbekas,4200,Benzinas,Mechaninė,"1.4 l.,         80  kW",193202,Telšiai
+Hyundai i30,['2012'],Hečbekas,4500,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",200450,Radviliškis
+Hyundai i30,['2012-12'],Hečbekas,4500,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",139437,Vilnius
+Hyundai i30,['2013-06'],Hečbekas,4700,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",238000,Kaunas
+Hyundai i30,['2013-03'],Hečbekas,4750,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",178959,Kretinga
+Hyundai i30,['2019-07'],Universalas,5200,Dyzelinas,Mechaninė,"1.6 l.,         85  kW",147300,Panevėžys
+Hyundai i30,['2012-12'],Hečbekas,5500,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",218026,Panevėžys
+Hyundai i30,['2014-08'],Universalas,5500,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",216638,Kaunas
+Hyundai i30,['2013'],Universalas,5800,Benzinas,Automatinė,"1.6 l.,         99  kW",178464,Kuršėnai
+Hyundai i30,['2012-12'],Universalas,5900,Dyzelinas,Automatinė,"1.6 l.,         94  kW",260000,Šiauliai
+Hyundai i30,['2014-07'],Universalas,6200,Dyzelinas,Automatinė,"1.6 l.,         81  kW",256000,Kaunas
+Hyundai i30,['2016-06'],Universalas,6400,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",265240,Panevėžys
+Hyundai i30,['2015-09'],Hečbekas,6450,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",234000,Marijampolė
+Hyundai i30,['2015-04'],Universalas,6800,Dyzelinas,Mechaninė,"1.6 l.,         94  kW",180284,Kaunas
+Hyundai i30,['2016-10'],Universalas,7400,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",185000,Marijampolė
+Hyundai i30,['2022-04'],Hečbekas,7500,Benzinas,Automatinė,"1.0 l.,         88  kW",34700,Šiauliai
+Hyundai i30,['2016-12'],Hečbekas,7550,Dyzelinas,Automatinė,"1.6 l.,         100  kW",132000,Jurbarkas
+Hyundai i30,['2018-01'],Hečbekas,7999,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",140000,Marijampolė
+Hyundai i30,['2018-03'],Hečbekas,10500,Dyzelinas,Mechaninė,"1.6 l.,         70  kW",118422,Klaipėda
+Hyundai i30,['2022-03'],Universalas,14200,Dyzelinas,Automatinė,"1.6 l.,         85  kW",125000,Panevėžys
+Hyundai i30,['2022-09'],Universalas,15500,Benzinas,Automatinė,"1.0 l.,         88  kW",35100,Klaipėda
+Hyundai i30,['2019-06'],Hečbekas,18500,Benzinas,Mechaninė,"2.0 l.,         202  kW",94990,Vilnius
+Hyundai i30,['2018'],Hečbekas,19000,Benzinas,Mechaninė,"2.0 l.,         202  kW",71000,Vilnius
+Hyundai i30,['2008-06'],Hečbekas,1650,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",234080,Jonava
+Hyundai i30,['2008'],Hečbekas,1650,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",256000,Vilnius
+Hyundai i30,['2010-11'],Hečbekas,1950,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",222000,Klaipėda
+Hyundai i30,['2009-05'],Hečbekas,1950,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",268000,Vilnius
+Hyundai i30,['2010-10'],Universalas,2200,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",206000,Tauragė
+Hyundai i30,['2019-01'],Hečbekas,2200,Benzinas,Mechaninė,"1.0 l.,         88  kW",61946,Širvintos
+Hyundai i30,['2008-05'],Hečbekas,2300,Dyzelinas,Mechaninė,"1.6 l.,         85  kW",320555,Vilnius
+Hyundai i30,['2012-12'],Hečbekas,2450,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",375726,Kaunas
+Hyundai i30,['2010-04'],Hečbekas,2500,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",239615,Jonava
+Hyundai i30,['2008'],Hečbekas,2600,Dyzelinas,Mechaninė,"1.6 l.,         85  kW",380000,Vilnius
+Hyundai i30,['2011-03'],Hečbekas,2650,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",227008,Vilnius
+Hyundai i30,['2010-07'],Hečbekas,2650,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",173047,Šiauliai
+Hyundai i30,['2010-09'],Universalas,2750,Benzinas / dujos,Mechaninė,"1.4 l.,         80  kW",277680,Klaipėda
+Hyundai i30,['2013'],Hečbekas,2800,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",254000,Tauragė
+Hyundai i30,['2012-10'],Universalas,2800,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",205000,Kaunas
+Hyundai i30,['2011-04'],Universalas,2800,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",271000,Ukmergė
+Hyundai i30,['2011-05'],Universalas,2900,Dyzelinas,Mechaninė,"1.6 l.,         85  kW",165320,Šilutė
+Hyundai i30,['2009-10'],Universalas,2900,Dyzelinas,Automatinė,"1.6 l.,         85  kW",239843,Kuršėnai
+Hyundai i30,['2011-09'],Universalas,2950,Benzinas / dujos,Mechaninė,"1.4 l.,         80  kW",239359,Kaunas
+Hyundai i30,['2011-05'],Hečbekas,3000,Benzinas,Mechaninė,"1.4 l.,         80  kW",154551,Vilnius
+Hyundai i30,['2011-05'],Universalas,3000,Benzinas,Mechaninė,"1.4 l.,         80  kW",187000,Vilnius
+Hyundai i30,['2011-09'],Hečbekas,3100,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",233100,Vilnius
+Hyundai i30,['2015-01'],Hečbekas,3450,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",152976,Marijampolė
+Hyundai i30,['2011-05'],Hečbekas,3700,Benzinas,Mechaninė,"1.4 l.,         80  kW",160000,Prienai
+Hyundai i30,['2011-05'],Universalas,3750,Benzinas,Mechaninė,"1.4 l.,         80  kW",183245,Kretinga
+Hyundai i30,['2010'],Universalas,4100,Dyzelinas,Mechaninė,"1.6 l.,         66  kW",139500,Vilnius
+Hyundai i30,['2014-06'],Kupė (Coupe),4800,Dyzelinas,Mechaninė,"1.6 l.,         94  kW",230000,Marijampolė
+Hyundai i30,['2014'],Hečbekas,5000,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",210000,Kaunas
+Hyundai i30,['2013-07'],Universalas,5500,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",188000,Kaunas
+Hyundai i30,['2012-04'],Hečbekas,5900,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",166000,Radviliškis
+Hyundai i30,['2013-08'],Hečbekas,5950,Dyzelinas,Mechaninė,"1.4 l.,         66  kW",172200,Radviliškis
+Hyundai i30,['2013-02'],Hečbekas,6000,Benzinas,Mechaninė,"1.4 l.,         73  kW",126000,Klaipėda
+Hyundai i30,['2016-08'],Universalas,6450,Dyzelinas,Automatinė,"1.6 l.,         100  kW",275000,Kaunas
+Hyundai i30,['2015-09'],Hečbekas,6650,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",184000,Radviliškis
+Hyundai i30,['2017-07'],Universalas,6700,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",256000,Šiauliai
+Hyundai i30,['2018-03'],Hečbekas,7250,Dyzelinas,Mechaninė,"1.6 l.,         81  kW",88268,"Rīga, Latvija"
+Hyundai i30,['2017-03'],Hečbekas,10600,Dyzelinas,Automatinė,"1.6 l.,         100  kW",114000,"Rīga, Latvija"
+Hyundai i30,['2020-07'],Universalas,10999,Benzinas,Mechaninė,"1.0 l.,         88  kW",67000,Kaunas
+Hyundai i30,['2019'],Hečbekas,11999,Benzinas,Mechaninė,"1.0 l.,         88  kW",38000,Kaunas
+Hyundai i30,['2021-09'],Universalas,13750,Dyzelinas,Automatinė,"1.6 l.,         85  kW",178000,Šiauliai
+Hyundai i30,['2021-01'],Universalas,15990,Benzinas,Mechaninė,"1.5 l.,         118  kW",140000,Šiauliai
+Hyundai i30,['2019-07'],Hečbekas,18900,Benzinas,Mechaninė,"2.0 l.,         202  kW",91000,Šilalė

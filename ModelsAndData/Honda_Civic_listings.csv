@@ -1,0 +1,160 @@
+Title,Year,Type,Price,Engine type,Gearbox_type,Power_unit,Milage,City
+Honda Civic,['2006-08'],Hečbekas,2700,Benzinas,Mechaninė,"1.8 l.,         103  kW",268650,Vilnius
+Honda Civic,['2007-11'],Sedanas,2999,Benzinas / elektra,Automatinė,"1.3 l.,         70  kW",265000,Kazlų Rūda
+Honda Civic,['2008-10'],Hečbekas,3000,Benzinas,Mechaninė,"1.8 l.,         103  kW",212345,Šiauliai
+Honda Civic,['2008-01'],Hečbekas,3200,Benzinas,Automatinė,"1.8 l.,         103  kW",200220,Kaunas
+Honda Civic,['2008-10'],Hečbekas,3350,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",218000,Kaunas
+Honda Civic,['2009-11'],Sedanas,3750,Benzinas / elektra,Automatinė,"1.3 l.,         70  kW",247000,Ukmergė
+Honda Civic,['2008'],Hečbekas,4400,Benzinas,Mechaninė,"1.8 l.,         103  kW",317758,Klaipėda
+Honda Civic,['2011-12'],Hečbekas,4500,Benzinas / dujos,Automatinė,"1.3 l.,         73  kW",183500,Prienai
+Honda Civic,['2012-06'],Hečbekas,4500,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",249963,Vilnius
+Honda Civic,['2016-11'],Universalas,5000,Benzinas,Automatinė,"1.8 l.,         104  kW",121106,Klaipėda
+Honda Civic,['2012'],Hečbekas,5900,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",279230,Klaipėda
+Honda Civic,['2015-06'],Hečbekas,6900,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",128000,Šiauliai
+Honda Civic,['2014-06'],Universalas,7250,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",277265,Vilnius
+Honda Civic,['2014-03'],Hečbekas,7500,Benzinas,Mechaninė,"1.4 l.,         74  kW",192663,Marijampolė
+Honda Civic,['2012-07'],Hečbekas,8222,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",190000,Vilnius
+Honda Civic,['2015-10'],Hečbekas,8300,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",235485,Prienai
+Honda Civic,['2016-01'],Hečbekas,9950,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",138000,Radviliškis
+Honda Civic,['2019'],Sedanas,14900,Dyzelinas,Automatinė,"1.6 l.,         88  kW",162000,Panevėžys
+Honda Civic,['2021-07'],Hečbekas,17950,Benzinas,Automatinė,"1.5 l.,         132  kW",1653,Šiauliai
+Honda Civic,['2020-06'],Sedanas,18400,Benzinas,Mechaninė,"1.5 l.,         134  kW",33200,Vilnius
+Honda Civic,['2019-08'],Hečbekas,18900,Benzinas,Automatinė,"1.5 l.,         134  kW",71000,Vilnius
+Honda Civic,['2020-12'],Hečbekas,19991,Benzinas,Mechaninė,"1.5 l.,         134  kW",65400,Vilnius
+Honda Civic,['2016-11'],Hečbekas,N/A,Benzinas,Automatinė,"1.8 l.,         104  kW",135914,"Harjumaa, Estija"
+Honda Civic,['2004'],Hečbekas,300,Dyzelinas,Mechaninė,"1.7 l.,         73  kW",338000,Marijampolė
+Honda Civic,['2004'],Hečbekas,850,Benzinas,Mechaninė,"1.6 l.,         81  kW",253000,Kaunas
+Honda Civic,['2002-06'],Hečbekas,1000,Dyzelinas,Mechaninė,"1.7 l.,         74  kW",325000,Kaunas
+Honda Civic,['2004'],Hečbekas,1000,Dyzelinas,Mechaninė,"1.7 l.,         74  kW",299544,Vilnius
+Honda Civic,['2003-07'],Hečbekas,1100,Benzinas,Automatinė,"1.6 l.,         81  kW",238290,Kaunas
+Honda Civic,['2007-08'],Hečbekas,1150,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",277000,Vilnius
+Honda Civic,['2008-10'],Hečbekas,1350,Benzinas,Mechaninė,"1.3 l.,         61  kW",135000,Kaunas
+Honda Civic,['2004-05'],Hečbekas,1400,Dyzelinas,Mechaninė,"1.7 l.,         74  kW",302400,Kaunas
+Honda Civic,['2007'],Sedanas,1500,Benzinas,Automatinė,"1.8 l.,         103  kW",221334,Vilnius
+Honda Civic,['2005-10'],Hečbekas,1500,Dyzelinas,Mechaninė,"1.7 l.,         74  kW",202240,Ukmergė
+Honda Civic,['2004'],Sedanas,1550,Benzinas,Automatinė,"1.6 l.,         81  kW",169000,Vilnius
+Honda Civic,['2007-12'],Hečbekas,1600,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",257754,Ukmergė
+Honda Civic,['2008'],Kita,1700,Dyzelinas,Mechaninė,"2.2 l.,         104  kW",354157,Vilnius
+Honda Civic,['2008-07'],Sedanas,1700,Benzinas,Automatinė,"1.8 l.,         103  kW",259000,Vilnius
+Honda Civic,['2006'],Kupė (Coupe),1800,Benzinas,Mechaninė,"1.8 l.,         103  kW",275200,Telšiai
+Honda Civic,['2007-03'],Hečbekas,1800,Benzinas,Mechaninė,"1.4 l.,",215000,Vilnius
+Honda Civic,['2005-10'],Hečbekas,2000,Benzinas,Mechaninė,"1.6 l.,         81  kW",280000,Alytus
+Honda Civic,['2007-11'],Kupė (Coupe),2000,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",313530,Kaunas
+Honda Civic,['2006-07'],Hečbekas,2100,Dyzelinas,Mechaninė,"2.2 l.,         136  kW",270000,Šiauliai
+Honda Civic,['2006-12'],Hečbekas,2200,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",245000,Šiauliai
+Honda Civic,['2005'],Hečbekas,2300,Benzinas,Mechaninė,"1.3 l.,         61  kW",185000,Kaunas
+Honda Civic,['2007-03'],Hečbekas,2400,Benzinas,Mechaninė,"1.8 l.,         103  kW",172450,Kaunas
+Honda Civic,['2008'],Hečbekas,2499,Benzinas,Mechaninė,"1.3 l.,         61  kW",118377,Vilnius
+Honda Civic,['2006-07'],Sedanas,2500,Benzinas / elektra,Automatinė,"1.3 l.,         70  kW",20000,Klaipėda
+Honda Civic,['2007-10'],Hečbekas,2500,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",205785,Vilnius
+Honda Civic,['2007-08'],Hečbekas,2550,Benzinas,Mechaninė,"1.8 l.,         103  kW",171052,Vilnius
+Honda Civic,['2007-07'],Hečbekas,2600,Benzinas,Mechaninė,"1.8 l.,         108  kW",295100,Palanga
+Honda Civic,['2008-11'],Hečbekas,2600,Benzinas,Mechaninė,"1.8 l.,         103  kW",262000,Klaipėda
+Honda Civic,['2009-12'],Hečbekas,2700,Benzinas,Mechaninė,"1.3 l.,         74  kW",137000,Vilnius
+Honda Civic,['2009'],Hečbekas,2850,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",239400,Tauragė
+Honda Civic,['2007-03'],Hečbekas,2900,Benzinas,Mechaninė,"1.8 l.,         103  kW",125480,Vilnius
+Honda Civic,['2011'],Hečbekas,2900,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",290000,Tauragė
+Honda Civic,['2008'],Hečbekas,2900,Benzinas,Automatinė,"1.8 l.,         103  kW",257464,Vilkaviškis
+Honda Civic,['2007-07'],Hečbekas,2950,Benzinas,Mechaninė,"1.3 l.,         61  kW",226852,Prienai
+Honda Civic,['2013-06'],Hečbekas,2995,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",187600,Kaunas
+Honda Civic,['2007'],Hečbekas,2995,Benzinas,Automatinė,"1.3 l.,         61  kW",212824,Kretinga
+Honda Civic,['2008'],Sedanas,3000,Benzinas / elektra,Automatinė,"1.3 l.,         70  kW",190000,Kaunas
+Honda Civic,['2009-10'],Hečbekas,3200,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",289000,Vilnius
+Honda Civic,['2009'],Sedanas,3500,Benzinas / dujos,Automatinė,"1.8 l.,         103  kW",185000,Vilnius
+Honda Civic,['2008'],Hečbekas,3900,Benzinas,Mechaninė,"1.8 l.,         103  kW",162532,Tauragė
+Honda Civic,['2008'],Sedanas,4150,Benzinas / elektra,Automatinė,"1.3 l.,         70  kW",228000,Vilnius
+Honda Civic,['2007'],Hečbekas,4500,Benzinas,Automatinė,"1.8 l.,         103  kW",148000,Vilnius
+Honda Civic,['2012-01'],Hečbekas,4900,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",266200,Tauragė
+Honda Civic,['2011'],Hečbekas,4950,Benzinas,Mechaninė,"1.3 l.,         74  kW",220000,Šiauliai
+Honda Civic,['2011-03'],Hečbekas,5300,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",145000,Šiauliai
+Honda Civic,['2007-07'],Hečbekas,5600,Benzinas,Mechaninė,"2.0 l.,         148  kW",209141,Vilnius
+Honda Civic,['2013-04'],Hečbekas,6150,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",308808,Kaunas
+Honda Civic,['2013-06'],Hečbekas,6200,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",248000,Pasvalys
+Honda Civic,['2007'],Hečbekas,6800,Benzinas,Mechaninė,"2.0 l.,         148  kW",190500,Vilnius
+Honda Civic,['2019-03'],Hečbekas,7000,Benzinas,Mechaninė,"1.5 l.,         134  kW",60000,Tauragė
+Honda Civic,['2013-12'],Sedanas,7199,Benzinas,Automatinė,"1.8 l.,         104  kW",104000,Klaipėda
+Honda Civic,['2001'],Kupė (Coupe),7500,Benzinas,Mechaninė,"1.6 l.,         210  kW",278417,Kaunas
+Honda Civic,['2012-07'],Hečbekas,7999,Benzinas,Automatinė,"1.8 l.,         104  kW",103000,Panevėžys
+Honda Civic,['2012-05'],Hečbekas,7999,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",259000,Tauragė
+Honda Civic,['2014-08'],Universalas,9000,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",224520,Vilnius
+Honda Civic,['2014-09'],Hečbekas,9300,Benzinas,Mechaninė,"1.8 l.,         104  kW",45400,Vilnius
+Honda Civic,['2015-08'],Universalas,9999,Benzinas,Automatinė,"1.8 l.,         104  kW",175450,Klaipėda
+Honda Civic,['2019-07'],Hečbekas,12900,Benzinas,Mechaninė,"1.0 l.,         95  kW",140000,Šiauliai
+Honda Civic,['2019-09'],Hečbekas,15700,Benzinas,Automatinė,"1.0 l.,         96  kW",40200,Šiauliai
+Honda Civic,['2019-09'],Hečbekas,15999,Benzinas,Mechaninė,"1.5 l.,         134  kW",161950,Vilnius
+Honda Civic,['2019-03'],Hečbekas,17500,Benzinas,Automatinė,"1.0 l.,         95  kW",105400,Kaunas
+Honda Civic,['2019-02'],Sedanas,18000,Benzinas,Automatinė,"1.5 l.,         134  kW",61200,Vilnius
+Honda Civic,['2018-11'],Sedanas,19490,Dyzelinas,Automatinė,"1.6 l.,         88  kW",71000,Klaipėda
+Honda Civic,['2024'],Hečbekas,37440,Benzinas,Automatinė,"2.0 l.,         135  kW",8,Vilnius
+Honda Civic,['2024'],Hečbekas,58600,Benzinas,Mechaninė,"2.0 l.,         241  kW",10,Vilnius
+Honda Civic,['2005-10'],Kupė (Coupe),520,Dyzelinas,Mechaninė,"1.7 l.,         74  kW",300000,Pakruojis
+Honda Civic,['2003'],Hečbekas,550,Dyzelinas,Mechaninė,74  kW,302110,Kaišiadorys
+Honda Civic,['2002-03'],Hečbekas,600,Dyzelinas,Mechaninė,"1.7 l.,         74  kW",400000,Vilnius
+Honda Civic,['2003-04'],Hečbekas,600,Dyzelinas,Mechaninė,"1.7 l.,         74  kW",332232,Kaunas
+Honda Civic,['2004-06'],Hečbekas,999,Benzinas / dujos,Mechaninė,"1.6 l.,         81  kW",281100,Kaunas
+Honda Civic,['2005-09'],Hečbekas,1000,Benzinas,Mechaninė,"1.6 l.,         81  kW",275000,Vilnius
+Honda Civic,['2004-02'],Hečbekas,1000,Dyzelinas,Mechaninė,"1.7 l.,         74  kW",179631,Vilnius
+Honda Civic,['2004-12'],Hečbekas,1100,Benzinas,Mechaninė,"1.6 l.,         81  kW",285000,Vilnius
+Honda Civic,['2007-04'],Hečbekas,1200,Benzinas,Mechaninė,"1.8 l.,         103  kW",295325,Vilnius
+Honda Civic,['2007'],Hečbekas,1399,Benzinas / dujos,Mechaninė,"1.8 l.,         103  kW",168500,Klaipėda
+Honda Civic,['2006-12'],Hečbekas,1420,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",347000,Kaunas
+Honda Civic,['2008-03'],Hečbekas,1450,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",390000,Vilnius
+Honda Civic,['2008-10'],Hečbekas,1550,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",320000,Kėdainiai
+Honda Civic,['2007-11'],Hečbekas,1600,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",214000,Vilnius
+Honda Civic,['2008-12'],Hečbekas,1700,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",330000,Vilnius
+Honda Civic,['2006-01'],Sedanas,1750,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",253836,Vilnius
+Honda Civic,['2006-03'],Hečbekas,1750,Benzinas,Mechaninė,"1.3 l.,         61  kW",263000,Vilnius
+Honda Civic,['2007-11'],Hečbekas,1750,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",270780,Kaunas
+Honda Civic,['2008-07'],Hečbekas,1890,Benzinas,Mechaninė,"1.8 l.,         103  kW",121392,Ukmergė
+Honda Civic,['2006'],Sedanas,1900,Benzinas,Mechaninė,"1.8 l.,         103  kW",269800,Utena
+Honda Civic,['2008-03'],Hečbekas,1900,Benzinas,Mechaninė,"1.8 l.,         103  kW",295000,Vilnius
+Honda Civic,['2008-12'],Hečbekas,1900,Benzinas,Mechaninė,"1.3 l.,         61  kW",218000,Vilnius
+Honda Civic,['2006-02'],Hečbekas,2000,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",285765,Panevėžys
+Honda Civic,['2008-10'],Hečbekas,2000,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",337000,Alytus
+Honda Civic,['2007-03'],Hečbekas,2000,Benzinas,Mechaninė,"1.4 l.,         66  kW",233000,Vilnius
+Honda Civic,['2009-02'],Hečbekas,2050,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",203280,Vilnius
+Honda Civic,['2007-08'],Hečbekas,2100,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",265858,Šiauliai
+Honda Civic,['2007'],Sedanas,2100,Benzinas,Mechaninė,"1.8 l.,         103  kW",196341,Vilnius
+Honda Civic,['2007'],Sedanas,2100,Benzinas,Mechaninė,"1.8 l.,         103  kW",165000,Kaunas
+Honda Civic,['2008'],Sedanas,2200,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",385000,Vilnius
+Honda Civic,['2007-03'],Hečbekas,2350,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",366252,Vilnius
+Honda Civic,['2007-01'],Hečbekas,2400,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",307634,Vievis
+Honda Civic,['2008-02'],Hečbekas,2500,Benzinas / dujos,Mechaninė,"1.8 l.,         103  kW",400253,Vilnius
+Honda Civic,['2006-03'],Hečbekas,2700,Benzinas,Mechaninė,"1.8 l.,         103  kW",230000,Kaunas
+Honda Civic,['2008-02'],Hečbekas,2700,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",270000,Šiauliai
+Honda Civic,['2007-09'],Hečbekas,2900,Benzinas,Mechaninė,"1.8 l.,         103  kW",124100,Klaipėda
+Honda Civic,['2009'],Sedanas,2990,Benzinas,Automatinė,"1.3 l.,         70  kW",193958,Vilnius
+Honda Civic,['2008-01'],Hečbekas,3000,Benzinas,Automatinė,"1.8 l.,         103  kW",197381,Vilnius
+Honda Civic,['2006'],Hečbekas,3100,Benzinas,Automatinė,"1.4 l.,",199000,Tauragė
+Honda Civic,['2011-03'],Hečbekas,3150,Benzinas,Mechaninė,"1.3 l.,         73  kW",225337,Marijampolė
+Honda Civic,['2007-12'],Hečbekas,3199,Benzinas,Mechaninė,"1.8 l.,         103  kW",301001,Vilnius
+Honda Civic,['2006-01'],Hečbekas,3199,Dyzelinas,Mechaninė,"2.2 l.,         103  kW",185000,Trakai
+Honda Civic,['2007-06'],Sedanas,3499,Benzinas / elektra,Automatinė,"1.3 l.,",152170,Vilnius
+Honda Civic,['2010'],Sedanas,3900,Benzinas / dujos,Automatinė,"1.8 l.,",309000,Vilnius
+Honda Civic,['2010'],Sedanas,4300,Benzinas / elektra,Automatinė,"1.3 l.,         70  kW",255504,Vilnius
+Honda Civic,['2012-10'],Hečbekas,4500,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",189300,Vilnius
+Honda Civic,['2014-11'],Hečbekas,4500,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",250000,Vilnius
+Honda Civic,['2013-06'],Hečbekas,4690,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",221000,Klaipėda
+Honda Civic,['2012-02'],Hečbekas,4800,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",290000,Šiauliai
+Honda Civic,['2008-12'],Hečbekas,4890,Benzinas,Mechaninė,"1.3 l.,         61  kW",101000,Kretinga
+Honda Civic,['2007-07'],Hečbekas,4900,Benzinas,Automatinė,"1.8 l.,         103  kW",142000,Tauragė
+Honda Civic,['2012-09'],Hečbekas,6250,Benzinas / dujos,Mechaninė,"1.8 l.,         104  kW",163000,Vilnius
+Honda Civic,['2018-08'],Hečbekas,6395,Benzinas,Automatinė,"1.5 l.,         134  kW",144000,Kaunas
+Honda Civic,['2013'],Hečbekas,6400,Dyzelinas,Mechaninė,"2.2 l.,         110  kW",238000,Šiauliai
+Honda Civic,['2011-09'],Hečbekas,6550,Benzinas,Automatinė,"1.8 l.,         103  kW",117000,Kaunas
+Honda Civic,['2015-02'],Hečbekas,7200,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",106500,Vilnius
+Honda Civic,['2014'],Universalas,7400,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",173000,Vilnius
+Honda Civic,['2013'],Hečbekas,7900,Benzinas,Mechaninė,"1.8 l.,         104  kW",230000,Vilnius
+Honda Civic,['2016-06'],Hečbekas,8100,Benzinas,Mechaninė,"1.4 l.,         74  kW",212000,Kaunas
+Honda Civic,['2015-04'],Sedanas,8999,Benzinas,Automatinė,"1.8 l.,         104  kW",81000,Kėdainiai
+Honda Civic,['2014-07'],Hečbekas,9500,Benzinas,Automatinė,"1.8 l.,         104  kW",87156,Vilnius
+Honda Civic,['2016'],Kupė (Coupe),10150,Benzinas,Automatinė,"2.0 l.,         116  kW",157000,Klaipėda
+Honda Civic,['2017-07'],Hečbekas,10200,Benzinas,Mechaninė,"1.0 l.,         95  kW",224000,Tauragė
+Honda Civic,['2016-12'],Hečbekas,10900,Dyzelinas,Mechaninė,"1.6 l.,         88  kW",143000,"Rīga, Latvija"
+Honda Civic,['2017-10'],Kupė (Coupe),11800,Benzinas,Mechaninė,"1.5 l.,         153  kW",83000,Vilnius
+Honda Civic,['2018-07'],Sedanas,12550,Benzinas,Automatinė,"1.0 l.,         93  kW",84000,Marijampolė
+Honda Civic,['2018-09'],Hečbekas,12900,Benzinas,Automatinė,"1.0 l.,         95  kW",120124,Klaipėda
+Honda Civic,['2018-11'],Sedanas,12900,Dyzelinas,Automatinė,"1.6 l.,         88  kW",75000,Kaunas
+Honda Civic,['2003'],Hečbekas,14000,Benzinas,Mechaninė,"2.0 l.,         177  kW",121000,Vilnius
+Honda Civic,['2018-07'],Hečbekas,15400,Dyzelinas,Automatinė,"1.6 l.,         88  kW",126131,Kaunas
+Honda Civic,['2023-04'],Hečbekas,35900,Benzinas / elektra,Automatinė,"2.0 l.,         135  kW",14500,Vilnius
