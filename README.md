@@ -4,7 +4,7 @@
 
 When given the car parameters, the model predicts the car price based on AutoPlius site data for OpelAstra cars and it's direct competitors.
 
-## Poccess
+## Process
 
 [step by step](https://docs.google.com/spreadsheets/d/1YO4mmn-raGmYBzZeasGXwMAk03m2vs_TX9yg0nIk85g/edit?usp=sharing)
 
